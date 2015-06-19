@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.openphacts.data</groupId>
+    <artifactId>ops-ensembl-linksets</artifactId>
+    <version>77.2015-06-18-SNAPSHOT</version>
+  </parent>
+  <artifactId>ops-ensembl-all-linksets</artifactId>
+  <packaging>jar</packaging>
+  <name>Open PHACTS Ensembl all linksets (meta-dependency)</name>
+  <dependencies>
+    <dependency>
+      <groupId>${project.parent.groupId}</groupId>
+      <artifactId>ops-ensembl-homosapiens-linksets</artifactId>
+      <version>${project.parent.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.parent.groupId}</groupId>
+      <artifactId>ops-ensembl-musmusculus-linksets</artifactId>
+      <version>${project.parent.version}</version>
+    </dependency>
+  </dependencies>
+
+
+
+</project>

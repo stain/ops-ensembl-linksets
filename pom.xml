@@ -66,5 +66,6 @@ The Wellcome Trust Sanger Institute (WTSI) and the EMBL - European Bioinformatic
   <modules>
     <module>homosapiens</module>
     <module>musmusculus</module>
+    <module>all</module>
   </modules>
 </project>

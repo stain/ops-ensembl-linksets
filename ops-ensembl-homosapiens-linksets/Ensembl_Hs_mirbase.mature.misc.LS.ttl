@@ -1,0 +1,99 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSG00000265306
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014240> .
+
+ensembl:ENSG00000273848
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0025517> .
+
+ensembl:ENSG00000276648
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0025242> .
+
+ensembl:ENSG00000265612
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016910> .
+
+ensembl:ENSG00000266328
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016906> , <http://identifiers.org/mirbase.mature/MI0019149> .
+
+ensembl:ENSG00000275950
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .
+
+ensembl:ENSG00000264657
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014202> .
+
+ensembl:ENSG00000278132
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016910> .
+
+ensembl:ENSG00000265376
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014157> .
+
+ensembl:ENSG00000266299
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014131> .
+
+ensembl:ENSG00000265929
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0018174> .
+
+ensembl:ENSG00000274838
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022633> .
+
+ensembl:ENSG00000277284
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0025240> .
+
+ensembl:ENSG00000276933
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0024975> .
+
+ensembl:ENSG00000278269
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014131> .
+
+ensembl:ENSG00000275755
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .
+
+ensembl:ENSG00000266712
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014176> .
+
+ensembl:ENSG00000274908
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .
+
+ensembl:ENSG00000266458
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0015858> .
+
+ensembl:ENSG00000277379
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .
+
+ensembl:ENSG00000264781
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016908> .
+
+ensembl:ENSG00000264824
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0019115> .
+
+ensembl:ENSG00000274411
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .
+
+ensembl:ENSG00000216191
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0027288> .
+
+ensembl:ENSG00000276733
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0023618> .
+
+ensembl:ENSG00000275692
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .
+
+ensembl:ENSG00000263872
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016895> .
+
+ensembl:ENSG00000274147
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016908> .
+
+ensembl:ENSG00000264947
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0014223> .
+
+ensembl:ENSG00000265031
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0016059> .
+
+ensembl:ENSG00000275366
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0018174> .
+
+ensembl:ENSG00000274060
+        ensemblterms:MISC  <http://identifiers.org/mirbase.mature/MI0022559> , <http://identifiers.org/mirbase.mature/MI0031518> , <http://identifiers.org/mirbase.mature/MI0031517> , <http://identifiers.org/mirbase.mature/MI0031516> .

@@ -1,0 +1,4560 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSG00000138892
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658992> , <http://identifiers.org/unigene/Hs.731315> .
+
+ensembl:ENSG00000150893
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613456> , <http://identifiers.org/unigene/Hs.253994> .
+
+ensembl:ENSG00000187098
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.166017> , <http://identifiers.org/unigene/Hs.712759> .
+
+ensembl:ENSG00000113302
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.674> .
+
+ensembl:ENSG00000223454
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613459> .
+
+ensembl:ENSG00000275918
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.288520> .
+
+ensembl:ENSG00000235910
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.627813> .
+
+ensembl:ENSG00000278786
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000214544
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651178> .
+
+ensembl:ENSG00000254681
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569661> , <http://identifiers.org/unigene/Hs.559245> , <http://identifiers.org/unigene/Hs.569615> , <http://identifiers.org/unigene/Hs.619009> , <http://identifiers.org/unigene/Hs.589414> .
+
+ensembl:ENSG00000169031
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570065> .
+
+ensembl:ENSG00000206290
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000232849
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578064> .
+
+ensembl:ENSG00000171560
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.351593> , <http://identifiers.org/unigene/Hs.610326> .
+
+ensembl:ENSG00000204072
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631234> .
+
+ensembl:ENSG00000223939
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000211777
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494878> .
+
+ensembl:ENSG00000169297
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.268490> .
+
+ensembl:ENSG00000009830
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.132989> .
+
+ensembl:ENSG00000244128
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570689> .
+
+ensembl:ENSG00000135338
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617148> , <http://identifiers.org/unigene/Hs.21945> .
+
+ensembl:ENSG00000158169
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494529> , <http://identifiers.org/unigene/Hs.640256> .
+
+ensembl:ENSG00000256837
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.577718> .
+
+ensembl:ENSG00000188021
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.179309> , <http://identifiers.org/unigene/Hs.522668> , <http://identifiers.org/unigene/Hs.643854> .
+
+ensembl:ENSG00000224808
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.560675> .
+
+ensembl:ENSG00000169057
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.200716> , <http://identifiers.org/unigene/Hs.568124> .
+
+ensembl:ENSG00000096968
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656213> .
+
+ensembl:ENSG00000232991
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585967> .
+
+ensembl:ENSG00000162676
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.73172> .
+
+ensembl:ENSG00000238017
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737080> .
+
+ensembl:ENSG00000211844
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737695> .
+
+ensembl:ENSG00000134371
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.378996> , <http://identifiers.org/unigene/Hs.616020> , <http://identifiers.org/unigene/Hs.593874> .
+
+ensembl:ENSG00000229414
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.639425> .
+
+ensembl:ENSG00000104320
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.492208> , <http://identifiers.org/unigene/Hs.652803> .
+
+ensembl:ENSG00000237050
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000243646
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654593> .
+
+ensembl:ENSG00000117385
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720014> .
+
+ensembl:ENSG00000164414
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.423163> .
+
+ensembl:ENSG00000199407
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.657267> .
+
+ensembl:ENSG00000237522
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585046> .
+
+ensembl:ENSG00000243187
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.518430> .
+
+ensembl:ENSG00000125952
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.712926> , <http://identifiers.org/unigene/Hs.285354> .
+
+ensembl:ENSG00000120948
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731614> , <http://identifiers.org/unigene/Hs.300624> , <http://identifiers.org/unigene/Hs.640648> , <http://identifiers.org/unigene/Hs.638997> , <http://identifiers.org/unigene/Hs.635053> , <http://identifiers.org/unigene/Hs.635677> .
+
+ensembl:ENSG00000167207
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592072> , <http://identifiers.org/unigene/Hs.135201> .
+
+ensembl:ENSG00000184937
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.606557> , <http://identifiers.org/unigene/Hs.591980> .
+
+ensembl:ENSG00000100697
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613716> , <http://identifiers.org/unigene/Hs.87889> , <http://identifiers.org/unigene/Hs.595502> .
+
+ensembl:ENSG00000276550
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.744407> .
+
+ensembl:ENSG00000225120
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000225845
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000224736
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000231428
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.508690> .
+
+ensembl:ENSG00000257162
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578306> .
+
+ensembl:ENSG00000123870
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.551984> , <http://identifiers.org/unigene/Hs.579938> .
+
+ensembl:ENSG00000237548
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.644347> .
+
+ensembl:ENSG00000234515
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000199562
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662783> .
+
+ensembl:ENSG00000128340
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.517601> , <http://identifiers.org/unigene/Hs.627034> .
+
+ensembl:ENSG00000211772
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722418> .
+
+ensembl:ENSG00000170624
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.387207> , <http://identifiers.org/unigene/Hs.708327> .
+
+ensembl:ENSG00000010404
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.6795> , <http://identifiers.org/unigene/Hs.460960> , <http://identifiers.org/unigene/Hs.718003> .
+
+ensembl:ENSG00000112761
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.558428> , <http://identifiers.org/unigene/Hs.672389> .
+
+ensembl:ENSG00000138379
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.41565> , <http://identifiers.org/unigene/Hs.600092> .
+
+ensembl:ENSG00000178722
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.683866> .
+
+ensembl:ENSG00000164342
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.201600> , <http://identifiers.org/unigene/Hs.543332> , <http://identifiers.org/unigene/Hs.657724> , <http://identifiers.org/unigene/Hs.573031> .
+
+ensembl:ENSG00000271167
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.586406> , <http://identifiers.org/unigene/Hs.49127> .
+
+ensembl:ENSG00000276896
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.169639> .
+
+ensembl:ENSG00000021852
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.702980> , <http://identifiers.org/unigene/Hs.391835> .
+
+ensembl:ENSG00000214160
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.478481> .
+
+ensembl:ENSG00000124224
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633491> , <http://identifiers.org/unigene/Hs.386421> , <http://identifiers.org/unigene/Hs.473179> .
+
+ensembl:ENSG00000255571
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.608524> .
+
+ensembl:ENSG00000231049
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.447469> .
+
+ensembl:ENSG00000225760
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736589> .
+
+ensembl:ENSG00000243587
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.740959> , <http://identifiers.org/unigene/Hs.741082> .
+
+ensembl:ENSG00000235498
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000160213
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597201> .
+
+ensembl:ENSG00000172922
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718438> .
+
+ensembl:ENSG00000260811
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.554533> .
+
+ensembl:ENSG00000151303
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631010> .
+
+ensembl:ENSG00000107779
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.643960> , <http://identifiers.org/unigene/Hs.155764> , <http://identifiers.org/unigene/Hs.524477> .
+
+ensembl:ENSG00000156738
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.712553> , <http://identifiers.org/unigene/Hs.438040> .
+
+ensembl:ENSG00000076944
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.515104> .
+
+ensembl:ENSG00000166333
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.706355> .
+
+ensembl:ENSG00000230541
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613459> .
+
+ensembl:ENSG00000244203
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658538> .
+
+ensembl:ENSG00000111732
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.649749> , <http://identifiers.org/unigene/Hs.610125> , <http://identifiers.org/unigene/Hs.149342> .
+
+ensembl:ENSG00000101966
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.598042> , <http://identifiers.org/unigene/Hs.718045> , <http://identifiers.org/unigene/Hs.356076> , <http://identifiers.org/unigene/Hs.626277> .
+
+ensembl:ENSG00000234696
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.460993> , <http://identifiers.org/unigene/Hs.624904> .
+
+ensembl:ENSG00000243819
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.646340> , <http://identifiers.org/unigene/Hs.562978> .
+
+ensembl:ENSG00000117305
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.533444> , <http://identifiers.org/unigene/Hs.603409> , <http://identifiers.org/unigene/Hs.733861> .
+
+ensembl:ENSG00000213077
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.674403> , <http://identifiers.org/unigene/Hs.712114> .
+
+ensembl:ENSG00000152137
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.400095> .
+
+ensembl:ENSG00000237489
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.586638> , <http://identifiers.org/unigene/Hs.127394> .
+
+ensembl:ENSG00000054523
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614041> , <http://identifiers.org/unigene/Hs.619195> , <http://identifiers.org/unigene/Hs.713310> , <http://identifiers.org/unigene/Hs.713387> , <http://identifiers.org/unigene/Hs.635990> , <http://identifiers.org/unigene/Hs.734073> .
+
+ensembl:ENSG00000265123
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.670397> .
+
+ensembl:ENSG00000151623
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.163924> , <http://identifiers.org/unigene/Hs.606257> .
+
+ensembl:ENSG00000254542
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.621015> .
+
+ensembl:ENSG00000211638
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.703570> .
+
+ensembl:ENSG00000131844
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604789> , <http://identifiers.org/unigene/Hs.610060> .
+
+ensembl:ENSG00000152457
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656065> , <http://identifiers.org/unigene/Hs.737284> .
+
+ensembl:ENSG00000188388
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.454625> .
+
+ensembl:ENSG00000231983
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569266> .
+
+ensembl:ENSG00000102683
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.37167> .
+
+ensembl:ENSG00000165392
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631240> , <http://identifiers.org/unigene/Hs.632050> .
+
+ensembl:ENSG00000211945
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654305> .
+
+ensembl:ENSG00000120729
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.669093> , <http://identifiers.org/unigene/Hs.84665> .
+
+ensembl:ENSG00000103005
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.721189> .
+
+ensembl:ENSG00000223648
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.512292> .
+
+ensembl:ENSG00000211780
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.455888> .
+
+ensembl:ENSG00000106804
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494997> , <http://identifiers.org/unigene/Hs.611766> .
+
+ensembl:ENSG00000053747
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.606148> , <http://identifiers.org/unigene/Hs.436367> , <http://identifiers.org/unigene/Hs.667382> , <http://identifiers.org/unigene/Hs.685087> .
+
+ensembl:ENSG00000228659
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.573575> .
+
+ensembl:ENSG00000183444
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637933> .
+
+ensembl:ENSG00000276597
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.727334> .
+
+ensembl:ENSG00000101347
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580681> .
+
+ensembl:ENSG00000211793
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494972> .
+
+ensembl:ENSG00000241351
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.703751> , <http://identifiers.org/unigene/Hs.705096> , <http://identifiers.org/unigene/Hs.570231> , <http://identifiers.org/unigene/Hs.733067> , <http://identifiers.org/unigene/Hs.724352> .
+
+ensembl:ENSG00000234371
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581643> .
+
+ensembl:ENSG00000250733
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.283098> .
+
+ensembl:ENSG00000215148
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.647401> .
+
+ensembl:ENSG00000068831
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.99491> .
+
+ensembl:ENSG00000235405
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000106105
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.404321> .
+
+ensembl:ENSG00000238020
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581159> .
+
+ensembl:ENSG00000143627
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.670128> , <http://identifiers.org/unigene/Hs.95990> .
+
+ensembl:ENSG00000269118
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742655> .
+
+ensembl:ENSG00000243048
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.744832> .
+
+ensembl:ENSG00000228267
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720022> .
+
+ensembl:ENSG00000110324
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.599715> , <http://identifiers.org/unigene/Hs.504035> .
+
+ensembl:ENSG00000226049
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659766> .
+
+ensembl:ENSG00000233035
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000225234
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632518> .
+
+ensembl:ENSG00000100393
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.655211> , <http://identifiers.org/unigene/Hs.517517> .
+
+ensembl:ENSG00000227924
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656591> .
+
+ensembl:ENSG00000131238
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.3873> .
+
+ensembl:ENSG00000197445
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.371893> .
+
+ensembl:ENSG00000165704
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.412707> , <http://identifiers.org/unigene/Hs.733165> .
+
+ensembl:ENSG00000256167
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.636639> .
+
+ensembl:ENSG00000241431
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.625490> .
+
+ensembl:ENSG00000221817
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665421> , <http://identifiers.org/unigene/Hs.660082> .
+
+ensembl:ENSG00000114786
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.334707> .
+
+ensembl:ENSG00000231671
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568671> , <http://identifiers.org/unigene/Hs.568670> .
+
+ensembl:ENSG00000218739
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731159> , <http://identifiers.org/unigene/Hs.743972> .
+
+ensembl:ENSG00000074582
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.608972> , <http://identifiers.org/unigene/Hs.471401> .
+
+ensembl:ENSG00000205215
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739260> , <http://identifiers.org/unigene/Hs.449853> .
+
+ensembl:ENSG00000242094
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.655773> .
+
+ensembl:ENSG00000241457
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609392> .
+
+ensembl:ENSG00000232081
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.691155> .
+
+ensembl:ENSG00000196403
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.512487> .
+
+ensembl:ENSG00000085224
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.533526> , <http://identifiers.org/unigene/Hs.593008> , <http://identifiers.org/unigene/Hs.662060> .
+
+ensembl:ENSG00000204960
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.521326> .
+
+ensembl:ENSG00000115415
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.627802> , <http://identifiers.org/unigene/Hs.743244> .
+
+ensembl:ENSG00000119392
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.522418> , <http://identifiers.org/unigene/Hs.605284> .
+
+ensembl:ENSG00000102144
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.78771> , <http://identifiers.org/unigene/Hs.567505> , <http://identifiers.org/unigene/Hs.744944> .
+
+ensembl:ENSG00000275470
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528793> .
+
+ensembl:ENSG00000211659
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.713404> .
+
+ensembl:ENSG00000143390
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632472> , <http://identifiers.org/unigene/Hs.715129> .
+
+ensembl:ENSG00000254576
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.550274> .
+
+ensembl:ENSG00000254870
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.254042> , <http://identifiers.org/unigene/Hs.629173> , <http://identifiers.org/unigene/Hs.635791> .
+
+ensembl:ENSG00000227380
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000211966
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704420> , <http://identifiers.org/unigene/Hs.704421> , <http://identifiers.org/unigene/Hs.706505> .
+
+ensembl:ENSG00000218819
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651096> .
+
+ensembl:ENSG00000038427
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.653683> , <http://identifiers.org/unigene/Hs.643801> , <http://identifiers.org/unigene/Hs.715773> .
+
+ensembl:ENSG00000234797
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.710718> .
+
+ensembl:ENSG00000211713
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722423> .
+
+ensembl:ENSG00000057657
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.436023> , <http://identifiers.org/unigene/Hs.611098> .
+
+ensembl:ENSG00000134240
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592695> , <http://identifiers.org/unigene/Hs.59889> .
+
+ensembl:ENSG00000260760
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592019> , <http://identifiers.org/unigene/Hs.630552> .
+
+ensembl:ENSG00000163961
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.727426> , <http://identifiers.org/unigene/Hs.250648> , <http://identifiers.org/unigene/Hs.727293> .
+
+ensembl:ENSG00000211979
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.375094> , <http://identifiers.org/unigene/Hs.737487> .
+
+ensembl:ENSG00000259641
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.430824> .
+
+ensembl:ENSG00000236522
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000254896
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.680573> .
+
+ensembl:ENSG00000101115
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.517113> .
+
+ensembl:ENSG00000144285
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.740081> , <http://identifiers.org/unigene/Hs.22654> .
+
+ensembl:ENSG00000246095
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.745454> , <http://identifiers.org/unigene/Hs.697414> .
+
+ensembl:ENSG00000236076
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578016> .
+
+ensembl:ENSG00000228275
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.711860> .
+
+ensembl:ENSG00000257271
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.694484> .
+
+ensembl:ENSG00000226057
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690742> .
+
+ensembl:ENSG00000069974
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654978> .
+
+ensembl:ENSG00000227638
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738656> .
+
+ensembl:ENSG00000165240
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.619640> , <http://identifiers.org/unigene/Hs.496414> .
+
+ensembl:ENSG00000025708
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.685254> , <http://identifiers.org/unigene/Hs.180903> .
+
+ensembl:ENSG00000270141
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.436182> .
+
+ensembl:ENSG00000251636
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641891> .
+
+ensembl:ENSG00000233056
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.734651> , <http://identifiers.org/unigene/Hs.386685> .
+
+ensembl:ENSG00000211806
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495112> .
+
+ensembl:ENSG00000224440
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.98197> .
+
+ensembl:ENSG00000233528
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525107> .
+
+ensembl:ENSG00000249667
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.582017> .
+
+ensembl:ENSG00000160255
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.375957> .
+
+ensembl:ENSG00000187741
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.744083> .
+
+ensembl:ENSG00000226124
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.734578> .
+
+ensembl:ENSG00000211819
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495276> .
+
+ensembl:ENSG00000075624
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.692692> , <http://identifiers.org/unigene/Hs.596179> , <http://identifiers.org/unigene/Hs.675971> , <http://identifiers.org/unigene/Hs.731069> , <http://identifiers.org/unigene/Hs.601060> .
+
+ensembl:ENSG00000257057
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.97691> .
+
+ensembl:ENSG00000234485
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.562946> .
+
+ensembl:ENSG00000116785
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.709217> .
+
+ensembl:ENSG00000169174
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.18844> .
+
+ensembl:ENSG00000067836
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.459795> .
+
+ensembl:ENSG00000236463
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.183176> .
+
+ensembl:ENSG00000206105
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580879> .
+
+ensembl:ENSG00000274376
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739934> .
+
+ensembl:ENSG00000237585
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578031> .
+
+ensembl:ENSG00000222302
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665247> .
+
+ensembl:ENSG00000160882
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.184927> .
+
+ensembl:ENSG00000257137
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.667179> .
+
+ensembl:ENSG00000233456
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.577935> .
+
+ensembl:ENSG00000131187
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1321> .
+
+ensembl:ENSG00000260781
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641526> .
+
+ensembl:ENSG00000230970
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.572966> .
+
+ensembl:ENSG00000223731
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.717243> .
+
+ensembl:ENSG00000251324
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.127927> .
+
+ensembl:ENSG00000212856
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.158345> .
+
+ensembl:ENSG00000228448
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613459> .
+
+ensembl:ENSG00000136492
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.128903> .
+
+ensembl:ENSG00000269900
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.587502> .
+
+ensembl:ENSG00000102245
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592244> .
+
+ensembl:ENSG00000224853
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.212235> , <http://identifiers.org/unigene/Hs.738171> , <http://identifiers.org/unigene/Hs.671380> .
+
+ensembl:ENSG00000237665
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.616038> .
+
+ensembl:ENSG00000227899
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000228208
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.639504> , <http://identifiers.org/unigene/Hs.146774> .
+
+ensembl:ENSG00000177663
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.48353> .
+
+ensembl:ENSG00000175445
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.619595> , <http://identifiers.org/unigene/Hs.180878> .
+
+ensembl:ENSG00000215231
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665092> .
+
+ensembl:ENSG00000196352
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609950> , <http://identifiers.org/unigene/Hs.126517> .
+
+ensembl:ENSG00000236316
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.545701> .
+
+ensembl:ENSG00000117507
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.448988> .
+
+ensembl:ENSG00000276912
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000262785
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.670128> , <http://identifiers.org/unigene/Hs.95990> .
+
+ensembl:ENSG00000231865
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739675> , <http://identifiers.org/unigene/Hs.668988> .
+
+ensembl:ENSG00000234186
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.120831> .
+
+ensembl:ENSG00000129757
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604233> , <http://identifiers.org/unigene/Hs.727251> , <http://identifiers.org/unigene/Hs.106070> .
+
+ensembl:ENSG00000171316
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.681361> , <http://identifiers.org/unigene/Hs.20395> , <http://identifiers.org/unigene/Hs.713887> , <http://identifiers.org/unigene/Hs.609549> , <http://identifiers.org/unigene/Hs.733236> .
+
+ensembl:ENSG00000057593
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.36989> .
+
+ensembl:ENSG00000264216
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690737> .
+
+ensembl:ENSG00000232987
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.17666> .
+
+ensembl:ENSG00000226604
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.628031> .
+
+ensembl:ENSG00000224639
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720022> .
+
+ensembl:ENSG00000167711
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.159509> .
+
+ensembl:ENSG00000224933
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525086> .
+
+ensembl:ENSG00000149131
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.384598> .
+
+ensembl:ENSG00000065154
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.707174> .
+
+ensembl:ENSG00000157404
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.479754> , <http://identifiers.org/unigene/Hs.717339> .
+
+ensembl:ENSG00000163069
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.438953> , <http://identifiers.org/unigene/Hs.694498> , <http://identifiers.org/unigene/Hs.619287> .
+
+ensembl:ENSG00000183873
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614295> , <http://identifiers.org/unigene/Hs.517898> .
+
+ensembl:ENSG00000252361
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.687228> .
+
+ensembl:ENSG00000250868
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632286> , <http://identifiers.org/unigene/Hs.158346> .
+
+ensembl:ENSG00000240671
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574701> .
+
+ensembl:ENSG00000183161
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.610230> , <http://identifiers.org/unigene/Hs.605766> , <http://identifiers.org/unigene/Hs.632151> , <http://identifiers.org/unigene/Hs.736867> .
+
+ensembl:ENSG00000109861
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597318> , <http://identifiers.org/unigene/Hs.128065> .
+
+ensembl:ENSG00000175538
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.523899> .
+
+ensembl:ENSG00000229792
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569298> .
+
+ensembl:ENSG00000239736
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.559293> .
+
+ensembl:ENSG00000138029
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.515848> , <http://identifiers.org/unigene/Hs.637424> .
+
+ensembl:ENSG00000153363
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684944> .
+
+ensembl:ENSG00000236956
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569367> .
+
+ensembl:ENSG00000140092
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.707292> .
+
+ensembl:ENSG00000159189
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.602329> .
+
+ensembl:ENSG00000245148
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614291> .
+
+ensembl:ENSG00000244586
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581558> .
+
+ensembl:ENSG00000236703
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604125> .
+
+ensembl:ENSG00000226937
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.655124> .
+
+ensembl:ENSG00000239571
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720182> .
+
+ensembl:ENSG00000170122
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.607183> , <http://identifiers.org/unigene/Hs.740854> .
+
+ensembl:ENSG00000204290
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000150337
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.77424> , <http://identifiers.org/unigene/Hs.635062> , <http://identifiers.org/unigene/Hs.739894> , <http://identifiers.org/unigene/Hs.734377> .
+
+ensembl:ENSG00000233464
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.583045> .
+
+ensembl:ENSG00000261057
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.554116> , <http://identifiers.org/unigene/Hs.598366> .
+
+ensembl:ENSG00000196218
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.466664> .
+
+ensembl:ENSG00000002079
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631273> , <http://identifiers.org/unigene/Hs.641527> , <http://identifiers.org/unigene/Hs.553145> .
+
+ensembl:ENSG00000214076
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.382171> .
+
+ensembl:ENSG00000249069
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.559024> .
+
+ensembl:ENSG00000189067
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.459940> , <http://identifiers.org/unigene/Hs.593517> .
+
+ensembl:ENSG00000223458
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.671216> .
+
+ensembl:ENSG00000113600
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654443> .
+
+ensembl:ENSG00000256650
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.675730> .
+
+ensembl:ENSG00000107736
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.681451> , <http://identifiers.org/unigene/Hs.656032> .
+
+ensembl:ENSG00000219565
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.626676> .
+
+ensembl:ENSG00000231860
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000171564
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.300774> .
+
+ensembl:ENSG00000057294
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.164384> , <http://identifiers.org/unigene/Hs.597742> .
+
+ensembl:ENSG00000100342
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.114309> , <http://identifiers.org/unigene/Hs.607747> .
+
+ensembl:ENSG00000106462
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.444082> .
+
+ensembl:ENSG00000233797
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571077> .
+
+ensembl:ENSG00000170927
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662050> .
+
+ensembl:ENSG00000253883
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631006> .
+
+ensembl:ENSG00000151067
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.118262> , <http://identifiers.org/unigene/Hs.697137> , <http://identifiers.org/unigene/Hs.690010> .
+
+ensembl:ENSG00000135636
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.252180> .
+
+ensembl:ENSG00000223525
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.688745> .
+
+ensembl:ENSG00000090674
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631858> .
+
+ensembl:ENSG00000235050
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.485588> .
+
+ensembl:ENSG00000261609
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.562643> , <http://identifiers.org/unigene/Hs.598158> , <http://identifiers.org/unigene/Hs.374278> , <http://identifiers.org/unigene/Hs.112569> , <http://identifiers.org/unigene/Hs.716652> .
+
+ensembl:ENSG00000229186
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.671466> .
+
+ensembl:ENSG00000248334
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.678561> .
+
+ensembl:ENSG00000081052
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.591645> , <http://identifiers.org/unigene/Hs.418040> .
+
+ensembl:ENSG00000273688
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000239677
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733334> .
+
+ensembl:ENSG00000201104
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662783> .
+
+ensembl:ENSG00000128710
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.123070> .
+
+ensembl:ENSG00000102805
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665879> , <http://identifiers.org/unigene/Hs.30213> .
+
+ensembl:ENSG00000167985
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609629> .
+
+ensembl:ENSG00000112365
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.622136> , <http://identifiers.org/unigene/Hs.409876> .
+
+ensembl:ENSG00000135956
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.164303> , <http://identifiers.org/unigene/Hs.715688> .
+
+ensembl:ENSG00000231646
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.397593> .
+
+ensembl:ENSG00000235076
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.680123> .
+
+ensembl:ENSG00000023839
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.368243> .
+
+ensembl:ENSG00000198836
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.732456> , <http://identifiers.org/unigene/Hs.594504> , <http://identifiers.org/unigene/Hs.745218> .
+
+ensembl:ENSG00000219186
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.380638> .
+
+ensembl:ENSG00000159184
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.66731> .
+
+ensembl:ENSG00000224242
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000250889
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.582288> .
+
+ensembl:ENSG00000187796
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.694071> .
+
+ensembl:ENSG00000205025
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.559938> , <http://identifiers.org/unigene/Hs.577126> .
+
+ensembl:ENSG00000167580
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617642> , <http://identifiers.org/unigene/Hs.130730> .
+
+ensembl:ENSG00000159197
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736062> .
+
+ensembl:ENSG00000104884
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.487294> , <http://identifiers.org/unigene/Hs.663234> .
+
+ensembl:ENSG00000227801
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000228451
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.586388> .
+
+ensembl:ENSG00000260962
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.48706> .
+
+ensembl:ENSG00000226486
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.573682> .
+
+ensembl:ENSG00000230604
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658199> .
+
+ensembl:ENSG00000211750
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.740166> .
+
+ensembl:ENSG00000159251
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.118127> .
+
+ensembl:ENSG00000215105
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.710418> .
+
+ensembl:ENSG00000197882
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684491> .
+
+ensembl:ENSG00000229320
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.595594> .
+
+ensembl:ENSG00000122512
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632637> , <http://identifiers.org/unigene/Hs.597070> .
+
+ensembl:ENSG00000235628
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.671138> .
+
+ensembl:ENSG00000230452
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580474> .
+
+ensembl:ENSG00000168646
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708547> , <http://identifiers.org/unigene/Hs.156527> .
+
+ensembl:ENSG00000233498
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000166257
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.4865> , <http://identifiers.org/unigene/Hs.595649> .
+
+ensembl:ENSG00000080815
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.717379> , <http://identifiers.org/unigene/Hs.594659> , <http://identifiers.org/unigene/Hs.3260> , <http://identifiers.org/unigene/Hs.715058> .
+
+ensembl:ENSG00000200942
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638709> .
+
+ensembl:ENSG00000229599
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.143791> .
+
+ensembl:ENSG00000233080
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581009> .
+
+ensembl:ENSG00000176289
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718003> .
+
+ensembl:ENSG00000241347
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637262> .
+
+ensembl:ENSG00000230937
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.510543> .
+
+ensembl:ENSG00000227128
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.547899> , <http://identifiers.org/unigene/Hs.386143> .
+
+ensembl:ENSG00000170935
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.522750> .
+
+ensembl:ENSG00000178726
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.2030> .
+
+ensembl:ENSG00000274498
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000144554
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.208388> , <http://identifiers.org/unigene/Hs.682425> .
+
+ensembl:ENSG00000262001
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.729893> , <http://identifiers.org/unigene/Hs.659053> .
+
+ensembl:ENSG00000102034
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.623574> , <http://identifiers.org/unigene/Hs.271940> .
+
+ensembl:ENSG00000224642
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000247473
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.605348> .
+
+ensembl:ENSG00000230772
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.516951> .
+
+ensembl:ENSG00000249910
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742591> .
+
+ensembl:ENSG00000211843
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.512087> .
+
+ensembl:ENSG00000227435
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000110395
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.504096> .
+
+ensembl:ENSG00000229194
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000230238
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000235708
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000229666
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.672435> .
+
+ensembl:ENSG00000186847
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654380> .
+
+ensembl:ENSG00000232510
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000171105
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.694195> .
+
+ensembl:ENSG00000187791
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571602> .
+
+ensembl:ENSG00000110921
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.130607> , <http://identifiers.org/unigene/Hs.710615> .
+
+ensembl:ENSG00000108946
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.608196> , <http://identifiers.org/unigene/Hs.280342> .
+
+ensembl:ENSG00000230099
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737002> .
+
+ensembl:ENSG00000184224
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.382074> .
+
+ensembl:ENSG00000172062
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.535788> .
+
+ensembl:ENSG00000239218
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.675819> .
+
+ensembl:ENSG00000109103
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.410455> .
+
+ensembl:ENSG00000234767
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578051> .
+
+ensembl:ENSG00000229287
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.735879> .
+
+ensembl:ENSG00000170876
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.517817> .
+
+ensembl:ENSG00000007312
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.89575> .
+
+ensembl:ENSG00000211949
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.629262> .
+
+ensembl:ENSG00000237854
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.668582> .
+
+ensembl:ENSG00000120555
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.406568> .
+
+ensembl:ENSG00000205100
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.553481> .
+
+ensembl:ENSG00000232131
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.590370> .
+
+ensembl:ENSG00000227835
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.493311> , <http://identifiers.org/unigene/Hs.637384> , <http://identifiers.org/unigene/Hs.641285> .
+
+ensembl:ENSG00000105227
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.205457> .
+
+ensembl:ENSG00000182326
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.458355> .
+
+ensembl:ENSG00000224508
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000240233
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666791> .
+
+ensembl:ENSG00000272734
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656800> , <http://identifiers.org/unigene/Hs.714477> .
+
+ensembl:ENSG00000235649
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.590864> .
+
+ensembl:ENSG00000223487
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.679741> .
+
+ensembl:ENSG00000092054
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733442> , <http://identifiers.org/unigene/Hs.655129> , <http://identifiers.org/unigene/Hs.719946> .
+
+ensembl:ENSG00000235943
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.146732> .
+
+ensembl:ENSG00000064933
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.111749> .
+
+ensembl:ENSG00000186788
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.522246> .
+
+ensembl:ENSG00000166278
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.408903> .
+
+ensembl:ENSG00000092067
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.558308> .
+
+ensembl:ENSG00000005961
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.411312> .
+
+ensembl:ENSG00000213228
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739428> , <http://identifiers.org/unigene/Hs.631738> .
+
+ensembl:ENSG00000103876
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.73875> .
+
+ensembl:ENSG00000175701
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.128499> .
+
+ensembl:ENSG00000111424
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.524368> , <http://identifiers.org/unigene/Hs.597853> .
+
+ensembl:ENSG00000116688
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.376681> .
+
+ensembl:ENSG00000230246
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739384> .
+
+ensembl:ENSG00000250585
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.171251> .
+
+ensembl:ENSG00000150281
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.483811> .
+
+ensembl:ENSG00000236660
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.694406> .
+
+ensembl:ENSG00000150753
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1600> .
+
+ensembl:ENSG00000099822
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.124161> .
+
+ensembl:ENSG00000140905
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.546256> , <http://identifiers.org/unigene/Hs.488363> , <http://identifiers.org/unigene/Hs.730564> .
+
+ensembl:ENSG00000198380
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580300> , <http://identifiers.org/unigene/Hs.615249> , <http://identifiers.org/unigene/Hs.715117> , <http://identifiers.org/unigene/Hs.626459> .
+
+ensembl:ENSG00000205918
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718278> .
+
+ensembl:ENSG00000239453
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581288> .
+
+ensembl:ENSG00000254959
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.660192> .
+
+ensembl:ENSG00000119535
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.524517> .
+
+ensembl:ENSG00000276975
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742190> , <http://identifiers.org/unigene/Hs.742081> , <http://identifiers.org/unigene/Hs.741984> , <http://identifiers.org/unigene/Hs.650820> , <http://identifiers.org/unigene/Hs.742278> .
+
+ensembl:ENSG00000228325
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730170> .
+
+ensembl:ENSG00000242085
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.685120> .
+
+ensembl:ENSG00000259717
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.252904> .
+
+ensembl:ENSG00000227510
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.558805> , <http://identifiers.org/unigene/Hs.638393> .
+
+ensembl:ENSG00000227051
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733033> , <http://identifiers.org/unigene/Hs.594525> , <http://identifiers.org/unigene/Hs.6434> , <http://identifiers.org/unigene/Hs.732151> .
+
+ensembl:ENSG00000229741
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000113263
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.558348> .
+
+ensembl:ENSG00000067182
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.279594> .
+
+ensembl:ENSG00000163632
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.506386> .
+
+ensembl:ENSG00000231907
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.689461> .
+
+ensembl:ENSG00000180644
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.2200> .
+
+ensembl:ENSG00000241043
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.664395> .
+
+ensembl:ENSG00000258469
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654725> .
+
+ensembl:ENSG00000250425
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.404129> .
+
+ensembl:ENSG00000085063
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.278573> , <http://identifiers.org/unigene/Hs.610292> .
+
+ensembl:ENSG00000155850
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.618625> , <http://identifiers.org/unigene/Hs.302738> , <http://identifiers.org/unigene/Hs.711782> .
+
+ensembl:ENSG00000039068
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.461086> .
+
+ensembl:ENSG00000230899
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.573643> .
+
+ensembl:ENSG00000252656
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659641> .
+
+ensembl:ENSG00000211792
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494963> .
+
+ensembl:ENSG00000245711
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570980> .
+
+ensembl:ENSG00000236766
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000227856
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737080> .
+
+ensembl:ENSG00000211717
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.547739> .
+
+ensembl:ENSG00000222386
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.624755> .
+
+ensembl:ENSG00000123191
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.492280> .
+
+ensembl:ENSG00000135100
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654455> .
+
+ensembl:ENSG00000221571
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.562110> .
+
+ensembl:ENSG00000261326
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.603434> , <http://identifiers.org/unigene/Hs.99836> .
+
+ensembl:ENSG00000235492
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.576501> .
+
+ensembl:ENSG00000101400
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.31121> .
+
+ensembl:ENSG00000204025
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.745438> , <http://identifiers.org/unigene/Hs.247868> .
+
+ensembl:ENSG00000154767
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.475538> .
+
+ensembl:ENSG00000165471
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.499674> .
+
+ensembl:ENSG00000164362
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.492203> .
+
+ensembl:ENSG00000198793
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659634> , <http://identifiers.org/unigene/Hs.338207> .
+
+ensembl:ENSG00000230419
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000237470
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.723069> .
+
+ensembl:ENSG00000232931
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.503463> .
+
+ensembl:ENSG00000096996
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.567294> , <http://identifiers.org/unigene/Hs.735696> .
+
+ensembl:ENSG00000179611
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.572253> .
+
+ensembl:ENSG00000011600
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.515369> .
+
+ensembl:ENSG00000173757
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.595276> , <http://identifiers.org/unigene/Hs.745355> .
+
+ensembl:ENSG00000221891
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638557> .
+
+ensembl:ENSG00000165409
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.160411> .
+
+ensembl:ENSG00000225540
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656152> .
+
+ensembl:ENSG00000230267
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722568> , <http://identifiers.org/unigene/Hs.567926> , <http://identifiers.org/unigene/Hs.618833> .
+
+ensembl:ENSG00000237702
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.511724> .
+
+ensembl:ENSG00000207138
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.150823> .
+
+ensembl:ENSG00000237790
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580486> .
+
+ensembl:ENSG00000101986
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.678497> , <http://identifiers.org/unigene/Hs.159546> .
+
+ensembl:ENSG00000221829
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.591084> .
+
+ensembl:ENSG00000135446
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.95577> .
+
+ensembl:ENSG00000248131
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.552273> .
+
+ensembl:ENSG00000232717
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742590> .
+
+ensembl:ENSG00000211898
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.510635> .
+
+ensembl:ENSG00000185055
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.719432> .
+
+ensembl:ENSG00000237550
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.741045> .
+
+ensembl:ENSG00000275887
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000239946
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.612732> .
+
+ensembl:ENSG00000204118
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617486> .
+
+ensembl:ENSG00000166126
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534494> , <http://identifiers.org/unigene/Hs.709485> .
+
+ensembl:ENSG00000055118
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.647099> .
+
+ensembl:ENSG00000001626
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.489786> , <http://identifiers.org/unigene/Hs.661104> , <http://identifiers.org/unigene/Hs.604618> .
+
+ensembl:ENSG00000083093
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.444664> .
+
+ensembl:ENSG00000129170
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.83577> .
+
+ensembl:ENSG00000095002
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597656> .
+
+ensembl:ENSG00000232565
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656152> .
+
+ensembl:ENSG00000269058
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.304020> .
+
+ensembl:ENSG00000084674
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.120759> .
+
+ensembl:ENSG00000163359
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.233240> .
+
+ensembl:ENSG00000141349
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.294005> .
+
+ensembl:ENSG00000224511
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.560167> .
+
+ensembl:ENSG00000109132
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.87202> .
+
+ensembl:ENSG00000201221
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.671326> .
+
+ensembl:ENSG00000213930
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.522090> , <http://identifiers.org/unigene/Hs.704103> , <http://identifiers.org/unigene/Hs.714098> , <http://identifiers.org/unigene/Hs.678181> .
+
+ensembl:ENSG00000161270
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.122186> , <http://identifiers.org/unigene/Hs.569951> .
+
+ensembl:ENSG00000210144
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.717006> .
+
+ensembl:ENSG00000250446
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.582293> .
+
+ensembl:ENSG00000139687
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.605217> , <http://identifiers.org/unigene/Hs.408528> .
+
+ensembl:ENSG00000227611
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736213> , <http://identifiers.org/unigene/Hs.562580> .
+
+ensembl:ENSG00000275255
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000239314
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.278908> .
+
+ensembl:ENSG00000180438
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739211> , <http://identifiers.org/unigene/Hs.529180> .
+
+ensembl:ENSG00000196289
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731347> .
+
+ensembl:ENSG00000198001
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.138499> .
+
+ensembl:ENSG00000042781
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.655974> , <http://identifiers.org/unigene/Hs.738762> .
+
+ensembl:ENSG00000117560
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.2007> .
+
+ensembl:ENSG00000197617
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.553686> .
+
+ensembl:ENSG00000189357
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722630> .
+
+ensembl:ENSG00000187686
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.640102> .
+
+ensembl:ENSG00000101981
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.522798> .
+
+ensembl:ENSG00000155657
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.134602> , <http://identifiers.org/unigene/Hs.736412> , <http://identifiers.org/unigene/Hs.736806> , <http://identifiers.org/unigene/Hs.609542> , <http://identifiers.org/unigene/Hs.738948> .
+
+ensembl:ENSG00000211805
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.508885> .
+
+ensembl:ENSG00000234636
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.460579> .
+
+ensembl:ENSG00000104774
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.356769> .
+
+ensembl:ENSG00000110651
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.54457> .
+
+ensembl:ENSG00000232253
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000211818
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495255> .
+
+ensembl:ENSG00000232000
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.683391> .
+
+ensembl:ENSG00000235299
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.657596> .
+
+ensembl:ENSG00000244257
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.559245> .
+
+ensembl:ENSG00000271288
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737645> , <http://identifiers.org/unigene/Hs.638697> .
+
+ensembl:ENSG00000220323
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.595570> .
+
+ensembl:ENSG00000229223
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000118762
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604393> , <http://identifiers.org/unigene/Hs.181272> .
+
+ensembl:ENSG00000226696
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528793> .
+
+ensembl:ENSG00000166147
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.596842> , <http://identifiers.org/unigene/Hs.667213> , <http://identifiers.org/unigene/Hs.733694> , <http://identifiers.org/unigene/Hs.591133> , <http://identifiers.org/unigene/Hs.146447> .
+
+ensembl:ENSG00000226443
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.647686> .
+
+ensembl:ENSG00000137992
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.709187> .
+
+ensembl:ENSG00000117400
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.82906> .
+
+ensembl:ENSG00000109099
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.619083> , <http://identifiers.org/unigene/Hs.372031> .
+
+ensembl:ENSG00000131885
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.565076> , <http://identifiers.org/unigene/Hs.711632> .
+
+ensembl:ENSG00000184274
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.171428> .
+
+ensembl:ENSG00000276777
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568842> .
+
+ensembl:ENSG00000170100
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.744608> , <http://identifiers.org/unigene/Hs.731138> , <http://identifiers.org/unigene/Hs.647385> , <http://identifiers.org/unigene/Hs.742743> , <http://identifiers.org/unigene/Hs.54713> .
+
+ensembl:ENSG00000237331
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637877> .
+
+ensembl:ENSG00000147224
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.56> .
+
+ensembl:ENSG00000233695
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.369201> .
+
+ensembl:ENSG00000232039
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690009> .
+
+ensembl:ENSG00000214041
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718912> .
+
+ensembl:ENSG00000224238
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.689536> .
+
+ensembl:ENSG00000278030
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.546371> , <http://identifiers.org/unigene/Hs.728016> .
+
+ensembl:ENSG00000258704
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.172577> .
+
+ensembl:ENSG00000105976
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.619431> , <http://identifiers.org/unigene/Hs.132966> .
+
+ensembl:ENSG00000236488
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000121879
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.627302> , <http://identifiers.org/unigene/Hs.633537> , <http://identifiers.org/unigene/Hs.553498> , <http://identifiers.org/unigene/Hs.715194> , <http://identifiers.org/unigene/Hs.85701> , <http://identifiers.org/unigene/Hs.620758> .
+
+ensembl:ENSG00000232893
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614004> .
+
+ensembl:ENSG00000167323
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.611789> .
+
+ensembl:ENSG00000273880
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000278768
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739461> , <http://identifiers.org/unigene/Hs.667551> .
+
+ensembl:ENSG00000212855
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.158345> .
+
+ensembl:ENSG00000160654
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.2259> .
+
+ensembl:ENSG00000234871
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.243488> .
+
+ensembl:ENSG00000121933
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.281342> .
+
+ensembl:ENSG00000236083
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.12509> .
+
+ensembl:ENSG00000235699
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.98197> , <http://identifiers.org/unigene/Hs.592233> .
+
+ensembl:ENSG00000198734
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.30054> .
+
+ensembl:ENSG00000223284
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.670700> .
+
+ensembl:ENSG00000224318
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737185> .
+
+ensembl:ENSG00000255073
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.732346> .
+
+ensembl:ENSG00000260094
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.539621> .
+
+ensembl:ENSG00000021826
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.149252> .
+
+ensembl:ENSG00000211813
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.508887> .
+
+ensembl:ENSG00000228055
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.443694> .
+
+ensembl:ENSG00000196364
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738703> , <http://identifiers.org/unigene/Hs.513254> .
+
+ensembl:ENSG00000171862
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.706095> , <http://identifiers.org/unigene/Hs.644684> , <http://identifiers.org/unigene/Hs.660035> , <http://identifiers.org/unigene/Hs.717458> , <http://identifiers.org/unigene/Hs.600528> , <http://identifiers.org/unigene/Hs.705847> , <http://identifiers.org/unigene/Hs.606086> , <http://identifiers.org/unigene/Hs.500466> , <http://identifiers.org/unigene/Hs.681727> .
+
+ensembl:ENSG00000263181
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.333497> .
+
+ensembl:ENSG00000083720
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.278277> .
+
+ensembl:ENSG00000256667
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.735688> .
+
+ensembl:ENSG00000232439
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633768> .
+
+ensembl:ENSG00000205702
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.333497> .
+
+ensembl:ENSG00000205790
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.678135> .
+
+ensembl:ENSG00000276212
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000107882
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.404089> .
+
+ensembl:ENSG00000244265
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739390> .
+
+ensembl:ENSG00000236176
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742173> .
+
+ensembl:ENSG00000278443
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000230528
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.185235> , <http://identifiers.org/unigene/Hs.558683> .
+
+ensembl:ENSG00000140968
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.137427> .
+
+ensembl:ENSG00000227013
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.575598> .
+
+ensembl:ENSG00000160801
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1019> .
+
+ensembl:ENSG00000112116
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.272295> .
+
+ensembl:ENSG00000141837
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.729638> , <http://identifiers.org/unigene/Hs.501632> .
+
+ensembl:ENSG00000101076
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.116462> , <http://identifiers.org/unigene/Hs.603296> .
+
+ensembl:ENSG00000136104
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.306291> , <http://identifiers.org/unigene/Hs.133324> .
+
+ensembl:ENSG00000250462
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.462684> .
+
+ensembl:ENSG00000225368
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000278051
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000128322
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.348935> .
+
+ensembl:ENSG00000250947
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637713> .
+
+ensembl:ENSG00000143369
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.81071> .
+
+ensembl:ENSG00000235619
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684462> .
+
+ensembl:ENSG00000226709
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.185577> .
+
+ensembl:ENSG00000180926
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.381327> .
+
+ensembl:ENSG00000122591
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.85603> , <http://identifiers.org/unigene/Hs.545095> .
+
+ensembl:ENSG00000240216
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.144894> , <http://identifiers.org/unigene/Hs.574920> .
+
+ensembl:ENSG00000204787
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.584797> .
+
+ensembl:ENSG00000141458
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.691290> , <http://identifiers.org/unigene/Hs.715623> .
+
+ensembl:ENSG00000267496
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.721804> .
+
+ensembl:ENSG00000237138
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.517252> .
+
+ensembl:ENSG00000132842
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.561391> , <http://identifiers.org/unigene/Hs.735481> , <http://identifiers.org/unigene/Hs.532091> .
+
+ensembl:ENSG00000072840
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.646899> .
+
+ensembl:ENSG00000165699
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.370854> , <http://identifiers.org/unigene/Hs.713977> .
+
+ensembl:ENSG00000232687
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.629963> .
+
+ensembl:ENSG00000205403
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708284> , <http://identifiers.org/unigene/Hs.312485> .
+
+ensembl:ENSG00000207162
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.682658> .
+
+ensembl:ENSG00000112769
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654572> .
+
+ensembl:ENSG00000258893
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.446847> .
+
+ensembl:ENSG00000253807
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633988> .
+
+ensembl:ENSG00000175772
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651669> , <http://identifiers.org/unigene/Hs.643369> .
+
+ensembl:ENSG00000278691
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000254751
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742589> .
+
+ensembl:ENSG00000110680
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.37058> , <http://identifiers.org/unigene/Hs.674137> .
+
+ensembl:ENSG00000104728
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.98594> , <http://identifiers.org/unigene/Hs.623597> .
+
+ensembl:ENSG00000226152
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000108452
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684886> .
+
+ensembl:ENSG00000215571
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.719428> .
+
+ensembl:ENSG00000203758
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.647706> .
+
+ensembl:ENSG00000278157
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000254764
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742587> .
+
+ensembl:ENSG00000231645
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.579166> .
+
+ensembl:ENSG00000244286
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581599> .
+
+ensembl:ENSG00000198670
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.520120> .
+
+ensembl:ENSG00000211695
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731991> .
+
+ensembl:ENSG00000197561
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.99863> .
+
+ensembl:ENSG00000250888
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.590325> .
+
+ensembl:ENSG00000243649
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.69771> .
+
+ensembl:ENSG00000196924
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.195464> .
+
+ensembl:ENSG00000085998
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525134> .
+
+ensembl:ENSG00000223617
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578070> .
+
+ensembl:ENSG00000141858
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.626403> , <http://identifiers.org/unigene/Hs.625466> .
+
+ensembl:ENSG00000118004
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.32603> .
+
+ensembl:ENSG00000256590
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.508889> .
+
+ensembl:ENSG00000241738
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.663378> .
+
+ensembl:ENSG00000118729
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.57975> .
+
+ensembl:ENSG00000218690
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.247812> .
+
+ensembl:ENSG00000179295
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.506852> , <http://identifiers.org/unigene/Hs.682780> , <http://identifiers.org/unigene/Hs.627572> .
+
+ensembl:ENSG00000166408
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.539057> .
+
+ensembl:ENSG00000237373
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.687361> .
+
+ensembl:ENSG00000169919
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.255230> .
+
+ensembl:ENSG00000275751
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000210194
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.723104> .
+
+ensembl:ENSG00000241333
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637948> , <http://identifiers.org/unigene/Hs.639069> .
+
+ensembl:ENSG00000235462
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.650950> .
+
+ensembl:ENSG00000228223
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609533> .
+
+ensembl:ENSG00000204248
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000213281
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.486502> , <http://identifiers.org/unigene/Hs.732828> , <http://identifiers.org/unigene/Hs.615805> .
+
+ensembl:ENSG00000091483
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592490> .
+
+ensembl:ENSG00000119699
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592317> , <http://identifiers.org/unigene/Hs.714027> .
+
+ensembl:ENSG00000159023
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.175437> .
+
+ensembl:ENSG00000077264
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733364> , <http://identifiers.org/unigene/Hs.406526> , <http://identifiers.org/unigene/Hs.656789> , <http://identifiers.org/unigene/Hs.593599> , <http://identifiers.org/unigene/Hs.614256> , <http://identifiers.org/unigene/Hs.739237> .
+
+ensembl:ENSG00000115085
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.234569> .
+
+ensembl:ENSG00000211788
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494932> .
+
+ensembl:ENSG00000136280
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.600116> .
+
+ensembl:ENSG00000277742
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000114270
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.476218> .
+
+ensembl:ENSG00000227674
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.719557> .
+
+ensembl:ENSG00000274962
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.710323> .
+
+ensembl:ENSG00000261397
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.564967> .
+
+ensembl:ENSG00000172399
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.732122> .
+
+ensembl:ENSG00000250091
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.728379> , <http://identifiers.org/unigene/Hs.679261> .
+
+ensembl:ENSG00000177910
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632070> .
+
+ensembl:ENSG00000115392
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631890> .
+
+ensembl:ENSG00000198523
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.170839> .
+
+ensembl:ENSG00000149311
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658151> , <http://identifiers.org/unigene/Hs.710771> , <http://identifiers.org/unigene/Hs.367437> .
+
+ensembl:ENSG00000237200
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.677539> .
+
+ensembl:ENSG00000231599
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568709> .
+
+ensembl:ENSG00000123700
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1547> , <http://identifiers.org/unigene/Hs.597550> .
+
+ensembl:ENSG00000249628
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.391695> .
+
+ensembl:ENSG00000225051
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659876> , <http://identifiers.org/unigene/Hs.735278> .
+
+ensembl:ENSG00000236651
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.600690> , <http://identifiers.org/unigene/Hs.628580> .
+
+ensembl:ENSG00000138449
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.643005> , <http://identifiers.org/unigene/Hs.718111> , <http://identifiers.org/unigene/Hs.708414> .
+
+ensembl:ENSG00000233871
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720594> .
+
+ensembl:ENSG00000146085
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.653296> , <http://identifiers.org/unigene/Hs.485527> , <http://identifiers.org/unigene/Hs.598713> .
+
+ensembl:ENSG00000260102
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528451> .
+
+ensembl:ENSG00000187790
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.509229> .
+
+ensembl:ENSG00000196878
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.623572> , <http://identifiers.org/unigene/Hs.497636> .
+
+ensembl:ENSG00000160229
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658748> .
+
+ensembl:ENSG00000240864
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.649903> , <http://identifiers.org/unigene/Hs.705106> .
+
+ensembl:ENSG00000264257
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000214189
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.127473> .
+
+ensembl:ENSG00000166349
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.73958> , <http://identifiers.org/unigene/Hs.714925> , <http://identifiers.org/unigene/Hs.677010> .
+
+ensembl:ENSG00000238170
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656152> .
+
+ensembl:ENSG00000225830
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.49063> , <http://identifiers.org/unigene/Hs.682679> .
+
+ensembl:ENSG00000076248
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.191334> .
+
+ensembl:ENSG00000160789
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.706897> , <http://identifiers.org/unigene/Hs.707716> , <http://identifiers.org/unigene/Hs.594444> .
+
+ensembl:ENSG00000277835
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000228623
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604684> , <http://identifiers.org/unigene/Hs.192877> .
+
+ensembl:ENSG00000233644
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666495> .
+
+ensembl:ENSG00000188672
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.523054> .
+
+ensembl:ENSG00000250656
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614149> .
+
+ensembl:ENSG00000198910
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.522818> , <http://identifiers.org/unigene/Hs.735809> .
+
+ensembl:ENSG00000133812
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.577252> , <http://identifiers.org/unigene/Hs.602824> .
+
+ensembl:ENSG00000237840
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.524283> .
+
+ensembl:ENSG00000235875
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569218> .
+
+ensembl:ENSG00000065427
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.3100> .
+
+ensembl:ENSG00000231439
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.498519> .
+
+ensembl:ENSG00000101577
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597260> , <http://identifiers.org/unigene/Hs.707698> , <http://identifiers.org/unigene/Hs.132342> , <http://identifiers.org/unigene/Hs.601177> .
+
+ensembl:ENSG00000166710
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731653> , <http://identifiers.org/unigene/Hs.623704> , <http://identifiers.org/unigene/Hs.734579> .
+
+ensembl:ENSG00000251525
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.584664> .
+
+ensembl:ENSG00000163930
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.622728> , <http://identifiers.org/unigene/Hs.106674> .
+
+ensembl:ENSG00000005893
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.496684> , <http://identifiers.org/unigene/Hs.703553> .
+
+ensembl:ENSG00000177098
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.65239> .
+
+ensembl:ENSG00000250251
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684322> .
+
+ensembl:ENSG00000238250
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.667571> .
+
+ensembl:ENSG00000142748
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.627093> .
+
+ensembl:ENSG00000158887
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.93883> , <http://identifiers.org/unigene/Hs.591486> .
+
+ensembl:ENSG00000110719
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495985> , <http://identifiers.org/unigene/Hs.735698> .
+
+ensembl:ENSG00000203441
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.697833> .
+
+ensembl:ENSG00000196081
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.675814> .
+
+ensembl:ENSG00000188280
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.723037> .
+
+ensembl:ENSG00000233265
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000254166
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.573407> .
+
+ensembl:ENSG00000165168
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.292356> , <http://identifiers.org/unigene/Hs.599853> .
+
+ensembl:ENSG00000171298
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733627> , <http://identifiers.org/unigene/Hs.1437> .
+
+ensembl:ENSG00000181830
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.12211> .
+
+ensembl:ENSG00000160211
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684904> , <http://identifiers.org/unigene/Hs.461047> .
+
+ensembl:ENSG00000166037
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708311> , <http://identifiers.org/unigene/Hs.101014> , <http://identifiers.org/unigene/Hs.713009> .
+
+ensembl:ENSG00000223553
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.678839> , <http://identifiers.org/unigene/Hs.736979> , <http://identifiers.org/unigene/Hs.548073> .
+
+ensembl:ENSG00000153956
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592625> , <http://identifiers.org/unigene/Hs.743228> , <http://identifiers.org/unigene/Hs.282151> .
+
+ensembl:ENSG00000272047
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.356224> .
+
+ensembl:ENSG00000211863
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.621507> .
+
+ensembl:ENSG00000160224
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.129829> .
+
+ensembl:ENSG00000239911
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.649054> , <http://identifiers.org/unigene/Hs.649060> .
+
+ensembl:ENSG00000230005
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.668786> .
+
+ensembl:ENSG00000258388
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731888> .
+
+ensembl:ENSG00000225072
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.382969> .
+
+ensembl:ENSG00000198851
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.692065> .
+
+ensembl:ENSG00000235016
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.627767> , <http://identifiers.org/unigene/Hs.742200> .
+
+ensembl:ENSG00000182253
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.207106> .
+
+ensembl:ENSG00000237706
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.532670> .
+
+ensembl:ENSG00000224435
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.649897> .
+
+ensembl:ENSG00000187736
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.225988> .
+
+ensembl:ENSG00000261498
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585625> .
+
+ensembl:ENSG00000274810
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.511991> .
+
+ensembl:ENSG00000248682
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738880> .
+
+ensembl:ENSG00000105639
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.515247> , <http://identifiers.org/unigene/Hs.622989> .
+
+ensembl:ENSG00000211649
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658054> .
+
+ensembl:ENSG00000181211
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666610> .
+
+ensembl:ENSG00000276035
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000241767
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574909> .
+
+ensembl:ENSG00000140525
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.513126> .
+
+ensembl:ENSG00000018625
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.34114> .
+
+ensembl:ENSG00000139193
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.355307> .
+
+ensembl:ENSG00000125997
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528157> .
+
+ensembl:ENSG00000211956
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704358> .
+
+ensembl:ENSG00000224043
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730577> .
+
+ensembl:ENSG00000203867
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.116630> , <http://identifiers.org/unigene/Hs.742330> .
+
+ensembl:ENSG00000228492
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.711847> .
+
+ensembl:ENSG00000118046
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.515005> , <http://identifiers.org/unigene/Hs.738438> .
+
+ensembl:ENSG00000211791
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525223> .
+
+ensembl:ENSG00000185379
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638076> , <http://identifiers.org/unigene/Hs.637082> , <http://identifiers.org/unigene/Hs.612360> , <http://identifiers.org/unigene/Hs.609571> , <http://identifiers.org/unigene/Hs.462824> .
+
+ensembl:ENSG00000237327
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.677918> .
+
+ensembl:ENSG00000255270
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.551655> .
+
+ensembl:ENSG00000229526
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.579267> .
+
+ensembl:ENSG00000204011
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571561> .
+
+ensembl:ENSG00000237621
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.544835> .
+
+ensembl:ENSG00000211716
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733262> .
+
+ensembl:ENSG00000224822
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658658> .
+
+ensembl:ENSG00000087053
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.735379> , <http://identifiers.org/unigene/Hs.601073> .
+
+ensembl:ENSG00000242943
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631791> .
+
+ensembl:ENSG00000181072
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.535891> , <http://identifiers.org/unigene/Hs.745337> .
+
+ensembl:ENSG00000130826
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.4747> , <http://identifiers.org/unigene/Hs.745526> .
+
+ensembl:ENSG00000169249
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.171909> , <http://identifiers.org/unigene/Hs.631208> .
+
+ensembl:ENSG00000181544
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.554740> .
+
+ensembl:ENSG00000223979
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.369680> .
+
+ensembl:ENSG00000277477
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000136487
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.406754> .
+
+ensembl:ENSG00000128604
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614535> .
+
+ensembl:ENSG00000275300
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604789> , <http://identifiers.org/unigene/Hs.610060> .
+
+ensembl:ENSG00000250298
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722750> .
+
+ensembl:ENSG00000229681
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000224389
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720022> .
+
+ensembl:ENSG00000277072
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641776> .
+
+ensembl:ENSG00000243660
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.663794> , <http://identifiers.org/unigene/Hs.719657> .
+
+ensembl:ENSG00000075142
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.706466> , <http://identifiers.org/unigene/Hs.489040> .
+
+ensembl:ENSG00000211884
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.551340> .
+
+ensembl:ENSG00000234168
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.639387> .
+
+ensembl:ENSG00000103197
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.90303> .
+
+ensembl:ENSG00000211809
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495143> .
+
+ensembl:ENSG00000171680
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.284232> , <http://identifiers.org/unigene/Hs.619982> .
+
+ensembl:ENSG00000180509
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.121495> .
+
+ensembl:ENSG00000260131
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.572247> .
+
+ensembl:ENSG00000257800
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.729891> .
+
+ensembl:ENSG00000107099
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.734892> , <http://identifiers.org/unigene/Hs.132599> , <http://identifiers.org/unigene/Hs.629467> .
+
+ensembl:ENSG00000231607
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.601374> , <http://identifiers.org/unigene/Hs.547964> .
+
+ensembl:ENSG00000211644
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654512> .
+
+ensembl:ENSG00000151348
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.625019> , <http://identifiers.org/unigene/Hs.368404> .
+
+ensembl:ENSG00000241202
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.615959> .
+
+ensembl:ENSG00000226127
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000177000
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.214142> , <http://identifiers.org/unigene/Hs.709010> , <http://identifiers.org/unigene/Hs.737916> .
+
+ensembl:ENSG00000236912
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737080> .
+
+ensembl:ENSG00000049540
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.647061> .
+
+ensembl:ENSG00000053918
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613018> .
+
+ensembl:ENSG00000175595
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.567265> , <http://identifiers.org/unigene/Hs.604790> .
+
+ensembl:ENSG00000211951
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731095> .
+
+ensembl:ENSG00000227543
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743630> .
+
+ensembl:ENSG00000012048
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.194143> , <http://identifiers.org/unigene/Hs.622171> .
+
+ensembl:ENSG00000242337
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736470> .
+
+ensembl:ENSG00000197536
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.322572> , <http://identifiers.org/unigene/Hs.682573> .
+
+ensembl:ENSG00000240666
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570537> .
+
+ensembl:ENSG00000010671
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.159494> .
+
+ensembl:ENSG00000211964
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.705146> .
+
+ensembl:ENSG00000234795
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.562094> .
+
+ensembl:ENSG00000104133
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656271> , <http://identifiers.org/unigene/Hs.667399> .
+
+ensembl:ENSG00000141655
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.598412> , <http://identifiers.org/unigene/Hs.621477> , <http://identifiers.org/unigene/Hs.204044> .
+
+ensembl:ENSG00000049860
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.69293> .
+
+ensembl:ENSG00000119888
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.713827> , <http://identifiers.org/unigene/Hs.542050> .
+
+ensembl:ENSG00000118526
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730198> , <http://identifiers.org/unigene/Hs.601080> , <http://identifiers.org/unigene/Hs.78061> .
+
+ensembl:ENSG00000205853
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.274285> .
+
+ensembl:ENSG00000020922
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617527> , <http://identifiers.org/unigene/Hs.547925> .
+
+ensembl:ENSG00000186715
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.602272> , <http://identifiers.org/unigene/Hs.655432> , <http://identifiers.org/unigene/Hs.609234> .
+
+ensembl:ENSG00000173991
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.77628> .
+
+ensembl:ENSG00000091138
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1650> .
+
+ensembl:ENSG00000120802
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609438> , <http://identifiers.org/unigene/Hs.622940> , <http://identifiers.org/unigene/Hs.734432> , <http://identifiers.org/unigene/Hs.11355> .
+
+ensembl:ENSG00000129667
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.464157> .
+
+ensembl:ENSG00000197309
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.538726> .
+
+ensembl:ENSG00000096696
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.702582> , <http://identifiers.org/unigene/Hs.519873> .
+
+ensembl:ENSG00000261599
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.531536> , <http://identifiers.org/unigene/Hs.633945> , <http://identifiers.org/unigene/Hs.728036> .
+
+ensembl:ENSG00000152556
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.75160> .
+
+ensembl:ENSG00000180909
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638713> .
+
+ensembl:ENSG00000197616
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.278432> .
+
+ensembl:ENSG00000277957
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.716693> , <http://identifiers.org/unigene/Hs.129673> .
+
+ensembl:ENSG00000229307
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.7415> .
+
+ensembl:ENSG00000276848
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.288520> .
+
+ensembl:ENSG00000237402
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733842> .
+
+ensembl:ENSG00000188706
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.193566> , <http://identifiers.org/unigene/Hs.712158> .
+
+ensembl:ENSG00000134571
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.524906> .
+
+ensembl:ENSG00000229867
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704682> .
+
+ensembl:ENSG00000224397
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.235484> .
+
+ensembl:ENSG00000106991
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.707025> , <http://identifiers.org/unigene/Hs.76753> , <http://identifiers.org/unigene/Hs.694558> .
+
+ensembl:ENSG00000026103
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.623093> .
+
+ensembl:ENSG00000174886
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.406062> .
+
+ensembl:ENSG00000139219
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.408182> .
+
+ensembl:ENSG00000167941
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.349204> .
+
+ensembl:ENSG00000252756
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.605628> .
+
+ensembl:ENSG00000227409
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585397> .
+
+ensembl:ENSG00000211652
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658165> .
+
+ensembl:ENSG00000198805
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.75514> .
+
+ensembl:ENSG00000259758
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.660189> , <http://identifiers.org/unigene/Hs.600101> , <http://identifiers.org/unigene/Hs.711701> , <http://identifiers.org/unigene/Hs.711748> , <http://identifiers.org/unigene/Hs.449415> , <http://identifiers.org/unigene/Hs.743313> .
+
+ensembl:ENSG00000263417
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.448217> .
+
+ensembl:ENSG00000226914
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000198400
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.406293> .
+
+ensembl:ENSG00000132740
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604969> .
+
+ensembl:ENSG00000227564
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738064> , <http://identifiers.org/unigene/Hs.121439> .
+
+ensembl:ENSG00000243926
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.725519> .
+
+ensembl:ENSG00000233441
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632571> .
+
+ensembl:ENSG00000177800
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638407> .
+
+ensembl:ENSG00000070061
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494738> , <http://identifiers.org/unigene/Hs.595702> .
+
+ensembl:ENSG00000205861
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.642624> .
+
+ensembl:ENSG00000260232
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.532639> .
+
+ensembl:ENSG00000251322
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.701297> .
+
+ensembl:ENSG00000259660
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.640497> .
+
+ensembl:ENSG00000159958
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.344088> .
+
+ensembl:ENSG00000260704
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.197435> .
+
+ensembl:ENSG00000131951
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666245> .
+
+ensembl:ENSG00000142798
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.562227> .
+
+ensembl:ENSG00000232105
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.639133> .
+
+ensembl:ENSG00000239881
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569206> .
+
+ensembl:ENSG00000162337
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.6347> .
+
+ensembl:ENSG00000106692
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.55777> .
+
+ensembl:ENSG00000234336
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.434307> .
+
+ensembl:ENSG00000167895
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592102> .
+
+ensembl:ENSG00000232118
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658526> .
+
+ensembl:ENSG00000110057
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.502989> , <http://identifiers.org/unigene/Hs.568937> .
+
+ensembl:ENSG00000225973
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.493512> .
+
+ensembl:ENSG00000229150
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.131057> .
+
+ensembl:ENSG00000239641
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581225> .
+
+ensembl:ENSG00000211812
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.550905> .
+
+ensembl:ENSG00000279484
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633870> , <http://identifiers.org/unigene/Hs.660788> .
+
+ensembl:ENSG00000223768
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720805> , <http://identifiers.org/unigene/Hs.729269> .
+
+ensembl:ENSG00000165731
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.625268> , <http://identifiers.org/unigene/Hs.350321> .
+
+ensembl:ENSG00000277560
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000141756
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.463035> , <http://identifiers.org/unigene/Hs.602552> .
+
+ensembl:ENSG00000159860
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632030> .
+
+ensembl:ENSG00000235765
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737080> .
+
+ensembl:ENSG00000223350
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.674509> .
+
+ensembl:ENSG00000180525
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.587103> .
+
+ensembl:ENSG00000254995
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654868> .
+
+ensembl:ENSG00000234197
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581649> .
+
+ensembl:ENSG00000280411
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534702> .
+
+ensembl:ENSG00000147889
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661650> .
+
+ensembl:ENSG00000184139
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.380687> .
+
+ensembl:ENSG00000162711
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.159483> .
+
+ensembl:ENSG00000105369
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631567> .
+
+ensembl:ENSG00000213344
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.564411> .
+
+ensembl:ENSG00000229483
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.128068> .
+
+ensembl:ENSG00000136802
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.643600> .
+
+ensembl:ENSG00000233395
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730228> .
+
+ensembl:ENSG00000120457
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.444595> , <http://identifiers.org/unigene/Hs.632109> .
+
+ensembl:ENSG00000014919
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718750> , <http://identifiers.org/unigene/Hs.28326> .
+
+ensembl:ENSG00000230068
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684696> .
+
+ensembl:ENSG00000257842
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.143441> .
+
+ensembl:ENSG00000126583
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631564> .
+
+ensembl:ENSG00000256274
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.687025> .
+
+ensembl:ENSG00000229715
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.507667> .
+
+ensembl:ENSG00000251276
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.583506> .
+
+ensembl:ENSG00000184500
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592946> , <http://identifiers.org/unigene/Hs.64016> .
+
+ensembl:ENSG00000233627
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656152> .
+
+ensembl:ENSG00000168610
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.463059> .
+
+ensembl:ENSG00000206444
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000276557
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.727331> .
+
+ensembl:ENSG00000147257
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.644108> , <http://identifiers.org/unigene/Hs.626762> .
+
+ensembl:ENSG00000228454
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720022> .
+
+ensembl:ENSG00000211753
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.744700> .
+
+ensembl:ENSG00000138347
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.741064> , <http://identifiers.org/unigene/Hs.612682> , <http://identifiers.org/unigene/Hs.55205> .
+
+ensembl:ENSG00000225127
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609838> , <http://identifiers.org/unigene/Hs.371339> .
+
+ensembl:ENSG00000203664
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.591526> .
+
+ensembl:ENSG00000231004
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.542791> .
+
+ensembl:ENSG00000250959
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.680699> .
+
+ensembl:ENSG00000136689
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.701610> , <http://identifiers.org/unigene/Hs.734203> , <http://identifiers.org/unigene/Hs.81134> .
+
+ensembl:ENSG00000008710
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.75813> , <http://identifiers.org/unigene/Hs.578873> , <http://identifiers.org/unigene/Hs.559245> , <http://identifiers.org/unigene/Hs.569615> , <http://identifiers.org/unigene/Hs.634612> .
+
+ensembl:ENSG00000257935
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641707> .
+
+ensembl:ENSG00000108384
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.412587> , <http://identifiers.org/unigene/Hs.633534> .
+
+ensembl:ENSG00000233070
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571764> , <http://identifiers.org/unigene/Hs.635119> .
+
+ensembl:ENSG00000005471
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654403> , <http://identifiers.org/unigene/Hs.601011> .
+
+ensembl:ENSG00000229630
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.559152> .
+
+ensembl:ENSG00000121966
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.593413> .
+
+ensembl:ENSG00000256661
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.642063> .
+
+ensembl:ENSG00000230215
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574899> .
+
+ensembl:ENSG00000130164
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718832> , <http://identifiers.org/unigene/Hs.213289> , <http://identifiers.org/unigene/Hs.738683> , <http://identifiers.org/unigene/Hs.713981> .
+
+ensembl:ENSG00000268364
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.607763> .
+
+ensembl:ENSG00000133710
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.331555> .
+
+ensembl:ENSG00000165280
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617372> , <http://identifiers.org/unigene/Hs.736779> .
+
+ensembl:ENSG00000211833
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.621531> .
+
+ensembl:ENSG00000237751
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.291539> .
+
+ensembl:ENSG00000141524
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632227> , <http://identifiers.org/unigene/Hs.675052> .
+
+ensembl:ENSG00000244731
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534847> .
+
+ensembl:ENSG00000139083
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.504765> , <http://identifiers.org/unigene/Hs.717548> , <http://identifiers.org/unigene/Hs.624650> .
+
+ensembl:ENSG00000253819
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.575540> .
+
+ensembl:ENSG00000198821
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.156445> , <http://identifiers.org/unigene/Hs.669326> .
+
+ensembl:ENSG00000177455
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.652262> .
+
+ensembl:ENSG00000236642
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000132155
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632896> .
+
+ensembl:ENSG00000213352
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.732374> .
+
+ensembl:ENSG00000188596
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.436197> , <http://identifiers.org/unigene/Hs.535389> , <http://identifiers.org/unigene/Hs.382121> , <http://identifiers.org/unigene/Hs.730039> , <http://identifiers.org/unigene/Hs.739050> .
+
+ensembl:ENSG00000239435
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651095> .
+
+ensembl:ENSG00000264070
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742119> .
+
+ensembl:ENSG00000201662
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.676828> .
+
+ensembl:ENSG00000224418
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.594160> .
+
+ensembl:ENSG00000238161
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.479133> , <http://identifiers.org/unigene/Hs.722388> , <http://identifiers.org/unigene/Hs.503150> .
+
+ensembl:ENSG00000164669
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.567827> .
+
+ensembl:ENSG00000223309
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.149691> .
+
+ensembl:ENSG00000102104
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.715725> .
+
+ensembl:ENSG00000189212
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.594815> .
+
+ensembl:ENSG00000068438
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.23170> .
+
+ensembl:ENSG00000004455
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.470907> .
+
+ensembl:ENSG00000273294
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.605266> .
+
+ensembl:ENSG00000141385
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.627262> , <http://identifiers.org/unigene/Hs.732812> , <http://identifiers.org/unigene/Hs.726355> .
+
+ensembl:ENSG00000115935
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736483> , <http://identifiers.org/unigene/Hs.128067> .
+
+ensembl:ENSG00000049768
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.247700> .
+
+ensembl:ENSG00000257151
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592473> .
+
+ensembl:ENSG00000231711
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.612923> , <http://identifiers.org/unigene/Hs.528519> .
+
+ensembl:ENSG00000251297
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.351544> .
+
+ensembl:ENSG00000274163
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000003400
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.5353> , <http://identifiers.org/unigene/Hs.605938> .
+
+ensembl:ENSG00000189238
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662298> .
+
+ensembl:ENSG00000197880
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736985> , <http://identifiers.org/unigene/Hs.523369> .
+
+ensembl:ENSG00000241572
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570637> .
+
+ensembl:ENSG00000236276
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.615802> .
+
+ensembl:ENSG00000212336
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.640169> .
+
+ensembl:ENSG00000240476
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.307772> .
+
+ensembl:ENSG00000225442
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684456> .
+
+ensembl:ENSG00000244378
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661121> .
+
+ensembl:ENSG00000051180
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.607865> .
+
+ensembl:ENSG00000106633
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1270> .
+
+ensembl:ENSG00000226092
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.454401> .
+
+ensembl:ENSG00000229597
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000261308
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.648218> .
+
+ensembl:ENSG00000140650
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.625732> , <http://identifiers.org/unigene/Hs.731165> , <http://identifiers.org/unigene/Hs.614574> .
+
+ensembl:ENSG00000212643
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.681414> .
+
+ensembl:ENSG00000249601
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.634846> .
+
+ensembl:ENSG00000185710
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730106> , <http://identifiers.org/unigene/Hs.729902> , <http://identifiers.org/unigene/Hs.654805> .
+
+ensembl:ENSG00000215908
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733729> .
+
+ensembl:ENSG00000116678
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.723178> , <http://identifiers.org/unigene/Hs.597358> , <http://identifiers.org/unigene/Hs.258228> .
+
+ensembl:ENSG00000177628
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.282997> , <http://identifiers.org/unigene/Hs.679157> , <http://identifiers.org/unigene/Hs.676613> , <http://identifiers.org/unigene/Hs.676213> .
+
+ensembl:ENSG00000238027
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000154803
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633478> , <http://identifiers.org/unigene/Hs.31652> .
+
+ensembl:ENSG00000182484
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.459573> , <http://identifiers.org/unigene/Hs.461200> .
+
+ensembl:ENSG00000279020
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.675872> .
+
+ensembl:ENSG00000222448
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.655116> .
+
+ensembl:ENSG00000134853
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609382> , <http://identifiers.org/unigene/Hs.74615> .
+
+ensembl:ENSG00000242534
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704736> , <http://identifiers.org/unigene/Hs.705270> .
+
+ensembl:ENSG00000258673
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.628193> .
+
+ensembl:ENSG00000066468
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.533683> , <http://identifiers.org/unigene/Hs.607420> , <http://identifiers.org/unigene/Hs.736928> , <http://identifiers.org/unigene/Hs.622244> .
+
+ensembl:ENSG00000233883
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000132470
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632226> .
+
+ensembl:ENSG00000226185
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742588> .
+
+ensembl:ENSG00000223611
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.716893> .
+
+ensembl:ENSG00000123560
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1787> .
+
+ensembl:ENSG00000206140
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.376511> .
+
+ensembl:ENSG00000225076
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.686054> .
+
+ensembl:ENSG00000126524
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585053> , <http://identifiers.org/unigene/Hs.110445> .
+
+ensembl:ENSG00000251292
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.383006> .
+
+ensembl:ENSG00000102125
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.409911> .
+
+ensembl:ENSG00000248673
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.582291> .
+
+ensembl:ENSG00000159128
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.620349> , <http://identifiers.org/unigene/Hs.634632> .
+
+ensembl:ENSG00000137700
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.719203> .
+
+ensembl:ENSG00000234293
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.124532> .
+
+ensembl:ENSG00000252620
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.685870> .
+
+ensembl:ENSG00000109101
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.663679> , <http://identifiers.org/unigene/Hs.58611> .
+
+ensembl:ENSG00000225855
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.650801> , <http://identifiers.org/unigene/Hs.732744> .
+
+ensembl:ENSG00000157764
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613773> , <http://identifiers.org/unigene/Hs.737412> , <http://identifiers.org/unigene/Hs.601041> , <http://identifiers.org/unigene/Hs.550061> , <http://identifiers.org/unigene/Hs.659507> , <http://identifiers.org/unigene/Hs.614551> , <http://identifiers.org/unigene/Hs.324250> , <http://identifiers.org/unigene/Hs.600998> , <http://identifiers.org/unigene/Hs.604885> .
+
+ensembl:ENSG00000203386
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.636582> .
+
+ensembl:ENSG00000092929
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.41045> .
+
+ensembl:ENSG00000243264
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731091> .
+
+ensembl:ENSG00000274827
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.636138> , <http://identifiers.org/unigene/Hs.634204> , <http://identifiers.org/unigene/Hs.356962> .
+
+ensembl:ENSG00000214562
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.701044> .
+
+ensembl:ENSG00000237140
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666070> .
+
+ensembl:ENSG00000127241
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.89983> , <http://identifiers.org/unigene/Hs.602872> .
+
+ensembl:ENSG00000211782
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494897> .
+
+ensembl:ENSG00000112936
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.686730> , <http://identifiers.org/unigene/Hs.78065> .
+
+ensembl:ENSG00000230930
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000145362
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.599220> , <http://identifiers.org/unigene/Hs.620813> , <http://identifiers.org/unigene/Hs.620557> .
+
+ensembl:ENSG00000211707
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.573317> .
+
+ensembl:ENSG00000243024
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.569174> .
+
+ensembl:ENSG00000104970
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.288520> .
+
+ensembl:ENSG00000198223
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.520937> .
+
+ensembl:ENSG00000183918
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.603593> , <http://identifiers.org/unigene/Hs.349094> .
+
+ensembl:ENSG00000223704
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.639900> .
+
+ensembl:ENSG00000101109
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.700137> , <http://identifiers.org/unigene/Hs.472838> .
+
+ensembl:ENSG00000251604
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631979> .
+
+ensembl:ENSG00000251398
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.123483> .
+
+ensembl:ENSG00000141499
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.408312> , <http://identifiers.org/unigene/Hs.735124> .
+
+ensembl:ENSG00000129245
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.52788> .
+
+ensembl:ENSG00000263142
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633117> , <http://identifiers.org/unigene/Hs.729414> .
+
+ensembl:ENSG00000162913
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.650039> .
+
+ensembl:ENSG00000109501
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.518602> , <http://identifiers.org/unigene/Hs.727283> .
+
+ensembl:ENSG00000225530
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.407509> .
+
+ensembl:ENSG00000230257
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.621233> .
+
+ensembl:ENSG00000076242
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.195364> .
+
+ensembl:ENSG00000236671
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637806> , <http://identifiers.org/unigene/Hs.739635> .
+
+ensembl:ENSG00000122877
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736842> .
+
+ensembl:ENSG00000184470
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.626297> .
+
+ensembl:ENSG00000188831
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528118> .
+
+ensembl:ENSG00000227214
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000204183
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.711481> .
+
+ensembl:ENSG00000254717
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.550859> , <http://identifiers.org/unigene/Hs.744805> .
+
+ensembl:ENSG00000187010
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.449968> .
+
+ensembl:ENSG00000228336
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.446996> .
+
+ensembl:ENSG00000153563
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.85258> .
+
+ensembl:ENSG00000253696
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.575601> , <http://identifiers.org/unigene/Hs.734498> .
+
+ensembl:ENSG00000259091
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.660501> .
+
+ensembl:ENSG00000125730
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.529053> .
+
+ensembl:ENSG00000225316
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574124> .
+
+ensembl:ENSG00000105486
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1770> , <http://identifiers.org/unigene/Hs.623500> , <http://identifiers.org/unigene/Hs.603078> , <http://identifiers.org/unigene/Hs.738849> .
+
+ensembl:ENSG00000253291
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.449366> .
+
+ensembl:ENSG00000211955
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720416> .
+
+ensembl:ENSG00000236204
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.745507> , <http://identifiers.org/unigene/Hs.502854> .
+
+ensembl:ENSG00000196712
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.113577> , <http://identifiers.org/unigene/Hs.721732> , <http://identifiers.org/unigene/Hs.447837> , <http://identifiers.org/unigene/Hs.597889> , <http://identifiers.org/unigene/Hs.604118> , <http://identifiers.org/unigene/Hs.622370> , <http://identifiers.org/unigene/Hs.606512> .
+
+ensembl:ENSG00000141646
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.75862> , <http://identifiers.org/unigene/Hs.610854> , <http://identifiers.org/unigene/Hs.621831> , <http://identifiers.org/unigene/Hs.707908> .
+
+ensembl:ENSG00000156970
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.513645> .
+
+ensembl:ENSG00000214289
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.611241> .
+
+ensembl:ENSG00000233984
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.650823> .
+
+ensembl:ENSG00000254338
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.202140> .
+
+ensembl:ENSG00000241361
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.484933> .
+
+ensembl:ENSG00000159216
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617234> , <http://identifiers.org/unigene/Hs.536609> , <http://identifiers.org/unigene/Hs.739683> , <http://identifiers.org/unigene/Hs.149261> , <http://identifiers.org/unigene/Hs.610169> , <http://identifiers.org/unigene/Hs.589909> , <http://identifiers.org/unigene/Hs.717697> .
+
+ensembl:ENSG00000263083
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.687025> .
+
+ensembl:ENSG00000090861
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.315137> .
+
+ensembl:ENSG00000075239
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.232375> .
+
+ensembl:ENSG00000215452
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.377046> .
+
+ensembl:ENSG00000262446
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.282997> , <http://identifiers.org/unigene/Hs.679157> , <http://identifiers.org/unigene/Hs.676613> , <http://identifiers.org/unigene/Hs.676213> .
+
+ensembl:ENSG00000262993
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.41696> .
+
+ensembl:ENSG00000253789
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.121329> .
+
+ensembl:ENSG00000169083
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.76704> .
+
+ensembl:ENSG00000162614
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.612385> .
+
+ensembl:ENSG00000106128
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641194> , <http://identifiers.org/unigene/Hs.767> .
+
+ensembl:ENSG00000235722
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000196586
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.713223> , <http://identifiers.org/unigene/Hs.149387> .
+
+ensembl:ENSG00000206561
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.146735> , <http://identifiers.org/unigene/Hs.679681> .
+
+ensembl:ENSG00000241859
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571767> .
+
+ensembl:ENSG00000046604
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.412597> .
+
+ensembl:ENSG00000220793
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718298> .
+
+ensembl:ENSG00000235570
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738215> .
+
+ensembl:ENSG00000260089
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684517> .
+
+ensembl:ENSG00000249491
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.582365> .
+
+ensembl:ENSG00000232790
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.650722> .
+
+ensembl:ENSG00000171385
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730579> , <http://identifiers.org/unigene/Hs.598765> , <http://identifiers.org/unigene/Hs.23729> , <http://identifiers.org/unigene/Hs.731722> , <http://identifiers.org/unigene/Hs.666367> .
+
+ensembl:ENSG00000231134
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.693125> .
+
+ensembl:ENSG00000223880
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.591226> .
+
+ensembl:ENSG00000232715
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641681> .
+
+ensembl:ENSG00000185053
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.676196> .
+
+ensembl:ENSG00000266975
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.579870> .
+
+ensembl:ENSG00000107611
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.606633> , <http://identifiers.org/unigene/Hs.166206> .
+
+ensembl:ENSG00000116062
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733502> , <http://identifiers.org/unigene/Hs.445052> , <http://identifiers.org/unigene/Hs.735719> , <http://identifiers.org/unigene/Hs.618495> .
+
+ensembl:ENSG00000175800
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528434> .
+
+ensembl:ENSG00000135929
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.516700> .
+
+ensembl:ENSG00000134183
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.36973> .
+
+ensembl:ENSG00000188153
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.369089> , <http://identifiers.org/unigene/Hs.603349> .
+
+ensembl:ENSG00000273003
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.80132> .
+
+ensembl:ENSG00000197535
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.633652> , <http://identifiers.org/unigene/Hs.596221> , <http://identifiers.org/unigene/Hs.21213> .
+
+ensembl:ENSG00000230817
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.551280> .
+
+ensembl:ENSG00000217707
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.544753> .
+
+ensembl:ENSG00000180663
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.257746> .
+
+ensembl:ENSG00000211710
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534422> .
+
+ensembl:ENSG00000250903
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737949> , <http://identifiers.org/unigene/Hs.188825> .
+
+ensembl:ENSG00000239552
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.653055> .
+
+ensembl:ENSG00000183921
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.641230> .
+
+ensembl:ENSG00000140545
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.626569> , <http://identifiers.org/unigene/Hs.720851> , <http://identifiers.org/unigene/Hs.615196> .
+
+ensembl:ENSG00000211976
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.547404> .
+
+ensembl:ENSG00000235663
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737080> .
+
+ensembl:ENSG00000213188
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.649979> .
+
+ensembl:ENSG00000091137
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571246> .
+
+ensembl:ENSG00000262619
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.380803> .
+
+ensembl:ENSG00000115286
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.617478> .
+
+ensembl:ENSG00000253709
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.735391> .
+
+ensembl:ENSG00000263563
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.499916> .
+
+ensembl:ENSG00000000971
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.363396> .
+
+ensembl:ENSG00000232643
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.524935> .
+
+ensembl:ENSG00000225951
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613453> .
+
+ensembl:ENSG00000228744
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.626174> .
+
+ensembl:ENSG00000235908
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.672983> .
+
+ensembl:ENSG00000135604
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.118958> .
+
+ensembl:ENSG00000186575
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.608781> , <http://identifiers.org/unigene/Hs.628119> , <http://identifiers.org/unigene/Hs.627925> .
+
+ensembl:ENSG00000238523
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.663554> .
+
+ensembl:ENSG00000240505
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.158341> .
+
+ensembl:ENSG00000211891
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.649351> .
+
+ensembl:ENSG00000242736
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739534> .
+
+ensembl:ENSG00000211816
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495215> .
+
+ensembl:ENSG00000206507
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000112039
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.302003> , <http://identifiers.org/unigene/Hs.620020> .
+
+ensembl:ENSG00000229920
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738732> .
+
+ensembl:ENSG00000215540
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.454401> .
+
+ensembl:ENSG00000223519
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.298987> , <http://identifiers.org/unigene/Hs.721995> .
+
+ensembl:ENSG00000214903
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.50272> .
+
+ensembl:ENSG00000211829
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.74647> .
+
+ensembl:ENSG00000236625
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.720022> .
+
+ensembl:ENSG00000174405
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.166091> , <http://identifiers.org/unigene/Hs.625105> .
+
+ensembl:ENSG00000131323
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.510528> , <http://identifiers.org/unigene/Hs.732634> , <http://identifiers.org/unigene/Hs.599754> .
+
+ensembl:ENSG00000205246
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.645643> , <http://identifiers.org/unigene/Hs.618372> , <http://identifiers.org/unigene/Hs.702613> , <http://identifiers.org/unigene/Hs.496451> .
+
+ensembl:ENSG00000230812
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.340072> .
+
+ensembl:ENSG00000225038
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000226441
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.679615> .
+
+ensembl:ENSG00000224770
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000235823
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.628088> .
+
+ensembl:ENSG00000197249
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525557> .
+
+ensembl:ENSG00000110435
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.502315> .
+
+ensembl:ENSG00000225345
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.724217> .
+
+ensembl:ENSG00000249032
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738215> .
+
+ensembl:ENSG00000231475
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.610550> .
+
+ensembl:ENSG00000264538
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.628886> .
+
+ensembl:ENSG00000244575
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.740286> , <http://identifiers.org/unigene/Hs.744766> .
+
+ensembl:ENSG00000076351
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.446689> .
+
+ensembl:ENSG00000078747
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632272> , <http://identifiers.org/unigene/Hs.624021> , <http://identifiers.org/unigene/Hs.624050> .
+
+ensembl:ENSG00000196741
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604320> , <http://identifiers.org/unigene/Hs.597617> .
+
+ensembl:ENSG00000170836
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.286073> , <http://identifiers.org/unigene/Hs.605212> .
+
+ensembl:ENSG00000144455
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665943> , <http://identifiers.org/unigene/Hs.350475> .
+
+ensembl:ENSG00000225652
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568867> .
+
+ensembl:ENSG00000225105
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.577996> .
+
+ensembl:ENSG00000230126
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.628012> .
+
+ensembl:ENSG00000139618
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.34012> , <http://identifiers.org/unigene/Hs.686439> .
+
+ensembl:ENSG00000261812
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.513833> .
+
+ensembl:ENSG00000227336
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736761> .
+
+ensembl:ENSG00000234575
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737712> .
+
+ensembl:ENSG00000204217
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.732526> , <http://identifiers.org/unigene/Hs.471119> .
+
+ensembl:ENSG00000233213
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580942> .
+
+ensembl:ENSG00000225412
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534471> .
+
+ensembl:ENSG00000108821
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.172928> , <http://identifiers.org/unigene/Hs.744900> , <http://identifiers.org/unigene/Hs.600888> .
+
+ensembl:ENSG00000185920
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.494538> .
+
+ensembl:ENSG00000165410
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.727292> , <http://identifiers.org/unigene/Hs.592316> , <http://identifiers.org/unigene/Hs.180141> , <http://identifiers.org/unigene/Hs.638027> .
+
+ensembl:ENSG00000184058
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.618637> , <http://identifiers.org/unigene/Hs.173984> .
+
+ensembl:ENSG00000101605
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.464469> .
+
+ensembl:ENSG00000234882
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661898> .
+
+ensembl:ENSG00000248256
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661065> .
+
+ensembl:ENSG00000217165
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.58382> .
+
+ensembl:ENSG00000148677
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.448589> .
+
+ensembl:ENSG00000213735
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.686823> .
+
+ensembl:ENSG00000233061
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.687028> .
+
+ensembl:ENSG00000171094
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654469> .
+
+ensembl:ENSG00000205940
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.590925> .
+
+ensembl:ENSG00000235751
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.583235> .
+
+ensembl:ENSG00000234642
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000225438
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.579124> .
+
+ensembl:ENSG00000144535
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.601605> , <http://identifiers.org/unigene/Hs.732236> .
+
+ensembl:ENSG00000175202
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.434111> .
+
+ensembl:ENSG00000252469
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.158845> .
+
+ensembl:ENSG00000225732
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000253325
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.721762> .
+
+ensembl:ENSG00000183091
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.588655> .
+
+ensembl:ENSG00000197943
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.586906> , <http://identifiers.org/unigene/Hs.372303> , <http://identifiers.org/unigene/Hs.413111> .
+
+ensembl:ENSG00000048392
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.595724> , <http://identifiers.org/unigene/Hs.609797> , <http://identifiers.org/unigene/Hs.512592> .
+
+ensembl:ENSG00000106211
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.726398> .
+
+ensembl:ENSG00000214145
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.606465> .
+
+ensembl:ENSG00000225745
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.709940> .
+
+ensembl:ENSG00000030582
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.514220> , <http://identifiers.org/unigene/Hs.740128> .
+
+ensembl:ENSG00000122367
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.657271> .
+
+ensembl:ENSG00000205494
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.553729> .
+
+ensembl:ENSG00000137869
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.260074> , <http://identifiers.org/unigene/Hs.669832> .
+
+ensembl:ENSG00000168542
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.443625> , <http://identifiers.org/unigene/Hs.708235> .
+
+ensembl:ENSG00000267019
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.579621> .
+
+ensembl:ENSG00000255151
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.502677> .
+
+ensembl:ENSG00000236646
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.675854> .
+
+ensembl:ENSG00000230067
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.640984> .
+
+ensembl:ENSG00000112367
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.529959> .
+
+ensembl:ENSG00000233613
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.604091> .
+
+ensembl:ENSG00000261206
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638962> .
+
+ensembl:ENSG00000232504
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.625888> .
+
+ensembl:ENSG00000260644
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.531536> , <http://identifiers.org/unigene/Hs.633945> .
+
+ensembl:ENSG00000180385
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690469> .
+
+ensembl:ENSG00000188641
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613866> , <http://identifiers.org/unigene/Hs.335034> .
+
+ensembl:ENSG00000068976
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.154084> .
+
+ensembl:ENSG00000199488
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.33756> .
+
+ensembl:ENSG00000134684
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.213264> .
+
+ensembl:ENSG00000211698
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737008> .
+
+ensembl:ENSG00000180398
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662152> .
+
+ensembl:ENSG00000227509
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581645> .
+
+ensembl:ENSG00000205334
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.515878> .
+
+ensembl:ENSG00000165671
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.106861> .
+
+ensembl:ENSG00000133895
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.423348> .
+
+ensembl:ENSG00000229028
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.527936> .
+
+ensembl:ENSG00000243541
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.542174> .
+
+ensembl:ENSG00000149781
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.180535> .
+
+ensembl:ENSG00000244116
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704736> , <http://identifiers.org/unigene/Hs.705270> .
+
+ensembl:ENSG00000211778
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.454579> .
+
+ensembl:ENSG00000138413
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.593422> .
+
+ensembl:ENSG00000141469
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.101307> , <http://identifiers.org/unigene/Hs.600667> .
+
+ensembl:ENSG00000054983
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.513439> .
+
+ensembl:ENSG00000104419
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613170> , <http://identifiers.org/unigene/Hs.372914> .
+
+ensembl:ENSG00000228786
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.584736> .
+
+ensembl:ENSG00000141510
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.437460> , <http://identifiers.org/unigene/Hs.743051> .
+
+ensembl:ENSG00000111199
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597590> , <http://identifiers.org/unigene/Hs.506713> .
+
+ensembl:ENSG00000130635
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.712826> , <http://identifiers.org/unigene/Hs.595415> , <http://identifiers.org/unigene/Hs.210283> .
+
+ensembl:ENSG00000135899
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574783> , <http://identifiers.org/unigene/Hs.145150> , <http://identifiers.org/unigene/Hs.601987> .
+
+ensembl:ENSG00000201813
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592435> .
+
+ensembl:ENSG00000250566
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.563229> .
+
+ensembl:ENSG00000230521
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000231808
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.636429> .
+
+ensembl:ENSG00000131504
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.707083> , <http://identifiers.org/unigene/Hs.529451> .
+
+ensembl:ENSG00000142173
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.420269> .
+
+ensembl:ENSG00000235532
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.447508> .
+
+ensembl:ENSG00000224657
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.454401> .
+
+ensembl:ENSG00000128973
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.584921> .
+
+ensembl:ENSG00000241669
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581631> .
+
+ensembl:ENSG00000125899
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570365> .
+
+ensembl:ENSG00000156313
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.61438> .
+
+ensembl:ENSG00000230075
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656152> .
+
+ensembl:ENSG00000142405
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631573> .
+
+ensembl:ENSG00000181126
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000179698
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.98723> .
+
+ensembl:ENSG00000240395
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654484> .
+
+ensembl:ENSG00000235086
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.679468> .
+
+ensembl:ENSG00000213111
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666275> .
+
+ensembl:ENSG00000215507
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.454401> .
+
+ensembl:ENSG00000175084
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.732703> .
+
+ensembl:ENSG00000106080
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.603294> , <http://identifiers.org/unigene/Hs.593541> .
+
+ensembl:ENSG00000231197
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000163600
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.56247> , <http://identifiers.org/unigene/Hs.627040> .
+
+ensembl:ENSG00000145020
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.102> .
+
+ensembl:ENSG00000188827
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.143681> .
+
+ensembl:ENSG00000138759
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.369448> , <http://identifiers.org/unigene/Hs.701327> .
+
+ensembl:ENSG00000169432
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.439145> , <http://identifiers.org/unigene/Hs.714528> .
+
+ensembl:ENSG00000175097
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.714519> .
+
+ensembl:ENSG00000188662
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.25934> .
+
+ensembl:ENSG00000258984
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.471785> .
+
+ensembl:ENSG00000249786
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.642526> .
+
+ensembl:ENSG00000226702
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.580331> .
+
+ensembl:ENSG00000132781
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.271353> .
+
+ensembl:ENSG00000243967
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.615614> , <http://identifiers.org/unigene/Hs.738322> .
+
+ensembl:ENSG00000261075
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578888> .
+
+ensembl:ENSG00000251056
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722199> .
+
+ensembl:ENSG00000204705
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.639911> .
+
+ensembl:ENSG00000119684
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.603265> , <http://identifiers.org/unigene/Hs.436650> .
+
+ensembl:ENSG00000229036
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.728650> , <http://identifiers.org/unigene/Hs.616700> .
+
+ensembl:ENSG00000108556
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654535> .
+
+ensembl:ENSG00000270505
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.458446> .
+
+ensembl:ENSG00000275050
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.658748> .
+
+ensembl:ENSG00000234364
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000242925
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.128933> .
+
+ensembl:ENSG00000276172
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585701> .
+
+ensembl:ENSG00000140368
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.129758> .
+
+ensembl:ENSG00000211799
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495021> .
+
+ensembl:ENSG00000122548
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.69749> .
+
+ensembl:ENSG00000160201
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.629181> , <http://identifiers.org/unigene/Hs.738829> , <http://identifiers.org/unigene/Hs.687214> , <http://identifiers.org/unigene/Hs.597777> .
+
+ensembl:ENSG00000252498
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597951> .
+
+ensembl:ENSG00000186831
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.722804> , <http://identifiers.org/unigene/Hs.579265> , <http://identifiers.org/unigene/Hs.579266> .
+
+ensembl:ENSG00000196569
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.200841> .
+
+ensembl:ENSG00000180259
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.126516> .
+
+ensembl:ENSG00000134086
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.543265> .
+
+ensembl:ENSG00000185010
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654450> .
+
+ensembl:ENSG00000224118
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000236827
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.404138> .
+
+ensembl:ENSG00000163554
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.119825> .
+
+ensembl:ENSG00000198547
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.353262> .
+
+ensembl:ENSG00000114054
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736024> , <http://identifiers.org/unigene/Hs.63788> .
+
+ensembl:ENSG00000215296
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.439998> .
+
+ensembl:ENSG00000172936
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.82116> .
+
+ensembl:ENSG00000105397
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.75516> .
+
+ensembl:ENSG00000100146
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.376984> .
+
+ensembl:ENSG00000134612
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.645352> .
+
+ensembl:ENSG00000161643
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.738007> .
+
+ensembl:ENSG00000232239
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656591> .
+
+ensembl:ENSG00000115648
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.102406> .
+
+ensembl:ENSG00000196177
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.615213> , <http://identifiers.org/unigene/Hs.81934> .
+
+ensembl:ENSG00000211639
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.449575> .
+
+ensembl:ENSG00000234217
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656591> .
+
+ensembl:ENSG00000197299
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.725208> .
+
+ensembl:ENSG00000134460
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.231367> .
+
+ensembl:ENSG00000260139
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574277> , <http://identifiers.org/unigene/Hs.723058> .
+
+ensembl:ENSG00000083799
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.619311> , <http://identifiers.org/unigene/Hs.611934> , <http://identifiers.org/unigene/Hs.693214> , <http://identifiers.org/unigene/Hs.432993> , <http://identifiers.org/unigene/Hs.578973> .
+
+ensembl:ENSG00000132967
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.717965> .
+
+ensembl:ENSG00000231909
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568035> .
+
+ensembl:ENSG00000235339
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662154> .
+
+ensembl:ENSG00000133111
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.24422> .
+
+ensembl:ENSG00000138375
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.516674> .
+
+ensembl:ENSG00000211959
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.735534> .
+
+ensembl:ENSG00000236208
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.562293> .
+
+ensembl:ENSG00000146648
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731652> , <http://identifiers.org/unigene/Hs.609934> , <http://identifiers.org/unigene/Hs.708569> , <http://identifiers.org/unigene/Hs.605083> , <http://identifiers.org/unigene/Hs.488293> .
+
+ensembl:ENSG00000211706
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730125> .
+
+ensembl:ENSG00000257950
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.731607> .
+
+ensembl:ENSG00000226736
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000151498
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.608066> , <http://identifiers.org/unigene/Hs.14791> .
+
+ensembl:ENSG00000213212
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.663589> .
+
+ensembl:ENSG00000103313
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632221> .
+
+ensembl:ENSG00000211794
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525888> .
+
+ensembl:ENSG00000107290
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.460317> .
+
+ensembl:ENSG00000235481
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.571604> .
+
+ensembl:ENSG00000198947
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495912> , <http://identifiers.org/unigene/Hs.653669> .
+
+ensembl:ENSG00000229529
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000040531
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.187667> .
+
+ensembl:ENSG00000224353
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.712079> .
+
+ensembl:ENSG00000130816
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.202672> .
+
+ensembl:ENSG00000244692
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.677070> .
+
+ensembl:ENSG00000238021
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568842> .
+
+ensembl:ENSG00000136936
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.654364> .
+
+ensembl:ENSG00000241112
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.676735> .
+
+ensembl:ENSG00000175198
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733632> .
+
+ensembl:ENSG00000232920
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.637252> .
+
+ensembl:ENSG00000176054
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.458295> .
+
+ensembl:ENSG00000151552
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.618135> .
+
+ensembl:ENSG00000198707
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.150444> .
+
+ensembl:ENSG00000134259
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.2561> .
+
+ensembl:ENSG00000157131
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.93210> .
+
+ensembl:ENSG00000182197
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.44690> , <http://identifiers.org/unigene/Hs.44609> , <http://identifiers.org/unigene/Hs.492618> , <http://identifiers.org/unigene/Hs.606813> , <http://identifiers.org/unigene/Hs.613910> .
+
+ensembl:ENSG00000226344
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.589889> .
+
+ensembl:ENSG00000226891
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.734218> , <http://identifiers.org/unigene/Hs.722173> .
+
+ensembl:ENSG00000235001
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.716693> .
+
+ensembl:ENSG00000015285
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.2157> , <http://identifiers.org/unigene/Hs.602310> .
+
+ensembl:ENSG00000232474
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690970> .
+
+ensembl:ENSG00000149596
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.441737> .
+
+ensembl:ENSG00000011143
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.408843> .
+
+ensembl:ENSG00000114062
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733521> , <http://identifiers.org/unigene/Hs.738053> , <http://identifiers.org/unigene/Hs.600377> , <http://identifiers.org/unigene/Hs.731704> , <http://identifiers.org/unigene/Hs.598862> .
+
+ensembl:ENSG00000232487
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661766> .
+
+ensembl:ENSG00000259714
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.525794> .
+
+ensembl:ENSG00000139330
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.125750> .
+
+ensembl:ENSG00000249407
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.630170> .
+
+ensembl:ENSG00000176387
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.1376> .
+
+ensembl:ENSG00000227773
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.610329> .
+
+ensembl:ENSG00000232541
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000223631
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.434217> .
+
+ensembl:ENSG00000251224
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.581447> .
+
+ensembl:ENSG00000171608
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.518451> .
+
+ensembl:ENSG00000188603
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739118> , <http://identifiers.org/unigene/Hs.534667> .
+
+ensembl:ENSG00000120725
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.483521> , <http://identifiers.org/unigene/Hs.743921> .
+
+ensembl:ENSG00000134899
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.713587> .
+
+ensembl:ENSG00000233410
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568480> .
+
+ensembl:ENSG00000276033
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.288520> .
+
+ensembl:ENSG00000127666
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.29344> , <http://identifiers.org/unigene/Hs.740705> .
+
+ensembl:ENSG00000265158
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528606> .
+
+ensembl:ENSG00000235641
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.535950> .
+
+ensembl:ENSG00000102158
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.323562> .
+
+ensembl:ENSG00000188157
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.623478> , <http://identifiers.org/unigene/Hs.273330> .
+
+ensembl:ENSG00000244558
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.255479> .
+
+ensembl:ENSG00000228490
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000082458
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.740881> , <http://identifiers.org/unigene/Hs.721586> .
+
+ensembl:ENSG00000039537
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.481992> .
+
+ensembl:ENSG00000236216
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.568012> .
+
+ensembl:ENSG00000276518
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000179082
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.449434> .
+
+ensembl:ENSG00000230403
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.577981> .
+
+ensembl:ENSG00000237338
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570448> .
+
+ensembl:ENSG00000275791
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.541321> .
+
+ensembl:ENSG00000215910
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.585415> , <http://identifiers.org/unigene/Hs.730573> .
+
+ensembl:ENSG00000178445
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.584238> , <http://identifiers.org/unigene/Hs.603778> .
+
+ensembl:ENSG00000075785
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.744853> .
+
+ensembl:ENSG00000211727
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737656> .
+
+ensembl:ENSG00000169247
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.692108> .
+
+ensembl:ENSG00000168685
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.591742> , <http://identifiers.org/unigene/Hs.619102> .
+
+ensembl:ENSG00000186081
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.433845> .
+
+ensembl:ENSG00000239316
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.684613> .
+
+ensembl:ENSG00000237898
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638289> .
+
+ensembl:ENSG00000244625
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.640402> , <http://identifiers.org/unigene/Hs.619689> .
+
+ensembl:ENSG00000260062
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.540272> .
+
+ensembl:ENSG00000259196
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662466> .
+
+ensembl:ENSG00000226517
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.659404> .
+
+ensembl:ENSG00000167165
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662354> , <http://identifiers.org/unigene/Hs.662316> .
+
+ensembl:ENSG00000154537
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651534> .
+
+ensembl:ENSG00000060069
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.465490> , <http://identifiers.org/unigene/Hs.640231> , <http://identifiers.org/unigene/Hs.734021> .
+
+ensembl:ENSG00000134574
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.700338> .
+
+ensembl:ENSG00000230011
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.535089> .
+
+ensembl:ENSG00000213300
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.597770> .
+
+ensembl:ENSG00000234166
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.378115> .
+
+ensembl:ENSG00000271723
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.412482> .
+
+ensembl:ENSG00000170734
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.655467> .
+
+ensembl:ENSG00000164692
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.489142> , <http://identifiers.org/unigene/Hs.629269> .
+
+ensembl:ENSG00000117322
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.445757> , <http://identifiers.org/unigene/Hs.609955> .
+
+ensembl:ENSG00000277083
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651079> .
+
+ensembl:ENSG00000156515
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.370365> .
+
+ensembl:ENSG00000064012
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.715120> , <http://identifiers.org/unigene/Hs.599762> .
+
+ensembl:ENSG00000235747
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613459> .
+
+ensembl:ENSG00000211807
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495132> .
+
+ensembl:ENSG00000168040
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.86131> .
+
+ensembl:ENSG00000233529
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613459> .
+
+ensembl:ENSG00000170275
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.614609> , <http://identifiers.org/unigene/Hs.609739> , <http://identifiers.org/unigene/Hs.728073> , <http://identifiers.org/unigene/Hs.517888> , <http://identifiers.org/unigene/Hs.605307> , <http://identifiers.org/unigene/Hs.737987> .
+
+ensembl:ENSG00000081277
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.497350> .
+
+ensembl:ENSG00000213860
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.718298> .
+
+ensembl:ENSG00000211895
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.699841> .
+
+ensembl:ENSG00000277008
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.710323> .
+
+ensembl:ENSG00000273954
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.552273> .
+
+ensembl:ENSG00000211642
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.572894> .
+
+ensembl:ENSG00000117335
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.510402> .
+
+ensembl:ENSG00000181163
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.573436> , <http://identifiers.org/unigene/Hs.667403> , <http://identifiers.org/unigene/Hs.600877> , <http://identifiers.org/unigene/Hs.634598> , <http://identifiers.org/unigene/Hs.735618> , <http://identifiers.org/unigene/Hs.647621> .
+
+ensembl:ENSG00000102393
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.69089> .
+
+ensembl:ENSG00000070915
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.669115> .
+
+ensembl:ENSG00000259023
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.124848> .
+
+ensembl:ENSG00000211655
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.474325> .
+
+ensembl:ENSG00000276500
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690728> .
+
+ensembl:ENSG00000276041
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000234705
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.729710> .
+
+ensembl:ENSG00000228369
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.603708> .
+
+ensembl:ENSG00000186481
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661746> , <http://identifiers.org/unigene/Hs.741885> .
+
+ensembl:ENSG00000188877
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.531579> .
+
+ensembl:ENSG00000231925
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.370937> , <http://identifiers.org/unigene/Hs.722317> .
+
+ensembl:ENSG00000160323
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.131433> .
+
+ensembl:ENSG00000158813
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.105407> .
+
+ensembl:ENSG00000203326
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.352638> .
+
+ensembl:ENSG00000250902
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.714527> .
+
+ensembl:ENSG00000160808
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.713332> , <http://identifiers.org/unigene/Hs.517939> .
+
+ensembl:ENSG00000277176
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000035403
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.605794> , <http://identifiers.org/unigene/Hs.643896> .
+
+ensembl:ENSG00000231226
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.548919> .
+
+ensembl:ENSG00000112964
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.125180> , <http://identifiers.org/unigene/Hs.714143> .
+
+ensembl:ENSG00000095585
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665244> .
+
+ensembl:ENSG00000244161
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.613914> .
+
+ensembl:ENSG00000232348
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.161182> .
+
+ensembl:ENSG00000236709
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.656160> , <http://identifiers.org/unigene/Hs.744071> .
+
+ensembl:ENSG00000172893
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.503134> , <http://identifiers.org/unigene/Hs.639004> .
+
+ensembl:ENSG00000131482
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742566> , <http://identifiers.org/unigene/Hs.212293> .
+
+ensembl:ENSG00000122025
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.507590> , <http://identifiers.org/unigene/Hs.717775> .
+
+ensembl:ENSG00000165195
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.607231> , <http://identifiers.org/unigene/Hs.624563> , <http://identifiers.org/unigene/Hs.137154> .
+
+ensembl:ENSG00000169562
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.333303> .
+
+ensembl:ENSG00000219545
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.652371> , <http://identifiers.org/unigene/Hs.641594> , <http://identifiers.org/unigene/Hs.635199> .
+
+ensembl:ENSG00000229140
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.679457> .
+
+ensembl:ENSG00000244646
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632286> , <http://identifiers.org/unigene/Hs.158346> .
+
+ensembl:ENSG00000224142
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.682139> .
+
+ensembl:ENSG00000094796
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.41696> .
+
+ensembl:ENSG00000171557
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.727584> .
+
+ensembl:ENSG00000224614
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.679136> .
+
+ensembl:ENSG00000124275
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.644999> , <http://identifiers.org/unigene/Hs.481551> .
+
+ensembl:ENSG00000179348
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.709024> , <http://identifiers.org/unigene/Hs.367725> .
+
+ensembl:ENSG00000197934
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.570432> .
+
+ensembl:ENSG00000142396
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739944> .
+
+ensembl:ENSG00000143252
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.534593> , <http://identifiers.org/unigene/Hs.603084> , <http://identifiers.org/unigene/Hs.638868> , <http://identifiers.org/unigene/Hs.711955> , <http://identifiers.org/unigene/Hs.600342> , <http://identifiers.org/unigene/Hs.610164> , <http://identifiers.org/unigene/Hs.632231> , <http://identifiers.org/unigene/Hs.444472> .
+
+ensembl:ENSG00000211815
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.121492> .
+
+ensembl:ENSG00000256197
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690875> .
+
+ensembl:ENSG00000239951
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704238> .
+
+ensembl:ENSG00000142156
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.474053> .
+
+ensembl:ENSG00000001631
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.531987> .
+
+ensembl:ENSG00000154153
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.481704> .
+
+ensembl:ENSG00000175054
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.271791> .
+
+ensembl:ENSG00000135477
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.584773> .
+
+ensembl:ENSG00000244267
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.589007> .
+
+ensembl:ENSG00000235822
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.578022> .
+
+ensembl:ENSG00000253649
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.675958> .
+
+ensembl:ENSG00000245848
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.76171> .
+
+ensembl:ENSG00000229780
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.608237> , <http://identifiers.org/unigene/Hs.735500> .
+
+ensembl:ENSG00000102174
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.662752> , <http://identifiers.org/unigene/Hs.495834> , <http://identifiers.org/unigene/Hs.50125> .
+
+ensembl:ENSG00000197083
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.661876> .
+
+ensembl:ENSG00000063244
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.528007> .
+
+ensembl:ENSG00000244321
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.552045> .
+
+ensembl:ENSG00000224707
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.666726> .
+
+ensembl:ENSG00000005381
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.593778> , <http://identifiers.org/unigene/Hs.458272> .
+
+ensembl:ENSG00000206674
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.638273> .
+
+ensembl:ENSG00000157978
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.590911> , <http://identifiers.org/unigene/Hs.617589> .
+
+ensembl:ENSG00000205312
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.737208> , <http://identifiers.org/unigene/Hs.569748> , <http://identifiers.org/unigene/Hs.641505> .
+
+ensembl:ENSG00000127914
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.651221> .
+
+ensembl:ENSG00000274610
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000165102
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.600384> , <http://identifiers.org/unigene/Hs.708442> .
+
+ensembl:ENSG00000134982
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.739006> , <http://identifiers.org/unigene/Hs.158932> , <http://identifiers.org/unigene/Hs.727274> , <http://identifiers.org/unigene/Hs.621884> , <http://identifiers.org/unigene/Hs.645638> .
+
+ensembl:ENSG00000228903
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.632627> , <http://identifiers.org/unigene/Hs.634937> .
+
+ensembl:ENSG00000198677
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.482868> .
+
+ensembl:ENSG00000196459
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.592238> , <http://identifiers.org/unigene/Hs.630805> , <http://identifiers.org/unigene/Hs.634785> , <http://identifiers.org/unigene/Hs.622292> .
+
+ensembl:ENSG00000148356
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.495188> .
+
+ensembl:ENSG00000270550
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.704444> , <http://identifiers.org/unigene/Hs.510650> , <http://identifiers.org/unigene/Hs.735498> .
+
+ensembl:ENSG00000119401
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.591910> .
+
+ensembl:ENSG00000249057
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.688865> .
+
+ensembl:ENSG00000223699
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.390171> .
+
+ensembl:ENSG00000226520
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.664656> .
+
+ensembl:ENSG00000243238
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.726418> .
+
+ensembl:ENSG00000179583
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.665026> , <http://identifiers.org/unigene/Hs.701991> , <http://identifiers.org/unigene/Hs.716787> , <http://identifiers.org/unigene/Hs.126714> .
+
+ensembl:ENSG00000253729
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.491682> , <http://identifiers.org/unigene/Hs.714391> .
+
+ensembl:ENSG00000069431
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.631170> , <http://identifiers.org/unigene/Hs.619371> , <http://identifiers.org/unigene/Hs.446050> , <http://identifiers.org/unigene/Hs.732701> .
+
+ensembl:ENSG00000227895
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.589934> .
+
+ensembl:ENSG00000153684
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.169639> .
+
+ensembl:ENSG00000236093
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.730139> .
+
+ensembl:ENSG00000226074
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.742123> .
+
+ensembl:ENSG00000224328
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.708954> .
+
+ensembl:ENSG00000275593
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690615> .
+
+ensembl:ENSG00000206042
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.690601> .
+
+ensembl:ENSG00000100596
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.435661> .
+
+ensembl:ENSG00000078114
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.609027> , <http://identifiers.org/unigene/Hs.5025> .
+
+ensembl:ENSG00000163217
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.158317> .
+
+ensembl:ENSG00000244414
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.575869> .
+
+ensembl:ENSG00000268101
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.574506> .
+
+ensembl:ENSG00000084073
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.132642> , <http://identifiers.org/unigene/Hs.618208> .
+
+ensembl:ENSG00000158290
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.622692> , <http://identifiers.org/unigene/Hs.102914> .
+
+ensembl:ENSG00000172687
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.124384> .
+
+ensembl:ENSG00000152642
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.622121> , <http://identifiers.org/unigene/Hs.82432> .
+
+ensembl:ENSG00000188573
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.166262> .
+
+ensembl:ENSG00000140199
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.510939> .
+
+ensembl:ENSG00000218052
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.736725> , <http://identifiers.org/unigene/Hs.601696> , <http://identifiers.org/unigene/Hs.614158> , <http://identifiers.org/unigene/Hs.684324> , <http://identifiers.org/unigene/Hs.730498> .
+
+ensembl:ENSG00000203747
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.372679> , <http://identifiers.org/unigene/Hs.673288> .
+
+ensembl:ENSG00000199933
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.607584> .
+
+ensembl:ENSG00000235536
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.743105> .
+
+ensembl:ENSG00000167986
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.290758> , <http://identifiers.org/unigene/Hs.717913> .
+
+ensembl:ENSG00000205266
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.680206> .
+
+ensembl:ENSG00000126759
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.53155> .
+
+ensembl:ENSG00000267325
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.634003> .
+
+ensembl:ENSG00000233153
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.125904> .
+
+ensembl:ENSG00000134389
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.282594> .
+
+ensembl:ENSG00000182533
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.98303> .
+
+ensembl:ENSG00000173876
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.351544> .
+
+ensembl:ENSG00000242111
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.553289> , <http://identifiers.org/unigene/Hs.608322> .
+
+ensembl:ENSG00000223606
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.60856> , <http://identifiers.org/unigene/Hs.616628> .
+
+ensembl:ENSG00000236240
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.683479> .
+
+ensembl:ENSG00000259831
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.447504> .
+
+ensembl:ENSG00000131828
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.530331> .
+
+ensembl:ENSG00000123096
+        ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733056> , <http://identifiers.org/unigene/Hs.736914> , <http://identifiers.org/unigene/Hs.733413> , <http://identifiers.org/unigene/Hs.183428> .

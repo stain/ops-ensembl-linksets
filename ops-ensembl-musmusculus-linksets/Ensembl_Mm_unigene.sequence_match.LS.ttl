@@ -1,0 +1,1653 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSMUSG00000100114
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.389300> .
+
+ensembl:ENSMUSG00000100029
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.394012> .
+
+ensembl:ENSMUSG00000099933
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.401935> .
+
+ensembl:ENSMUSG00000101483
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396181> .
+
+ensembl:ENSMUSG00000099848
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410387> .
+
+ensembl:ENSMUSG00000099722
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.65435> .
+
+ensembl:ENSMUSG00000100789
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.109435> .
+
+ensembl:ENSMUSG00000101930
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.121543> , <http://identifiers.org/unigene/Mm.459210> .
+
+ensembl:ENSMUSG00000101061
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417087> .
+
+ensembl:ENSMUSG00000100844
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417838> .
+
+ensembl:ENSMUSG00000100367
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.383616> .
+
+ensembl:ENSMUSG00000100759
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.271181> .
+
+ensembl:ENSMUSG00000099794
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.48862> .
+
+ensembl:ENSMUSG00000101634
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396239> .
+
+ensembl:ENSMUSG00000101549
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.455506> .
+
+ensembl:ENSMUSG00000100603
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.159041> .
+
+ensembl:ENSMUSG00000101791
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396373> .
+
+ensembl:ENSMUSG00000100518
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399187> .
+
+ensembl:ENSMUSG00000100000
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.23366> .
+
+ensembl:ENSMUSG00000099553
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.82605> .
+
+ensembl:ENSMUSG00000099945
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.159035> .
+
+ensembl:ENSMUSG00000099468
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417390> .
+
+ensembl:ENSMUSG00000101308
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.411456> .
+
+ensembl:ENSMUSG00000100760
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.123156> , <http://identifiers.org/unigene/Mm.489545> .
+
+ensembl:ENSMUSG00000100198
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396207> .
+
+ensembl:ENSMUSG00000099915
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.359564> .
+
+ensembl:ENSMUSG00000101942
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.426422> .
+
+ensembl:ENSMUSG00000102074
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420621> .
+
+ensembl:ENSMUSG00000100379
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465180> , <http://identifiers.org/unigene/Mm.455741> .
+
+ensembl:ENSMUSG00000101731
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.406320> .
+
+ensembl:ENSMUSG00000100253
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396158> .
+
+ensembl:ENSMUSG00000099619
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000100911
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.261413> .
+
+ensembl:ENSMUSG00000101912
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.386790> .
+
+ensembl:ENSMUSG00000100826
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.474161> , <http://identifiers.org/unigene/Mm.423722> , <http://identifiers.org/unigene/Mm.482722> , <http://identifiers.org/unigene/Mm.335613> , <http://identifiers.org/unigene/Mm.406040> , <http://identifiers.org/unigene/Mm.482346> , <http://identifiers.org/unigene/Mm.491385> , <http://identifiers.org/unigene/Mm.335715> .
+
+ensembl:ENSMUSG00000099384
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491052> .
+
+ensembl:ENSMUSG00000101224
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417828> .
+
+ensembl:ENSMUSG00000101139
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.460701> .
+
+ensembl:ENSMUSG00000099957
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.158306> .
+
+ensembl:ENSMUSG00000101013
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491217> , <http://identifiers.org/unigene/Mm.428023> .
+
+ensembl:ENSMUSG00000101592
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099354
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.126190> .
+
+ensembl:ENSMUSG00000099746
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.450190> .
+
+ensembl:ENSMUSG00000101773
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396392> .
+
+ensembl:ENSMUSG00000100108
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396343> .
+
+ensembl:ENSMUSG00000100084
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.484037> .
+
+ensembl:ENSMUSG00000101954
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000102086
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.48851> .
+
+ensembl:ENSMUSG00000100627
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.145224> .
+
+ensembl:ENSMUSG00000100501
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000102026
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417746> .
+
+ensembl:ENSMUSG00000099843
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.441105> , <http://identifiers.org/unigene/Mm.359717> .
+
+ensembl:ENSMUSG00000100392
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392984> .
+
+ensembl:ENSMUSG00000100205
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.25966> .
+
+ensembl:ENSMUSG00000100965
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.393655> .
+
+ensembl:ENSMUSG00000100573
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410863> .
+
+ensembl:ENSMUSG00000101574
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.82792> .
+
+ensembl:ENSMUSG00000100096
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489091> .
+
+ensembl:ENSMUSG00000102098
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396405> .
+
+ensembl:ENSMUSG00000101755
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417689> .
+
+ensembl:ENSMUSG00000100277
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.81192> .
+
+ensembl:ENSMUSG00000100151
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402321> .
+
+ensembl:ENSMUSG00000099885
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000100724
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399100> .
+
+ensembl:ENSMUSG00000101725
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465176> , <http://identifiers.org/unigene/Mm.454616> , <http://identifiers.org/unigene/Mm.460818> , <http://identifiers.org/unigene/Mm.465180> , <http://identifiers.org/unigene/Mm.465181> .
+
+ensembl:ENSMUSG00000100247
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.123337> .
+
+ensembl:ENSMUSG00000100905
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.395013> .
+
+ensembl:ENSMUSG00000100121
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490941> .
+
+ensembl:ENSMUSG00000101514
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.329306> .
+
+ensembl:ENSMUSG00000102123
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.398921> .
+
+ensembl:ENSMUSG00000100428
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.460701> .
+
+ensembl:ENSMUSG00000101429
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.134505> .
+
+ensembl:ENSMUSG00000100217
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.434298> .
+
+ensembl:ENSMUSG00000099378
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491040> .
+
+ensembl:ENSMUSG00000100609
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435427> .
+
+ensembl:ENSMUSG00000101797
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.413186> .
+
+ensembl:ENSMUSG00000099644
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440062> .
+
+ensembl:ENSMUSG00000100585
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.443285> .
+
+ensembl:ENSMUSG00000100851
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417716> .
+
+ensembl:ENSMUSG00000101007
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402031> .
+
+ensembl:ENSMUSG00000101586
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.447049> .
+
+ensembl:ENSMUSG00000101978
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396233> .
+
+ensembl:ENSMUSG00000099825
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.46108> .
+
+ensembl:ENSMUSG00000100289
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.350737> .
+
+ensembl:ENSMUSG00000101164
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.455739> , <http://identifiers.org/unigene/Mm.465178> , <http://identifiers.org/unigene/Mm.463004> .
+
+ensembl:ENSMUSG00000099590
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.405801> .
+
+ensembl:ENSMUSG00000100314
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.84337> .
+
+ensembl:ENSMUSG00000100706
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.483250> .
+
+ensembl:ENSMUSG00000101894
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.177847> .
+
+ensembl:ENSMUSG00000101683
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.243721> .
+
+ensembl:ENSMUSG00000101472
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000102081
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000099837
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000101779
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000101261
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.65499> .
+
+ensembl:ENSMUSG00000099500
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000101176
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.390250> .
+
+ensembl:ENSMUSG00000101568
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396214> .
+
+ensembl:ENSMUSG00000099415
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099994
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491348> .
+
+ensembl:ENSMUSG00000099391
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.427362> , <http://identifiers.org/unigene/Mm.425217> , <http://identifiers.org/unigene/Mm.459759> .
+
+ensembl:ENSMUSG00000100622
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.453688> .
+
+ensembl:ENSMUSG00000099964
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.385453> .
+
+ensembl:ENSMUSG00000099879
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.446913> .
+
+ensembl:ENSMUSG00000101719
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000100483
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.478803> .
+
+ensembl:ENSMUSG00000100664
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416977> .
+
+ensembl:ENSMUSG00000099512
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404620> .
+
+ensembl:ENSMUSG00000101062
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.414780> .
+
+ensembl:ENSMUSG00000102063
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.415344> .
+
+ensembl:ENSMUSG00000099880
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000101635
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.483105> , <http://identifiers.org/unigene/Mm.491546> .
+
+ensembl:ENSMUSG00000100157
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396412> .
+
+ensembl:ENSMUSG00000101032
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465175> , <http://identifiers.org/unigene/Mm.455742> .
+
+ensembl:ENSMUSG00000099976
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.460832> .
+
+ensembl:ENSMUSG00000100791
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.385486> .
+
+ensembl:ENSMUSG00000101792
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.243842> , <http://identifiers.org/unigene/Mm.390301> .
+
+ensembl:ENSMUSG00000100001
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396318> .
+
+ensembl:ENSMUSG00000102129
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465176> , <http://identifiers.org/unigene/Mm.454616> , <http://identifiers.org/unigene/Mm.465180> , <http://identifiers.org/unigene/Mm.465181> .
+
+ensembl:ENSMUSG00000100580
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.298855> , <http://identifiers.org/unigene/Mm.488099> , <http://identifiers.org/unigene/Mm.437542> , <http://identifiers.org/unigene/Mm.488111> .
+
+ensembl:ENSMUSG00000101581
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392191> .
+
+ensembl:ENSMUSG00000101370
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.82776> .
+
+ensembl:ENSMUSG00000101888
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.159534> .
+
+ensembl:ENSMUSG00000099343
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392615> .
+
+ensembl:ENSMUSG00000099735
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.352925> .
+
+ensembl:ENSMUSG00000101762
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416858> .
+
+ensembl:ENSMUSG00000100550
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.250542> .
+
+ensembl:ENSMUSG00000100199
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440928> .
+
+ensembl:ENSMUSG00000100465
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.366544> .
+
+ensembl:ENSMUSG00000100857
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396217> .
+
+ensembl:ENSMUSG00000099681
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.351426> .
+
+ensembl:ENSMUSG00000099988
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.76932> .
+
+ensembl:ENSMUSG00000100827
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.428881> .
+
+ensembl:ENSMUSG00000101702
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.243730> .
+
+ensembl:ENSMUSG00000101225
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.256720> .
+
+ensembl:ENSMUSG00000099958
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.280685> .
+
+ensembl:ENSMUSG00000099747
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.391004> .
+
+ensembl:ENSMUSG00000100170
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.314163> .
+
+ensembl:ENSMUSG00000100562
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.41325> .
+
+ensembl:ENSMUSG00000100954
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.394177> , <http://identifiers.org/unigene/Mm.489110> .
+
+ensembl:ENSMUSG00000100085
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000100658
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.362829> .
+
+ensembl:ENSMUSG00000101714
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.393470> .
+
+ensembl:ENSMUSG00000100110
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.415063> .
+
+ensembl:ENSMUSG00000102112
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.188743> , <http://identifiers.org/unigene/Mm.372950> .
+
+ensembl:ENSMUSG00000100417
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.329879> .
+
+ensembl:ENSMUSG00000101026
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.171357> .
+
+ensembl:ENSMUSG00000102027
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.418530> .
+
+ensembl:ENSMUSG00000101997
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416909> .
+
+ensembl:ENSMUSG00000099759
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.418191> , <http://identifiers.org/unigene/Mm.273972> , <http://identifiers.org/unigene/Mm.424043> .
+
+ensembl:ENSMUSG00000101786
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.455739> , <http://identifiers.org/unigene/Mm.195731> .
+
+ensembl:ENSMUSG00000100182
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402692> .
+
+ensembl:ENSMUSG00000102099
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.32214> .
+
+ensembl:ENSMUSG00000101153
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.427351> .
+
+ensembl:ENSMUSG00000100936
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.407456> .
+
+ensembl:ENSMUSG00000101811
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099760
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.428778> .
+
+ensembl:ENSMUSG00000100429
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.309907> .
+
+ensembl:ENSMUSG00000101008
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420197> .
+
+ensembl:ENSMUSG00000099911
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.362328> .
+
+ensembl:ENSMUSG00000102009
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.444291> .
+
+ensembl:ENSMUSG00000099700
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099349
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.231975> .
+
+ensembl:ENSMUSG00000101768
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.388162> .
+
+ensembl:ENSMUSG00000101642
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435427> .
+
+ensembl:ENSMUSG00000100164
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392029> .
+
+ensembl:ENSMUSG00000100948
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417746> .
+
+ensembl:ENSMUSG00000100430
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392425> .
+
+ensembl:ENSMUSG00000099983
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490522> , <http://identifiers.org/unigene/Mm.420385> .
+
+ensembl:ENSMUSG00000100134
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396238> .
+
+ensembl:ENSMUSG00000099561
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.406972> .
+
+ensembl:ENSMUSG00000099868
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421079> .
+
+ensembl:ENSMUSG00000100315
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396209> .
+
+ensembl:ENSMUSG00000101708
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.212736> .
+
+ensembl:ENSMUSG00000101895
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.336947> .
+
+ensembl:ENSMUSG00000100291
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.419463> , <http://identifiers.org/unigene/Mm.96357> .
+
+ensembl:ENSMUSG00000102106
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416890> .
+
+ensembl:ENSMUSG00000101081
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.327464> .
+
+ensembl:ENSMUSG00000099923
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.414924> .
+
+ensembl:ENSMUSG00000101599
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.426370> , <http://identifiers.org/unigene/Mm.426668> .
+
+ensembl:ENSMUSG00000099446
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410857> .
+
+ensembl:ENSMUSG00000100387
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440121> .
+
+ensembl:ENSMUSG00000099808
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.71176> .
+
+ensembl:ENSMUSG00000101051
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.442491> .
+
+ensembl:ENSMUSG00000099995
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489084> , <http://identifiers.org/unigene/Mm.63835> .
+
+ensembl:ENSMUSG00000100357
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.414065> .
+
+ensembl:ENSMUSG00000099392
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.385514> .
+
+ensembl:ENSMUSG00000099784
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.101636> .
+
+ensembl:ENSMUSG00000101147
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399259> .
+
+ensembl:ENSMUSG00000100146
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.436588> .
+
+ensembl:ENSMUSG00000100538
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.358123> .
+
+ensembl:ENSMUSG00000099669
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.400715> .
+
+ensembl:ENSMUSG00000100876
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.409034> .
+
+ensembl:ENSMUSG00000099724
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.401984> .
+
+ensembl:ENSMUSG00000099639
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.273343> .
+
+ensembl:ENSMUSG00000100931
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421409> .
+
+ensembl:ENSMUSG00000100188
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421598> .
+
+ensembl:ENSMUSG00000101189
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.67177> .
+
+ensembl:ENSMUSG00000100062
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396229> .
+
+ensembl:ENSMUSG00000099881
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.294938> .
+
+ensembl:ENSMUSG00000100635
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.378507> .
+
+ensembl:ENSMUSG00000101636
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402080> .
+
+ensembl:ENSMUSG00000100816
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.213659> .
+
+ensembl:ENSMUSG00000100605
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.33587> .
+
+ensembl:ENSMUSG00000100213
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.446722> .
+
+ensembl:ENSMUSG00000101214
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.362877> .
+
+ensembl:ENSMUSG00000101003
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000102004
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399496> .
+
+ensembl:ENSMUSG00000100370
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.442818> , <http://identifiers.org/unigene/Mm.322525> .
+
+ensembl:ENSMUSG00000099597
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489662> , <http://identifiers.org/unigene/Mm.392143> , <http://identifiers.org/unigene/Mm.406661> .
+
+ensembl:ENSMUSG00000102046
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416903> .
+
+ensembl:ENSMUSG00000099863
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.87058> .
+
+ensembl:ENSMUSG00000101100
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435427> .
+
+ensembl:ENSMUSG00000079800
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.462098> .
+
+ensembl:ENSMUSG00000100014
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.353188> .
+
+ensembl:ENSMUSG00000100593
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420532> .
+
+ensembl:ENSMUSG00000100985
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.387223> .
+
+ensembl:ENSMUSG00000099622
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.414999> .
+
+ensembl:ENSMUSG00000100297
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.245802> .
+
+ensembl:ENSMUSG00000101172
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489194> .
+
+ensembl:ENSMUSG00000099803
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.415189> .
+
+ensembl:ENSMUSG00000099411
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.158330> .
+
+ensembl:ENSMUSG00000101830
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.459728> .
+
+ensembl:ENSMUSG00000102088
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.436648> .
+
+ensembl:ENSMUSG00000099718
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.212721> .
+
+ensembl:ENSMUSG00000101268
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.105385> .
+
+ensembl:ENSMUSG00000099960
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.112794> .
+
+ensembl:ENSMUSG00000099664
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.357578> .
+
+ensembl:ENSMUSG00000100237
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.395164> .
+
+ensembl:ENSMUSG00000100629
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.419106> .
+
+ensembl:ENSMUSG00000100111
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.403888> .
+
+ensembl:ENSMUSG00000101112
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.415093> .
+
+ensembl:ENSMUSG00000099930
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.463996> .
+
+ensembl:ENSMUSG00000100871
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000100786
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.447326> .
+
+ensembl:ENSMUSG00000100575
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.426191> , <http://identifiers.org/unigene/Mm.490246> .
+
+ensembl:ENSMUSG00000101968
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.442141> .
+
+ensembl:ENSMUSG00000101450
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.453506> .
+
+ensembl:ENSMUSG00000099338
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.482884> .
+
+ensembl:ENSMUSG00000100364
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.439149> .
+
+ensembl:ENSMUSG00000101365
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.335371> .
+
+ensembl:ENSMUSG00000100279
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417050> .
+
+ensembl:ENSMUSG00000099519
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.358931> .
+
+ensembl:ENSMUSG00000100811
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417253> .
+
+ensembl:ENSMUSG00000101069
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000101812
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.244075> .
+
+ensembl:ENSMUSG00000100334
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.384841> .
+
+ensembl:ENSMUSG00000101335
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.183745> .
+
+ensembl:ENSMUSG00000099761
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435429> .
+
+ensembl:ENSMUSG00000100600
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.126237> .
+
+ensembl:ENSMUSG00000100515
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404590> .
+
+ensembl:ENSMUSG00000099465
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.406339> .
+
+ensembl:ENSMUSG00000101799
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.118030> .
+
+ensembl:ENSMUSG00000100219
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.378014> .
+
+ensembl:ENSMUSG00000100798
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.99352> .
+
+ensembl:ENSMUSG00000100280
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.436974> .
+
+ensembl:ENSMUSG00000100672
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.449462> .
+
+ensembl:ENSMUSG00000101009
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.116804> .
+
+ensembl:ENSMUSG00000100979
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.363068> .
+
+ensembl:ENSMUSG00000099435
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.82775> .
+
+ensembl:ENSMUSG00000099827
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.336406> .
+
+ensembl:ENSMUSG00000101854
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.188688> .
+
+ensembl:ENSMUSG00000100768
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.478790> .
+
+ensembl:ENSMUSG00000099616
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.425597> .
+
+ensembl:ENSMUSG00000101643
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421267> .
+
+ensembl:ENSMUSG00000101166
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.274492> .
+
+ensembl:ENSMUSG00000100557
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416854> .
+
+ensembl:ENSMUSG00000100738
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.443401> .
+
+ensembl:ENSMUSG00000099899
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.95234> .
+
+ensembl:ENSMUSG00000101613
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.383540> .
+
+ensembl:ENSMUSG00000100980
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.429685> , <http://identifiers.org/unigene/Mm.468514> .
+
+ensembl:ENSMUSG00000099954
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404379> .
+
+ensembl:ENSMUSG00000099869
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.443289> , <http://identifiers.org/unigene/Mm.489148> .
+
+ensembl:ENSMUSG00000100684
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.87065> .
+
+ensembl:ENSMUSG00000101106
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.455738> .
+
+ensembl:ENSMUSG00000099924
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.409711> , <http://identifiers.org/unigene/Mm.453754> .
+
+ensembl:ENSMUSG00000101474
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099447
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.47709> .
+
+ensembl:ENSMUSG00000099839
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.384857> .
+
+ensembl:ENSMUSG00000101655
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490854> , <http://identifiers.org/unigene/Mm.333223> .
+
+ensembl:ENSMUSG00000099417
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491069> , <http://identifiers.org/unigene/Mm.417851> .
+
+ensembl:ENSMUSG00000101444
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465176> , <http://identifiers.org/unigene/Mm.454616> , <http://identifiers.org/unigene/Mm.460818> , <http://identifiers.org/unigene/Mm.465180> , <http://identifiers.org/unigene/Mm.465181> .
+
+ensembl:ENSMUSG00000100147
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.484162> , <http://identifiers.org/unigene/Mm.331019> .
+
+ensembl:ENSMUSG00000099574
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489046> .
+
+ensembl:ENSMUSG00000101993
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000100781
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417601> .
+
+ensembl:ENSMUSG00000099936
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421276> .
+
+ensembl:ENSMUSG00000101963
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.484462> , <http://identifiers.org/unigene/Mm.384788> , <http://identifiers.org/unigene/Mm.235535> .
+
+ensembl:ENSMUSG00000099459
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.207930> .
+
+ensembl:ENSMUSG00000102095
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.337666> .
+
+ensembl:ENSMUSG00000101360
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.398340> .
+
+ensembl:ENSMUSG00000100666
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416968> .
+
+ensembl:ENSMUSG00000100274
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.443277> .
+
+ensembl:ENSMUSG00000101275
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396169> .
+
+ensembl:ENSMUSG00000101541
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000100932
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.429491> .
+
+ensembl:ENSMUSG00000100455
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.482676> .
+
+ensembl:ENSMUSG00000099429
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396136> .
+
+ensembl:ENSMUSG00000101848
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.370574> .
+
+ensembl:ENSMUSG00000101722
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.297086> .
+
+ensembl:ENSMUSG00000101903
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421763> , <http://identifiers.org/unigene/Mm.421606> .
+
+ensembl:ENSMUSG00000101426
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000100214
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.357559> .
+
+ensembl:ENSMUSG00000099767
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417775> .
+
+ensembl:ENSMUSG00000100582
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000101191
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.333397> .
+
+ensembl:ENSMUSG00000101583
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.247410> .
+
+ensembl:ENSMUSG00000099737
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000100371
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.484482> .
+
+ensembl:ENSMUSG00000099345
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.261544> .
+
+ensembl:ENSMUSG00000100763
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.441581> .
+
+ensembl:ENSMUSG00000101764
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402021> .
+
+ensembl:ENSMUSG00000101287
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.400667> .
+
+ensembl:ENSMUSG00000100552
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.486528> .
+
+ensembl:ENSMUSG00000101553
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.69413> .
+
+ensembl:ENSMUSG00000100075
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.444601> , <http://identifiers.org/unigene/Mm.394933> .
+
+ensembl:ENSMUSG00000100733
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.67343> .
+
+ensembl:ENSMUSG00000101734
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.50805> .
+
+ensembl:ENSMUSG00000100256
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000101257
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416888> .
+
+ensembl:ENSMUSG00000101131
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000101438
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392082> .
+
+ensembl:ENSMUSG00000102047
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399752> .
+
+ensembl:ENSMUSG00000100703
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491778> .
+
+ensembl:ENSMUSG00000099472
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402990> .
+
+ensembl:ENSMUSG00000100890
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.398247> .
+
+ensembl:ENSMUSG00000100618
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.358472> .
+
+ensembl:ENSMUSG00000101227
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.448673> .
+
+ensembl:ENSMUSG00000099653
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000101595
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.403976> .
+
+ensembl:ENSMUSG00000099749
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.415627> .
+
+ensembl:ENSMUSG00000100775
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.453582> .
+
+ensembl:ENSMUSG00000101776
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.34068> .
+
+ensembl:ENSMUSG00000101088
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.491059> .
+
+ensembl:ENSMUSG00000101746
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.86666> .
+
+ensembl:ENSMUSG00000099508
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.261063> .
+
+ensembl:ENSMUSG00000100534
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.291104> .
+
+ensembl:ENSMUSG00000100057
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000101801
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.392786> .
+
+ensembl:ENSMUSG00000102059
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440933> .
+
+ensembl:ENSMUSG00000099876
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.426285> .
+
+ensembl:ENSMUSG00000101324
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.313339> .
+
+ensembl:ENSMUSG00000100238
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099665
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.358300> .
+
+ensembl:ENSMUSG00000099931
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.448037> .
+
+ensembl:ENSMUSG00000101113
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.183491> , <http://identifiers.org/unigene/Mm.396200> .
+
+ensembl:ENSMUSG00000101505
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.398302> .
+
+ensembl:ENSMUSG00000101481
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.434605> .
+
+ensembl:ENSMUSG00000101028
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.406724> .
+
+ensembl:ENSMUSG00000102029
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.405675> .
+
+ensembl:ENSMUSG00000100480
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.362987> .
+
+ensembl:ENSMUSG00000100872
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.414869> .
+
+ensembl:ENSMUSG00000101662
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.441968> .
+
+ensembl:ENSMUSG00000100968
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399431> , <http://identifiers.org/unigene/Mm.484015> .
+
+ensembl:ENSMUSG00000102060
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.215259> .
+
+ensembl:ENSMUSG00000099605
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396240> .
+
+ensembl:ENSMUSG00000100546
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489417> .
+
+ensembl:ENSMUSG00000100335
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490534> .
+
+ensembl:ENSMUSG00000100727
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.141235> .
+
+ensembl:ENSMUSG00000099370
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.374088> .
+
+ensembl:ENSMUSG00000099762
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.380219> .
+
+ensembl:ENSMUSG00000101517
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.335610> , <http://identifiers.org/unigene/Mm.417304> .
+
+ensembl:ENSMUSG00000102000
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.234155> .
+
+ensembl:ENSMUSG00000101970
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.406715> , <http://identifiers.org/unigene/Mm.471294> .
+
+ensembl:ENSMUSG00000079222
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.394843> , <http://identifiers.org/unigene/Mm.393891> , <http://identifiers.org/unigene/Mm.465040> .
+
+ensembl:ENSMUSG00000101493
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.31786> .
+
+ensembl:ENSMUSG00000100799
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396202> .
+
+ensembl:ENSMUSG00000101674
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399200> .
+
+ensembl:ENSMUSG00000100009
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.371841> .
+
+ensembl:ENSMUSG00000099913
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416169> , <http://identifiers.org/unigene/Mm.486961> .
+
+ensembl:ENSMUSG00000101463
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.297897> .
+
+ensembl:ENSMUSG00000100643
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399259> .
+
+ensembl:ENSMUSG00000100166
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.146702> .
+
+ensembl:ENSMUSG00000101559
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404601> .
+
+ensembl:ENSMUSG00000099593
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000101348
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.389172> , <http://identifiers.org/unigene/Mm.297868> .
+
+ensembl:ENSMUSG00000100221
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.234322> .
+
+ensembl:ENSMUSG00000100010
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396221> , <http://identifiers.org/unigene/Mm.491752> .
+
+ensembl:ENSMUSG00000100528
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420097> .
+
+ensembl:ENSMUSG00000100402
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.149315> .
+
+ensembl:ENSMUSG00000101011
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.124673> .
+
+ensembl:ENSMUSG00000100106
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.325009> .
+
+ensembl:ENSMUSG00000101952
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.412456> .
+
+ensembl:ENSMUSG00000102084
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.7290> .
+
+ensembl:ENSMUSG00000101741
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.337368> .
+
+ensembl:ENSMUSG00000101264
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.384213> .
+
+ensembl:ENSMUSG00000099629
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404602> .
+
+ensembl:ENSMUSG00000099503
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.383635> .
+
+ensembl:ENSMUSG00000101179
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.403817> .
+
+ensembl:ENSMUSG00000100444
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.405713> , <http://identifiers.org/unigene/Mm.487669> , <http://identifiers.org/unigene/Mm.128789> .
+
+ensembl:ENSMUSG00000099418
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.358212> .
+
+ensembl:ENSMUSG00000102054
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435427> .
+
+ensembl:ENSMUSG00000100625
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490177> .
+
+ensembl:ENSMUSG00000100022
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.247296> .
+
+ensembl:ENSMUSG00000099364
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.462998> .
+
+ensembl:ENSMUSG00000100782
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.412978> .
+
+ensembl:ENSMUSG00000099937
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.424675> .
+
+ensembl:ENSMUSG00000100094
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.383527> .
+
+ensembl:ENSMUSG00000099811
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.437191> .
+
+ensembl:ENSMUSG00000102096
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.179463> .
+
+ensembl:ENSMUSG00000099249
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.408425> .
+
+ensembl:ENSMUSG00000099907
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.445351> .
+
+ensembl:ENSMUSG00000101849
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.240740> .
+
+ensembl:ENSMUSG00000099491
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489408> .
+
+ensembl:ENSMUSG00000100511
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410860> .
+
+ensembl:ENSMUSG00000102121
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.422555> .
+
+ensembl:ENSMUSG00000101904
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404852> .
+
+ensembl:ENSMUSG00000100426
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.247420> .
+
+ensembl:ENSMUSG00000102036
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.484039> , <http://identifiers.org/unigene/Mm.380984> .
+
+ensembl:ENSMUSG00000099853
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.386395> .
+
+ensembl:ENSMUSG00000101880
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.412844> .
+
+ensembl:ENSMUSG00000100583
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421602> .
+
+ensembl:ENSMUSG00000100975
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.105069> .
+
+ensembl:ENSMUSG00000101584
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.390215> .
+
+ensembl:ENSMUSG00000099823
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.384709> .
+
+ensembl:ENSMUSG00000101373
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.389167> , <http://identifiers.org/unigene/Mm.273505> .
+
+ensembl:ENSMUSG00000100372
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.393775> .
+
+ensembl:ENSMUSG00000100764
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.487778> , <http://identifiers.org/unigene/Mm.399091> .
+
+ensembl:ENSMUSG00000100287
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.462271> .
+
+ensembl:ENSMUSG00000101288
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.362903> .
+
+ensembl:ENSMUSG00000100945
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.412038> .
+
+ensembl:ENSMUSG00000100076
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000101820
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.371835> .
+
+ensembl:ENSMUSG00000099895
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.403912> .
+
+ensembl:ENSMUSG00000099708
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.451056> .
+
+ensembl:ENSMUSG00000099599
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.229339> .
+
+ensembl:ENSMUSG00000099950
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.98697> .
+
+ensembl:ENSMUSG00000101102
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.401409> .
+
+ensembl:ENSMUSG00000100987
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.328097> .
+
+ensembl:ENSMUSG00000101409
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489045> , <http://identifiers.org/unigene/Mm.398323> .
+
+ensembl:ENSMUSG00000101596
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.413525> .
+
+ensembl:ENSMUSG00000100384
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.444804> .
+
+ensembl:ENSMUSG00000100650
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410464> .
+
+ensembl:ENSMUSG00000101651
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420781> .
+
+ensembl:ENSMUSG00000100173
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.301126> , <http://identifiers.org/unigene/Mm.427388> , <http://identifiers.org/unigene/Mm.482927> , <http://identifiers.org/unigene/Mm.398415> , <http://identifiers.org/unigene/Mm.422250> , <http://identifiers.org/unigene/Mm.340989> , <http://identifiers.org/unigene/Mm.295003> , <http://identifiers.org/unigene/Mm.427535> , <http://identifiers.org/unigene/Mm.437235> , <http://identifiers.org/unigene/Mm.437449> , <http://identifiers.org/unigene/Mm.368386> , <http://identifiers.org/unigene/Mm.328158> , <http://identifiers.org/unigene/Mm.302201> .
+
+ensembl:ENSMUSG00000100565
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000099413
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.404734> , <http://identifiers.org/unigene/Mm.398658> .
+
+ensembl:ENSMUSG00000101089
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.140012> .
+
+ensembl:ENSMUSG00000101832
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.422059> .
+
+ensembl:ENSMUSG00000100354
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.336998> .
+
+ensembl:ENSMUSG00000100269
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.401041> .
+
+ensembl:ENSMUSG00000099696
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.401359> , <http://identifiers.org/unigene/Mm.265384> .
+
+ensembl:ENSMUSG00000099570
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465177> , <http://identifiers.org/unigene/Mm.195597> .
+
+ensembl:ENSMUSG00000099485
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.424738> .
+
+ensembl:ENSMUSG00000099751
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.158571> .
+
+ensembl:ENSMUSG00000101693
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.445670> , <http://identifiers.org/unigene/Mm.487491> .
+
+ensembl:ENSMUSG00000101029
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410554> .
+
+ensembl:ENSMUSG00000100396
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.231041> .
+
+ensembl:ENSMUSG00000099510
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.385458> .
+
+ensembl:ENSMUSG00000100969
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.393871> .
+
+ensembl:ENSMUSG00000100843
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421424> .
+
+ensembl:ENSMUSG00000101633
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000100155
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.405596> .
+
+ensembl:ENSMUSG00000101156
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.446900> .
+
+ensembl:ENSMUSG00000100421
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.409437> .
+
+ensembl:ENSMUSG00000100813
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.461592> .
+
+ensembl:ENSMUSG00000100336
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417668> .
+
+ensembl:ENSMUSG00000101211
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.362939> .
+
+ensembl:ENSMUSG00000101603
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.32435> .
+
+ensembl:ENSMUSG00000101126
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421275> .
+
+ensembl:ENSMUSG00000099552
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416994> , <http://identifiers.org/unigene/Mm.400441> .
+
+ensembl:ENSMUSG00000100493
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.27486> .
+
+ensembl:ENSMUSG00000099859
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.472965> .
+
+ensembl:ENSMUSG00000101886
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.367490> .
+
+ensembl:ENSMUSG00000100282
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.234187> .
+
+ensembl:ENSMUSG00000095041
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.247625> , <http://identifiers.org/unigene/Mm.394071> .
+
+ensembl:ENSMUSG00000101675
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000100589
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.243854> .
+
+ensembl:ENSMUSG00000101941
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.411422> .
+
+ensembl:ENSMUSG00000101856
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.105263> .
+
+ensembl:ENSMUSG00000101379
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000099618
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.400450> .
+
+ensembl:ENSMUSG00000100252
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.472462> , <http://identifiers.org/unigene/Mm.462811> , <http://identifiers.org/unigene/Mm.485177> .
+
+ensembl:ENSMUSG00000101253
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.378500> .
+
+ensembl:ENSMUSG00000100559
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.463807> , <http://identifiers.org/unigene/Mm.462976> , <http://identifiers.org/unigene/Mm.359563> .
+
+ensembl:ENSMUSG00000101168
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417773> .
+
+ensembl:ENSMUSG00000100910
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.387028> .
+
+ensembl:ENSMUSG00000101042
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.367802> .
+
+ensembl:ENSMUSG00000099407
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416862> .
+
+ensembl:ENSMUSG00000101223
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.108996> .
+
+ensembl:ENSMUSG00000101138
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.435428> .
+
+ensembl:ENSMUSG00000100529
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.393380> .
+
+ensembl:ENSMUSG00000101404
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490521> .
+
+ensembl:ENSMUSG00000102013
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.271554> .
+
+ensembl:ENSMUSG00000100294
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.52612> .
+
+ensembl:ENSMUSG00000101476
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410940> .
+
+ensembl:ENSMUSG00000100475
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.48623> .
+
+ensembl:ENSMUSG00000102085
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.360342> .
+
+ensembl:ENSMUSG00000099872
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.71100> .
+
+ensembl:ENSMUSG00000100053
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.489020> , <http://identifiers.org/unigene/Mm.379277> , <http://identifiers.org/unigene/Mm.401228> .
+
+ensembl:ENSMUSG00000100837
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.275715> .
+
+ensembl:ENSMUSG00000102055
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420245> .
+
+ensembl:ENSMUSG00000101838
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.470009> .
+
+ensembl:ENSMUSG00000100711
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.387024> .
+
+ensembl:ENSMUSG00000099968
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396204> .
+
+ensembl:ENSMUSG00000099576
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.335174> .
+
+ensembl:ENSMUSG00000100807
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.125089> .
+
+ensembl:ENSMUSG00000101995
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.421310> .
+
+ensembl:ENSMUSG00000099757
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440755> , <http://identifiers.org/unigene/Mm.440872> , <http://identifiers.org/unigene/Mm.393117> , <http://identifiers.org/unigene/Mm.459506> .
+
+ensembl:ENSMUSG00000100783
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.44573> .
+
+ensembl:ENSMUSG00000100119
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410849> .
+
+ensembl:ENSMUSG00000100964
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.460801> .
+
+ensembl:ENSMUSG00000099938
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.374962> .
+
+ensembl:ENSMUSG00000100487
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.490924> .
+
+ensembl:ENSMUSG00000099812
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.115867> .
+
+ensembl:ENSMUSG00000100668
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.54261> .
+
+ensembl:ENSMUSG00000100150
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.170588> .
+
+ensembl:ENSMUSG00000101458
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.406760> .
+
+ensembl:ENSMUSG00000100457
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.136054> .
+
+ensembl:ENSMUSG00000102067
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.331004> .
+
+ensembl:ENSMUSG00000100120
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.389120> .
+
+ensembl:ENSMUSG00000101905
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.375227> .
+
+ensembl:ENSMUSG00000100301
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.359721> .
+
+ensembl:ENSMUSG00000100795
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.414846> .
+
+ensembl:ENSMUSG00000097556
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.329684> .
+
+ensembl:ENSMUSG00000100005
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.389911> .
+
+ensembl:ENSMUSG00000101585
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440728> .
+
+ensembl:ENSMUSG00000100850
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.399173> .
+
+ensembl:ENSMUSG00000097611
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.382859> .
+
+ensembl:ENSMUSG00000101374
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.454616> , <http://identifiers.org/unigene/Mm.465180> .
+
+ensembl:ENSMUSG00000100162
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.487792> .
+
+ensembl:ENSMUSG00000099528
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410851> .
+
+ensembl:ENSMUSG00000099402
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465180> , <http://identifiers.org/unigene/Mm.455741> .
+
+ensembl:ENSMUSG00000101344
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.420910> .
+
+ensembl:ENSMUSG00000099709
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.459728> .
+
+ensembl:ENSMUSG00000099685
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.455737> , <http://identifiers.org/unigene/Mm.465174> .
+
+ensembl:ENSMUSG00000101133
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.485569> , <http://identifiers.org/unigene/Mm.432764> .
+
+ensembl:ENSMUSG00000099474
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.440594> , <http://identifiers.org/unigene/Mm.489900> , <http://identifiers.org/unigene/Mm.254797> .
+
+ensembl:ENSMUSG00000099655
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.436708> .
+
+ensembl:ENSMUSG00000100681
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.416864> .
+
+ensembl:ENSMUSG00000100017
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.297636> .
+
+ensembl:ENSMUSG00000100596
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417127> .
+
+ensembl:ENSMUSG00000100988
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.465180> , <http://identifiers.org/unigene/Mm.455741> .
+
+ensembl:ENSMUSG00000102080
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.50947> .
+
+ensembl:ENSMUSG00000101386
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.358343> .
+
+ensembl:ENSMUSG00000100777
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.417807> .
+
+ensembl:ENSMUSG00000101778
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.447628> .
+
+ensembl:ENSMUSG00000100958
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> .
+
+ensembl:ENSMUSG00000100832
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.389095> .
+
+ensembl:ENSMUSG00000100747
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.402683> .
+
+ensembl:ENSMUSG00000100536
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.488466> .
+
+ensembl:ENSMUSG00000099697
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.333801> .
+
+ensembl:ENSMUSG00000101537
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.412041> .
+
+ensembl:ENSMUSG00000100410
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.390632> .
+
+ensembl:ENSMUSG00000101411
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.410822> .
+
+ensembl:ENSMUSG00000099878
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.337881> .
+
+ensembl:ENSMUSG00000100325
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.477715> , <http://identifiers.org/unigene/Mm.477716> .
+
+ensembl:ENSMUSG00000101326
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.455739> .
+
+ensembl:ENSMUSG00000099360
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.396193> .
+
+ensembl:ENSMUSG00000099752
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/unigene/Mm.484802> , <http://identifiers.org/unigene/Mm.358138> .

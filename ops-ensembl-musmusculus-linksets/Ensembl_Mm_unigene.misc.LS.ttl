@@ -1,0 +1,12 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSMUSG00000097605
+        ensemblterms:MISC  <http://identifiers.org/unigene/Mm.40874> .
+
+ensembl:ENSMUSG00000099906
+        ensemblterms:MISC  <http://identifiers.org/unigene/Mm.483816> , <http://identifiers.org/unigene/Mm.483426> , <http://identifiers.org/unigene/Mm.137893> .
+
+ensembl:ENSMUSG00000097034
+        ensemblterms:MISC  <http://identifiers.org/unigene/Mm.441426> .

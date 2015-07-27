@@ -1,0 +1,3363 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSMUSG00000065477
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001163> .
+
+ensembl:ENSMUSG00000099197
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022883> .
+
+ensembl:ENSMUSG00000099119
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024983> .
+
+ensembl:ENSMUSG00000070065
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001730> , <http://identifiers.org/mirbase.mature/MI0021960> .
+
+ensembl:ENSMUSG00000099165
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022787> .
+
+ensembl:ENSMUSG00000065445
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000257> .
+
+ensembl:ENSMUSG00000092952
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004412> .
+
+ensembl:ENSMUSG00000098656
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022877> .
+
+ensembl:ENSMUSG00000065491
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000730> .
+
+ensembl:ENSMUSG00000065413
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003531> .
+
+ensembl:ENSMUSG00000099308
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021896> .
+
+ensembl:ENSMUSG00000077962
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005479> .
+
+ensembl:ENSMUSG00000098624
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022885> .
+
+ensembl:ENSMUSG00000088752
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009923> .
+
+ensembl:ENSMUSG00000098379
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021875> .
+
+ensembl:ENSMUSG00000099101
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024993> .
+
+ensembl:ENSMUSG00000076236
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004644> .
+
+ensembl:ENSMUSG00000089294
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0010752> .
+
+ensembl:ENSMUSG00000095530
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014047> , <http://identifiers.org/mirbase.mature/MI0020958> .
+
+ensembl:ENSMUSG00000093327
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018016> .
+
+ensembl:ENSMUSG00000065602
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000563> .
+
+ensembl:ENSMUSG00000098347
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021867> .
+
+ensembl:ENSMUSG00000076457
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004249> .
+
+ensembl:ENSMUSG00000093120
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014707> .
+
+ensembl:ENSMUSG00000084651
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008323> .
+
+ensembl:ENSMUSG00000098568
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022835> .
+
+ensembl:ENSMUSG00000098315
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021906> .
+
+ensembl:ENSMUSG00000065578
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000823> .
+
+ensembl:ENSMUSG00000099045
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021903> .
+
+ensembl:ENSMUSG00000098361
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022936> .
+
+ensembl:ENSMUSG00000092832
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014081> .
+
+ensembl:ENSMUSG00000093096
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016977> .
+
+ensembl:ENSMUSG00000099091
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022852> .
+
+ensembl:ENSMUSG00000080504
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014051> .
+
+ensembl:ENSMUSG00000096624
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0002402> .
+
+ensembl:ENSMUSG00000065546
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000552> .
+
+ensembl:ENSMUSG00000098582
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022930> .
+
+ensembl:ENSMUSG00000065592
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000169> .
+
+ensembl:ENSMUSG00000098504
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021879> .
+
+ensembl:ENSMUSG00000094933
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0010690> , <http://identifiers.org/mirbase.mature/MI0004646> .
+
+ensembl:ENSMUSG00000065514
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000407> .
+
+ensembl:ENSMUSG00000096172
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000098550
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022929> .
+
+ensembl:ENSMUSG00000094688
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000065560
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000617> .
+
+ensembl:ENSMUSG00000070102
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004679> .
+
+ensembl:ENSMUSG00000098771
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022354> .
+
+ensembl:ENSMUSG00000099202
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022866> .
+
+ensembl:ENSMUSG00000098273
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021874> .
+
+ensembl:ENSMUSG00000094403
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004661> , <http://identifiers.org/mirbase.mature/MI0023541> .
+
+ensembl:ENSMUSG00000098448
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021891> .
+
+ensembl:ENSMUSG00000070078
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0002398> .
+
+ensembl:ENSMUSG00000080669
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004118> .
+
+ensembl:ENSMUSG00000065458
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000723> .
+
+ensembl:ENSMUSG00000093221
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014102> .
+
+ensembl:ENSMUSG00000098960
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022905> .
+
+ensembl:ENSMUSG00000098416
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022968> .
+
+ensembl:ENSMUSG00000088544
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009934> .
+
+ensembl:ENSMUSG00000096504
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025028> , <http://identifiers.org/mirbase.mature/MI0005499> , <http://identifiers.org/mirbase.mature/MI0005498> .
+
+ensembl:ENSMUSG00000065426
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000160> .
+
+ensembl:ENSMUSG00000076028
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004668> .
+
+ensembl:ENSMUSG00000095575
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005505> , <http://identifiers.org/mirbase.mature/MI0014057> .
+
+ensembl:ENSMUSG00000065472
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000152> .
+
+ensembl:ENSMUSG00000098858
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022358> .
+
+ensembl:ENSMUSG00000092901
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018042> .
+
+ensembl:ENSMUSG00000099160
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021953> .
+
+ensembl:ENSMUSG00000065440
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000137> .
+
+ensembl:ENSMUSG00000076042
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004694> .
+
+ensembl:ENSMUSG00000098651
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022847> .
+
+ensembl:ENSMUSG00000076217
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004690> .
+
+ensembl:ENSMUSG00000098826
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025022> .
+
+ensembl:ENSMUSG00000076010
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005004> .
+
+ensembl:ENSMUSG00000099058
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022790> .
+
+ensembl:ENSMUSG00000093354
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000725> .
+
+ensembl:ENSMUSG00000098840
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025024> .
+
+ensembl:ENSMUSG00000087993
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009993> .
+
+ensembl:ENSMUSG00000099279
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021945> .
+
+ensembl:ENSMUSG00000065559
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000249> .
+
+ensembl:ENSMUSG00000092813
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014049> .
+
+ensembl:ENSMUSG00000099072
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025013> .
+
+ensembl:ENSMUSG00000089432
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009963> .
+
+ensembl:ENSMUSG00000065527
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000581> .
+
+ensembl:ENSMUSG00000098563
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021938> .
+
+ensembl:ENSMUSG00000098310
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026050> .
+
+ensembl:ENSMUSG00000093298
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016997> .
+
+ensembl:ENSMUSG00000065573
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000640> .
+
+ensembl:ENSMUSG00000099293
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021895> .
+
+ensembl:ENSMUSG00000093091
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014082> .
+
+ensembl:ENSMUSG00000098531
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022890> .
+
+ensembl:ENSMUSG00000099261
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022832> .
+
+ensembl:ENSMUSG00000098706
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022827> .
+
+ensembl:ENSMUSG00000065541
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014104> , <http://identifiers.org/mirbase.mature/MI0000572> .
+
+ensembl:ENSMUSG00000098286
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026018> .
+
+ensembl:ENSMUSG00000076396
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004196> .
+
+ensembl:ENSMUSG00000076143
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004692> .
+
+ensembl:ENSMUSG00000098752
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022744> .
+
+ensembl:ENSMUSG00000093907
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000076318
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004126> , <http://identifiers.org/mirbase.mature/MI0025032> .
+
+ensembl:ENSMUSG00000084590
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008322> .
+
+ensembl:ENSMUSG00000093234
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014048> .
+
+ensembl:ENSMUSG00000098973
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021583> .
+
+ensembl:ENSMUSG00000093280
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0013007> .
+
+ensembl:ENSMUSG00000065439
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000165> .
+
+ensembl:ENSMUSG00000098475
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022830> .
+
+ensembl:ENSMUSG00000093202
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022813> .
+
+ensembl:ENSMUSG00000065485
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024990> , <http://identifiers.org/mirbase.mature/MI0000741> .
+
+ensembl:ENSMUSG00000065407
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000161> .
+
+ensembl:ENSMUSG00000098443
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025029> .
+
+ensembl:ENSMUSG00000070073
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0002405> .
+
+ensembl:ENSMUSG00000076009
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004653> .
+
+ensembl:ENSMUSG00000080411
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006298> .
+
+ensembl:ENSMUSG00000065453
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000405> .
+
+ensembl:ENSMUSG00000088248
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009966> .
+
+ensembl:ENSMUSG00000098839
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022903> .
+
+ensembl:ENSMUSG00000093690
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019187> .
+
+ensembl:ENSMUSG00000099141
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021880> .
+
+ensembl:ENSMUSG00000065421
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000556> .
+
+ensembl:ENSMUSG00000098885
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024999> .
+
+ensembl:ENSMUSG00000098632
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025005> .
+
+ensembl:ENSMUSG00000098807
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000400> .
+
+ensembl:ENSMUSG00000065397
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000177> .
+
+ensembl:ENSMUSG00000098600
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022776> .
+
+ensembl:ENSMUSG00000065610
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000576> .
+
+ensembl:ENSMUSG00000099330
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022902> .
+
+ensembl:ENSMUSG00000076212
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004640> .
+
+ensembl:ENSMUSG00000065586
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000583> .
+
+ensembl:ENSMUSG00000070128
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003492> .
+
+ensembl:ENSMUSG00000098797
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021872> .
+
+ensembl:ENSMUSG00000065508
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000687> .
+
+ensembl:ENSMUSG00000098544
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023706> .
+
+ensembl:ENSMUSG00000098719
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023707> .
+
+ensembl:ENSMUSG00000098299
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023719> .
+
+ensembl:ENSMUSG00000093026
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000795> .
+
+ensembl:ENSMUSG00000098765
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025036> .
+
+ensembl:ENSMUSG00000096134
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014071> , <http://identifiers.org/mirbase.mature/MI0014064> .
+
+ensembl:ENSMUSG00000093791
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000098267
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022909> .
+
+ensembl:ENSMUSG00000092738
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018047> .
+
+ensembl:ENSMUSG00000093293
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014088> .
+
+ensembl:ENSMUSG00000089357
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0010750> .
+
+ensembl:ENSMUSG00000070110
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005515> .
+
+ensembl:ENSMUSG00000092784
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014040> .
+
+ensembl:ENSMUSG00000093215
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014100> .
+
+ensembl:ENSMUSG00000099210
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022900> .
+
+ensembl:ENSMUSG00000065498
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000796> .
+
+ensembl:ENSMUSG00000098954
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024998> .
+
+ensembl:ENSMUSG00000098701
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022761> .
+
+ensembl:ENSMUSG00000092752
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014706> .
+
+ensembl:ENSMUSG00000076313
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004171> .
+
+ensembl:ENSMUSG00000089371
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009927> .
+
+ensembl:ENSMUSG00000098922
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026037> .
+
+ensembl:ENSMUSG00000080424
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006292> .
+
+ensembl:ENSMUSG00000076068
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004635> .
+
+ensembl:ENSMUSG00000098677
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025033> .
+
+ensembl:ENSMUSG00000088552
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009954> .
+
+ensembl:ENSMUSG00000080645
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006306> .
+
+ensembl:ENSMUSG00000096512
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000065434
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000728> .
+
+ensembl:ENSMUSG00000088054
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009965> .
+
+ensembl:ENSMUSG00000065609
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000729> .
+
+ensembl:ENSMUSG00000097961
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008321> , <http://identifiers.org/mirbase.mature/MI0015984> .
+
+ensembl:ENSMUSG00000065480
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000821> .
+
+ensembl:ENSMUSG00000092696
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018045> .
+
+ensembl:ENSMUSG00000098691
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021904> .
+
+ensembl:ENSMUSG00000065402
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000256> .
+
+ensembl:ENSMUSG00000098866
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022355> .
+
+ensembl:ENSMUSG00000076976
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005492> .
+
+ensembl:ENSMUSG00000098613
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022778> .
+
+ensembl:ENSMUSG00000093348
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014093> .
+
+ensembl:ENSMUSG00000076050
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004705> .
+
+ensembl:ENSMUSG00000065599
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000141> .
+
+ensembl:ENSMUSG00000098336
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021920> .
+
+ensembl:ENSMUSG00000076271
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004681> .
+
+ensembl:ENSMUSG00000099311
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021591> .
+
+ensembl:ENSMUSG00000088464
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009968> .
+
+ensembl:ENSMUSG00000098802
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022895> .
+
+ensembl:ENSMUSG00000092807
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000714> .
+
+ensembl:ENSMUSG00000088639
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009950> .
+
+ensembl:ENSMUSG00000099066
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022826> .
+
+ensembl:ENSMUSG00000094267
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000093039
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014110> .
+
+ensembl:ENSMUSG00000065567
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000548> .
+
+ensembl:ENSMUSG00000070109
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004636> , <http://identifiers.org/mirbase.mature/MI0026030> .
+
+ensembl:ENSMUSG00000097375
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000405> .
+
+ensembl:ENSMUSG00000000031
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004123> .
+
+ensembl:ENSMUSG00000076460
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004124> .
+
+ensembl:ENSMUSG00000099080
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022921> .
+
+ensembl:ENSMUSG00000093007
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000564> .
+
+ensembl:ENSMUSG00000087899
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009931> .
+
+ensembl:ENSMUSG00000065581
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000236> .
+
+ensembl:ENSMUSG00000065503
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000643> .
+
+ensembl:ENSMUSG00000099223
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023716> .
+
+ensembl:ENSMUSG00000078017
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005476> .
+
+ensembl:ENSMUSG00000097311
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000163> .
+
+ensembl:ENSMUSG00000098714
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025003> .
+
+ensembl:ENSMUSG00000070099
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0002401> .
+
+ensembl:ENSMUSG00000095154
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019317> .
+
+ensembl:ENSMUSG00000099199
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022861> .
+
+ensembl:ENSMUSG00000065479
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000151> .
+
+ensembl:ENSMUSG00000050334
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000157> .
+
+ensembl:ENSMUSG00000078031
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005546> .
+
+ensembl:ENSMUSG00000098981
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023731> .
+
+ensembl:ENSMUSG00000076372
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005517> .
+
+ensembl:ENSMUSG00000098437
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021861> .
+
+ensembl:ENSMUSG00000065447
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003718> .
+
+ensembl:ENSMUSG00000064938
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014030> .
+
+ensembl:ENSMUSG00000098483
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022928> .
+
+ensembl:ENSMUSG00000076049
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005556> .
+
+ensembl:ENSMUSG00000098658
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021866> .
+
+ensembl:ENSMUSG00000077996
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005478> .
+
+ensembl:ENSMUSG00000096027
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000065493
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000584> .
+
+ensembl:ENSMUSG00000080626
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006297> .
+
+ensembl:ENSMUSG00000065415
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000731> .
+
+ensembl:ENSMUSG00000098451
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022799> .
+
+ensembl:ENSMUSG00000070081
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004706> .
+
+ensembl:ENSMUSG00000098879
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025016> .
+
+ensembl:ENSMUSG00000092922
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018009> .
+
+ensembl:ENSMUSG00000099181
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022752> .
+
+ensembl:ENSMUSG00000092677
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018014> .
+
+ensembl:ENSMUSG00000093108
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014098> .
+
+ensembl:ENSMUSG00000076063
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003520> .
+
+ensembl:ENSMUSG00000098672
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022758> .
+
+ensembl:ENSMUSG00000099324
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026047> .
+
+ensembl:ENSMUSG00000065604
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000143> .
+
+ensembl:ENSMUSG00000076459
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004129> .
+
+ensembl:ENSMUSG00000099079
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022918> .
+
+ensembl:ENSMUSG00000093122
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004130> .
+
+ensembl:ENSMUSG00000076252
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003716> .
+
+ensembl:ENSMUSG00000098317
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022773> .
+
+ensembl:ENSMUSG00000099047
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022878> .
+
+ensembl:ENSMUSG00000098363
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022841> .
+
+ensembl:ENSMUSG00000088491
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009948> .
+
+ensembl:ENSMUSG00000099093
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022848> .
+
+ensembl:ENSMUSG00000080331
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004300> .
+
+ensembl:ENSMUSG00000099015
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021901> .
+
+ensembl:ENSMUSG00000065548
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000577> .
+
+ensembl:ENSMUSG00000093311
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016972> .
+
+ensembl:ENSMUSG00000092880
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014699> .
+
+ensembl:ENSMUSG00000096128
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005506> , <http://identifiers.org/mirbase.mature/MI0014112> .
+
+ensembl:ENSMUSG00000098331
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022919> .
+
+ensembl:ENSMUSG00000098759
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022912> .
+
+ensembl:ENSMUSG00000095697
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0010690> , <http://identifiers.org/mirbase.mature/MI0004646> .
+
+ensembl:ENSMUSG00000065594
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000684> .
+
+ensembl:ENSMUSG00000070136
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004589> .
+
+ensembl:ENSMUSG00000087950
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009939> .
+
+ensembl:ENSMUSG00000099236
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004134> .
+
+ensembl:ENSMUSG00000065516
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000698> .
+
+ensembl:ENSMUSG00000077890
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005551> .
+
+ensembl:ENSMUSG00000096893
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004619> .
+
+ensembl:ENSMUSG00000076118
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004673> .
+
+ensembl:ENSMUSG00000065562
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000974> .
+
+ensembl:ENSMUSG00000070104
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0002406> .
+
+ensembl:ENSMUSG00000084565
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008328> .
+
+ensembl:ENSMUSG00000097545
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000716> , <http://identifiers.org/mirbase.mature/MI0014041> .
+
+ensembl:ENSMUSG00000093080
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014022> .
+
+ensembl:ENSMUSG00000065530
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000146> .
+
+ensembl:ENSMUSG00000065428
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000799> .
+
+ensembl:ENSMUSG00000098464
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022850> .
+
+ensembl:ENSMUSG00000065474
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000166> .
+
+ensembl:ENSMUSG00000092981
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018036> .
+
+ensembl:ENSMUSG00000093167
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018043> .
+
+ensembl:ENSMUSG00000098607
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021888> .
+
+ensembl:ENSMUSG00000080653
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006300> .
+
+ensembl:ENSMUSG00000065442
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000568> .
+
+ensembl:ENSMUSG00000065617
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000592> .
+
+ensembl:ENSMUSG00000077991
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014079> .
+
+ensembl:ENSMUSG00000076219
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003534> .
+
+ensembl:ENSMUSG00000098400
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025025> .
+
+ensembl:ENSMUSG00000065410
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000398> .
+
+ensembl:ENSMUSG00000076012
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004689> .
+
+ensembl:ENSMUSG00000098621
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022815> .
+
+ensembl:ENSMUSG00000098376
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022754> .
+
+ensembl:ENSMUSG00000092847
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004524> .
+
+ensembl:ENSMUSG00000098597
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021956> .
+
+ensembl:ENSMUSG00000098344
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026016> .
+
+ensembl:ENSMUSG00000076454
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004215> .
+
+ensembl:ENSMUSG00000092815
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004485> .
+
+ensembl:ENSMUSG00000065529
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000570> .
+
+ensembl:ENSMUSG00000065575
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001649> .
+
+ensembl:ENSMUSG00000080533
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006296> .
+
+ensembl:ENSMUSG00000099042
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022915> .
+
+ensembl:ENSMUSG00000098786
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022843> .
+
+ensembl:ENSMUSG00000098533
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021902> .
+
+ensembl:ENSMUSG00000065543
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000607> .
+
+ensembl:ENSMUSG00000078057
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005550> , <http://identifiers.org/mirbase.mature/MI0021959> .
+
+ensembl:ENSMUSG00000098288
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022747> .
+
+ensembl:ENSMUSG00000076398
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005003> .
+
+ensembl:ENSMUSG00000076145
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004638> .
+
+ensembl:ENSMUSG00000093061
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018006> .
+
+ensembl:ENSMUSG00000098929
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021936> .
+
+ensembl:ENSMUSG00000084592
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008324> .
+
+ensembl:ENSMUSG00000065511
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025019> , <http://identifiers.org/mirbase.mature/MI0000585> .
+
+ensembl:ENSMUSG00000078025
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005510> .
+
+ensembl:ENSMUSG00000084514
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008327> .
+
+ensembl:ENSMUSG00000092727
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014024> .
+
+ensembl:ENSMUSG00000088559
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009992> .
+
+ensembl:ENSMUSG00000098698
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022807> .
+
+ensembl:ENSMUSG00000099129
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022926> .
+
+ensembl:ENSMUSG00000065409
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021961> , <http://identifiers.org/mirbase.mature/MI0000259> .
+
+ensembl:ENSMUSG00000098445
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022820> .
+
+ensembl:ENSMUSG00000092741
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014037> , <http://identifiers.org/mirbase.mature/MI0000231> .
+
+ensembl:ENSMUSG00000070075
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005002> .
+
+ensembl:ENSMUSG00000065455
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000569> .
+
+ensembl:ENSMUSG00000084458
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008325> .
+
+ensembl:ENSMUSG00000098666
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022797> .
+
+ensembl:ENSMUSG00000098413
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022838> .
+
+ensembl:ENSMUSG00000096929
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000712> , <http://identifiers.org/mirbase.mature/MI0000577> .
+
+ensembl:ENSMUSG00000065423
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000223> .
+
+ensembl:ENSMUSG00000098887
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021950> .
+
+ensembl:ENSMUSG00000092639
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016970> .
+
+ensembl:ENSMUSG00000098634
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026024> .
+
+ensembl:ENSMUSG00000077972
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005507> .
+
+ensembl:ENSMUSG00000098389
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022831> .
+
+ensembl:ENSMUSG00000098680
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022745> .
+
+ensembl:ENSMUSG00000098855
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022770> .
+
+ensembl:ENSMUSG00000065399
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000159> .
+
+ensembl:ENSMUSG00000088983
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009947> .
+
+ensembl:ENSMUSG00000098602
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022793> .
+
+ensembl:ENSMUSG00000065612
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000173> .
+
+ensembl:ENSMUSG00000098357
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022945> , <http://identifiers.org/mirbase.mature/MI0022944> .
+
+ensembl:ENSMUSG00000076214
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004704> .
+
+ensembl:ENSMUSG00000098823
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026043> .
+
+ensembl:ENSMUSG00000077119
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005205> .
+
+ensembl:ENSMUSG00000099300
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021884> .
+
+ensembl:ENSMUSG00000098325
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022897> .
+
+ensembl:ENSMUSG00000093351
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014035> .
+
+ensembl:ENSMUSG00000065556
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000649> .
+
+ensembl:ENSMUSG00000084559
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008321> , <http://identifiers.org/mirbase.mature/MI0015984> .
+
+ensembl:ENSMUSG00000098592
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022764> .
+
+ensembl:ENSMUSG00000070144
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000139> .
+
+ensembl:ENSMUSG00000096602
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014075> .
+
+ensembl:ENSMUSG00000065524
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000715> .
+
+ensembl:ENSMUSG00000078038
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005474> .
+
+ensembl:ENSMUSG00000098269
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026021> .
+
+ensembl:ENSMUSG00000076379
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000232> .
+
+ensembl:ENSMUSG00000076126
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004666> .
+
+ensembl:ENSMUSG00000065570
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001164> .
+
+ensembl:ENSMUSG00000098735
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022854> .
+
+ensembl:ENSMUSG00000099290
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022833> .
+
+ensembl:ENSMUSG00000093042
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014106> .
+
+ensembl:ENSMUSG00000099212
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022882> .
+
+ensembl:ENSMUSG00000098458
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022819> .
+
+ensembl:ENSMUSG00000076140
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003522> .
+
+ensembl:ENSMUSG00000076315
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005494> .
+
+ensembl:ENSMUSG00000065468
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000575> .
+
+ensembl:ENSMUSG00000098251
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024996> .
+
+ensembl:ENSMUSG00000098679
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025041> .
+
+ensembl:ENSMUSG00000076361
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000224> .
+
+ensembl:ENSMUSG00000065436
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000627> .
+
+ensembl:ENSMUSG00000072900
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003518> .
+
+ensembl:ENSMUSG00000065482
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003717> .
+
+ensembl:ENSMUSG00000099124
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026049> .
+
+ensembl:ENSMUSG00000065404
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000244> .
+
+ensembl:ENSMUSG00000076006
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001162> .
+
+ensembl:ENSMUSG00000065450
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001638> .
+
+ensembl:ENSMUSG00000076052
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003521> .
+
+ensembl:ENSMUSG00000098661
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022901> .
+
+ensembl:ENSMUSG00000076946
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006127> .
+
+ensembl:ENSMUSG00000077921
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005549> .
+
+ensembl:ENSMUSG00000098882
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021926> .
+
+ensembl:ENSMUSG00000098338
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022788> .
+
+ensembl:ENSMUSG00000076448
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004516> .
+
+ensembl:ENSMUSG00000093539
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019189> .
+
+ensembl:ENSMUSG00000077897
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005554> .
+
+ensembl:ENSMUSG00000076241
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003519> .
+
+ensembl:ENSMUSG00000065394
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000689> .
+
+ensembl:ENSMUSG00000065569
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000163> .
+
+ensembl:ENSMUSG00000099289
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021939> .
+
+ensembl:ENSMUSG00000099036
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021923> .
+
+ensembl:ENSMUSG00000080573
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006293> .
+
+ensembl:ENSMUSG00000093087
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018033> .
+
+ensembl:ENSMUSG00000098527
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022808> .
+
+ensembl:ENSMUSG00000099082
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024991> .
+
+ensembl:ENSMUSG00000065537
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000158> .
+
+ensembl:ENSMUSG00000099257
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021870> .
+
+ensembl:ENSMUSG00000065583
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000701> .
+
+ensembl:ENSMUSG00000099050
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024995> .
+
+ensembl:ENSMUSG00000065505
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000550> .
+
+ensembl:ENSMUSG00000092799
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000561> .
+
+ensembl:ENSMUSG00000097391
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003492> , <http://identifiers.org/mirbase.mature/MI0000794> , <http://identifiers.org/mirbase.mature/MI0001161> , <http://identifiers.org/mirbase.mature/MI0000160> .
+
+ensembl:ENSMUSG00000099225
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026034> .
+
+ensembl:ENSMUSG00000065551
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000695> .
+
+ensembl:ENSMUSG00000098296
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022765> .
+
+ensembl:ENSMUSG00000098762
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022894> .
+
+ensembl:ENSMUSG00000098937
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023736> .
+
+ensembl:ENSMUSG00000098264
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021952> .
+
+ensembl:ENSMUSG00000092988
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014086> .
+
+ensembl:ENSMUSG00000076121
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004652> .
+
+ensembl:ENSMUSG00000093710
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019194> .
+
+ensembl:ENSMUSG00000098730
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021944> .
+
+ensembl:ENSMUSG00000093290
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018037> .
+
+ensembl:ENSMUSG00000099169
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021908> .
+
+ensembl:ENSMUSG00000065449
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000768> .
+
+ensembl:ENSMUSG00000092781
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014020> .
+
+ensembl:ENSMUSG00000065495
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000172> .
+
+ensembl:ENSMUSG00000077998
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005508> .
+
+ensembl:ENSMUSG00000098951
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024985> .
+
+ensembl:ENSMUSG00000098407
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021876> .
+
+ensembl:ENSMUSG00000065417
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000623> .
+
+ensembl:ENSMUSG00000098453
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022845> .
+
+ensembl:ENSMUSG00000092679
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018041> .
+
+ensembl:ENSMUSG00000076065
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004643> .
+
+ensembl:ENSMUSG00000099105
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022856> .
+
+ensembl:ENSMUSG00000076959
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009942> .
+
+ensembl:ENSMUSG00000093156
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014039> .
+
+ensembl:ENSMUSG00000065431
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000228> .
+
+ensembl:ENSMUSG00000076286
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004258> .
+
+ensembl:ENSMUSG00000099326
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021932> .
+
+ensembl:ENSMUSG00000065606
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000566> .
+
+ensembl:ENSMUSG00000076033
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004661> , <http://identifiers.org/mirbase.mature/MI0023541> .
+
+ensembl:ENSMUSG00000077980
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005520> .
+
+ensembl:ENSMUSG00000095036
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014068> .
+
+ensembl:ENSMUSG00000098817
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021946> .
+
+ensembl:ENSMUSG00000098397
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025009> .
+
+ensembl:ENSMUSG00000092868
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018022> .
+
+ensembl:ENSMUSG00000098319
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022887> .
+
+ensembl:ENSMUSG00000098863
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026031> .
+
+ensembl:ENSMUSG00000095004
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014060> , <http://identifiers.org/mirbase.mature/MI0014063> , <http://identifiers.org/mirbase.mature/MI0014070> , <http://identifiers.org/mirbase.mature/MI0005502> , <http://identifiers.org/mirbase.mature/MI0014067> .
+
+ensembl:ENSMUSG00000099095
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021905> .
+
+ensembl:ENSMUSG00000080586
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006285> .
+
+ensembl:ENSMUSG00000076222
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004674> .
+
+ensembl:ENSMUSG00000098831
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022970> .
+
+ensembl:ENSMUSG00000095225
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014066> .
+
+ensembl:ENSMUSG00000096628
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005471> .
+
+ensembl:ENSMUSG00000098586
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022815> .
+
+ensembl:ENSMUSG00000099017
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022907> .
+
+ensembl:ENSMUSG00000077127
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005207> .
+
+ensembl:ENSMUSG00000095699
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014066> .
+
+ensembl:ENSMUSG00000065596
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000226> .
+
+ensembl:ENSMUSG00000070138
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001734> .
+
+ensembl:ENSMUSG00000099063
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022880> .
+
+ensembl:ENSMUSG00000099238
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022849> .
+
+ensembl:ENSMUSG00000065518
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004637> .
+
+ensembl:ENSMUSG00000092850
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014097> .
+
+ensembl:ENSMUSG00000093036
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018039> .
+
+ensembl:ENSMUSG00000099284
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022875> .
+
+ensembl:ENSMUSG00000065564
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000558> .
+
+ensembl:ENSMUSG00000070106
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000765> .
+
+ensembl:ENSMUSG00000099031
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023735> .
+
+ensembl:ENSMUSG00000098522
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021949> .
+
+ensembl:ENSMUSG00000065532
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000229> .
+
+ensembl:ENSMUSG00000076387
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004133> .
+
+ensembl:ENSMUSG00000084535
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008321> , <http://identifiers.org/mirbase.mature/MI0015984> .
+
+ensembl:ENSMUSG00000098996
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025017> , <http://identifiers.org/mirbase.mature/MI0025018> .
+
+ensembl:ENSMUSG00000076309
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005482> .
+
+ensembl:ENSMUSG00000098918
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022051> .
+
+ensembl:ENSMUSG00000098498
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026027> , <http://identifiers.org/mirbase.mature/MI0026053> .
+
+ensembl:ENSMUSG00000092794
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014107> .
+
+ensembl:ENSMUSG00000065500
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000221> .
+
+ensembl:ENSMUSG00000088373
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009952> .
+
+ensembl:ENSMUSG00000098291
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022821> .
+
+ensembl:ENSMUSG00000078060
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006278> .
+
+ensembl:ENSMUSG00000099196
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025040> .
+
+ensembl:ENSMUSG00000093912
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014697> .
+
+ensembl:ENSMUSG00000080687
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006305> .
+
+ensembl:ENSMUSG00000065476
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000145> .
+
+ensembl:ENSMUSG00000098932
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021947> .
+
+ensembl:ENSMUSG00000098687
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022352> .
+
+ensembl:ENSMUSG00000099118
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026019> .
+
+ensembl:ENSMUSG00000093169
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014042> .
+
+ensembl:ENSMUSG00000065444
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000578> .
+
+ensembl:ENSMUSG00000098480
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021919> .
+
+ensembl:ENSMUSG00000065619
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000225> .
+
+ensembl:ENSMUSG00000077021
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005513> .
+
+ensembl:ENSMUSG00000098655
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022860> .
+
+ensembl:ENSMUSG00000065490
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000547> .
+
+ensembl:ENSMUSG00000095340
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006286> .
+
+ensembl:ENSMUSG00000089570
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009943> .
+
+ensembl:ENSMUSG00000065412
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000712> .
+
+ensembl:ENSMUSG00000098876
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021878> .
+
+ensembl:ENSMUSG00000076014
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0004667> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014077> .
+
+ensembl:ENSMUSG00000098623
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026044> .
+
+ensembl:ENSMUSG00000093358
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014025> .
+
+ensembl:ENSMUSG00000076060
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004688> .
+
+ensembl:ENSMUSG00000098844
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022840> .
+
+ensembl:ENSMUSG00000095782
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005501> , <http://identifiers.org/mirbase.mature/MI0005500> .
+
+ensembl:ENSMUSG00000098346
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022834> .
+
+ensembl:ENSMUSG00000099321
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021940> .
+
+ensembl:ENSMUSG00000065601
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000170> .
+
+ensembl:ENSMUSG00000098890
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022857> .
+
+ensembl:ENSMUSG00000076456
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004605> .
+
+ensembl:ENSMUSG00000099076
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022920> .
+
+ensembl:ENSMUSG00000089261
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009951> .
+
+ensembl:ENSMUSG00000098812
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024714> .
+
+ensembl:ENSMUSG00000096189
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019196> , <http://identifiers.org/mirbase.mature/MI0019197> .
+
+ensembl:ENSMUSG00000065577
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000605> .
+
+ensembl:ENSMUSG00000093515
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019183> .
+
+ensembl:ENSMUSG00000093017
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018017> .
+
+ensembl:ENSMUSG00000076147
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004664> .
+
+ensembl:ENSMUSG00000098756
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021951> .
+
+ensembl:ENSMUSG00000070133
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001526> .
+
+ensembl:ENSMUSG00000093238
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000721> .
+
+ensembl:ENSMUSG00000065513
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000573> .
+
+ensembl:ENSMUSG00000078027
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005547> .
+
+ensembl:ENSMUSG00000098258
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021898> .
+
+ensembl:ENSMUSG00000084516
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008313> .
+
+ensembl:ENSMUSG00000070101
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000625> .
+
+ensembl:ENSMUSG00000095164
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014066> .
+
+ensembl:ENSMUSG00000065489
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001645> .
+
+ensembl:ENSMUSG00000078041
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025020> , <http://identifiers.org/mirbase.mature/MI0000390> .
+
+ensembl:ENSMUSG00000084530
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008314> .
+
+ensembl:ENSMUSG00000070077
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004680> .
+
+ensembl:ENSMUSG00000096360
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014063> , <http://identifiers.org/mirbase.mature/MI0014070> , <http://identifiers.org/mirbase.mature/MI0005502> .
+
+ensembl:ENSMUSG00000065457
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000800> .
+
+ensembl:ENSMUSG00000098493
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021914> .
+
+ensembl:ENSMUSG00000084751
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008326> .
+
+ensembl:ENSMUSG00000098415
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022775> .
+
+ensembl:ENSMUSG00000093441
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019319> .
+
+ensembl:ENSMUSG00000077928
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005552> .
+
+ensembl:ENSMUSG00000099145
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026048> .
+
+ensembl:ENSMUSG00000065425
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000597> .
+
+ensembl:ENSMUSG00000065471
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000710> .
+
+ensembl:ENSMUSG00000093118
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014046> .
+
+ensembl:ENSMUSG00000089726
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000718> , <http://identifiers.org/mirbase.mature/MI0000687> , <http://identifiers.org/mirbase.mature/MI0000688> , <http://identifiers.org/mirbase.mature/MI0000719> , <http://identifiers.org/mirbase.mature/MI0000567> , <http://identifiers.org/mirbase.mature/MI0000568> .
+
+ensembl:ENSMUSG00000088985
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009936> .
+
+ensembl:ENSMUSG00000098359
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024987> .
+
+ensembl:ENSMUSG00000076041
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003536> .
+
+ensembl:ENSMUSG00000076216
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004675> .
+
+ensembl:ENSMUSG00000084663
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008319> .
+
+ensembl:ENSMUSG00000092876
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000720> .
+
+ensembl:ENSMUSG00000098871
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021912> .
+
+ensembl:ENSMUSG00000098327
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022937> .
+
+ensembl:ENSMUSG00000093100
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016981> .
+
+ensembl:ENSMUSG00000080594
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006289> .
+
+ensembl:ENSMUSG00000077886
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000393> .
+
+ensembl:ENSMUSG00000098548
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022844> .
+
+ensembl:ENSMUSG00000098341
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022791> .
+
+ensembl:ENSMUSG00000076451
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004203> .
+
+ensembl:ENSMUSG00000098769
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026033> .
+
+ensembl:ENSMUSG00000098516
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024989> .
+
+ensembl:ENSMUSG00000093076
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014045> .
+
+ensembl:ENSMUSG00000099071
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026022> .
+
+ensembl:ENSMUSG00000065526
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019179> , <http://identifiers.org/mirbase.mature/MI0000615> .
+
+ensembl:ENSMUSG00000098562
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022757> .
+
+ensembl:ENSMUSG00000065572
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000408> .
+
+ensembl:ENSMUSG00000076128
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004650> .
+
+ensembl:ENSMUSG00000098737
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022863> .
+
+ensembl:ENSMUSG00000099292
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022763> .
+
+ensembl:ENSMUSG00000080530
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000099214
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021894> .
+
+ensembl:ENSMUSG00000093763
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019195> .
+
+ensembl:ENSMUSG00000093219
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014111> .
+
+ensembl:ENSMUSG00000078008
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000389> .
+
+ensembl:ENSMUSG00000098783
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022899> .
+
+ensembl:ENSMUSG00000093090
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014036> , <http://identifiers.org/mirbase.mature/MI0019192> .
+
+ensembl:ENSMUSG00000098958
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022780> .
+
+ensembl:ENSMUSG00000099260
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022801> .
+
+ensembl:ENSMUSG00000065540
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000153> , <http://identifiers.org/mirbase.mature/MI0025035> .
+
+ensembl:ENSMUSG00000098285
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025010> .
+
+ensembl:ENSMUSG00000076142
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004695> .
+
+ensembl:ENSMUSG00000098751
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025012> .
+
+ensembl:ENSMUSG00000098926
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022751> .
+
+ensembl:ENSMUSG00000098253
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023714> .
+
+ensembl:ENSMUSG00000093408
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019185> .
+
+ensembl:ENSMUSG00000098972
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026020> .
+
+ensembl:ENSMUSG00000065438
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000794> .
+
+ensembl:ENSMUSG00000099158
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021897> .
+
+ensembl:ENSMUSG00000098474
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022766> .
+
+ensembl:ENSMUSG00000092770
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000557> .
+
+ensembl:ENSMUSG00000094184
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005470> .
+
+ensembl:ENSMUSG00000065484
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000156> .
+
+ensembl:ENSMUSG00000095509
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004671> .
+
+ensembl:ENSMUSG00000065406
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000138> .
+
+ensembl:ENSMUSG00000098442
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022806> .
+
+ensembl:ENSMUSG00000070072
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001525> .
+
+ensembl:ENSMUSG00000096239
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014060> , <http://identifiers.org/mirbase.mature/MI0014063> , <http://identifiers.org/mirbase.mature/MI0014070> , <http://identifiers.org/mirbase.mature/MI0005502> , <http://identifiers.org/mirbase.mature/MI0014067> .
+
+ensembl:ENSMUSG00000099172
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025027> .
+
+ensembl:ENSMUSG00000065452
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000250> .
+
+ensembl:ENSMUSG00000098663
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022805> .
+
+ensembl:ENSMUSG00000098410
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021929> .
+
+ensembl:ENSMUSG00000098838
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000798> .
+
+ensembl:ENSMUSG00000076948
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006128> .
+
+ensembl:ENSMUSG00000099140
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023732> .
+
+ensembl:ENSMUSG00000065420
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026028> , <http://identifiers.org/mirbase.mature/MI0000167> .
+
+ensembl:ENSMUSG00000076275
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004123> .
+
+ensembl:ENSMUSG00000098884
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025042> .
+
+ensembl:ENSMUSG00000076994
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005504> .
+
+ensembl:ENSMUSG00000098631
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022804> .
+
+ensembl:ENSMUSG00000065396
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000147> .
+
+ensembl:ENSMUSG00000088980
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009944> .
+
+ensembl:ENSMUSG00000095292
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004227> .
+
+ensembl:ENSMUSG00000080575
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006294> .
+
+ensembl:ENSMUSG00000093089
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001160> .
+
+ensembl:ENSMUSG00000077614
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024988> .
+
+ensembl:ENSMUSG00000099259
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022769> .
+
+ensembl:ENSMUSG00000065539
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000699> .
+
+ensembl:ENSMUSG00000099006
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022822> .
+
+ensembl:ENSMUSG00000065585
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000708> .
+
+ensembl:ENSMUSG00000070127
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004665> .
+
+ensembl:ENSMUSG00000065507
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000247> .
+
+ensembl:ENSMUSG00000099227
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026046> .
+
+ensembl:ENSMUSG00000077881
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005475> .
+
+ensembl:ENSMUSG00000098718
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021942> .
+
+ensembl:ENSMUSG00000093278
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018019> .
+
+ensembl:ENSMUSG00000094253
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014701> .
+
+ensembl:ENSMUSG00000065553
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000587> .
+
+ensembl:ENSMUSG00000098764
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025007> .
+
+ensembl:ENSMUSG00000098511
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022922> .
+
+ensembl:ENSMUSG00000070141
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003532> .
+
+ensembl:ENSMUSG00000065521
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000394> .
+
+ensembl:ENSMUSG00000078035
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000391> .
+
+ensembl:ENSMUSG00000076376
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004611> .
+
+ensembl:ENSMUSG00000088141
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009959> .
+
+ensembl:ENSMUSG00000076123
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004684> .
+
+ensembl:ENSMUSG00000093292
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018027> .
+
+ensembl:ENSMUSG00000088860
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009937> .
+
+ensembl:ENSMUSG00000098907
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022932> .
+
+ensembl:ENSMUSG00000080409
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006302> .
+
+ensembl:ENSMUSG00000098487
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022746> .
+
+ensembl:ENSMUSG00000092958
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018040> .
+
+ensembl:ENSMUSG00000065497
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001161> .
+
+ensembl:ENSMUSG00000098280
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025039> .
+
+ensembl:ENSMUSG00000089324
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009925> .
+
+ensembl:ENSMUSG00000096077
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014075> .
+
+ensembl:ENSMUSG00000092751
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014043> .
+
+ensembl:ENSMUSG00000076312
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004676> .
+
+ensembl:ENSMUSG00000099185
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025002> .
+
+ensembl:ENSMUSG00000065465
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000707> .
+
+ensembl:ENSMUSG00000092972
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014041> .
+
+ensembl:ENSMUSG00000098676
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021887> .
+
+ensembl:ENSMUSG00000076067
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004127> .
+
+ensembl:ENSMUSG00000077042
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005518> .
+
+ensembl:ENSMUSG00000093403
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019184> .
+
+ensembl:ENSMUSG00000065433
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001165> .
+
+ensembl:ENSMUSG00000095536
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005505> , <http://identifiers.org/mirbase.mature/MI0014057> .
+
+ensembl:ENSMUSG00000099153
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025011> .
+
+ensembl:ENSMUSG00000076288
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004122> .
+
+ensembl:ENSMUSG00000065608
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000560> .
+
+ensembl:ENSMUSG00000089268
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009958> .
+
+ensembl:ENSMUSG00000092695
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014085> .
+
+ensembl:ENSMUSG00000065401
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000168> .
+
+ensembl:ENSMUSG00000076256
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000718> .
+
+ensembl:ENSMUSG00000093172
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014109> .
+
+ensembl:ENSMUSG00000098612
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021588> .
+
+ensembl:ENSMUSG00000095006
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005501> , <http://identifiers.org/mirbase.mature/MI0005500> .
+
+ensembl:ENSMUSG00000098833
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021877> .
+
+ensembl:ENSMUSG00000093140
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016979> .
+
+ensembl:ENSMUSG00000098588
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021868> .
+
+ensembl:ENSMUSG00000089204
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009914> .
+
+ensembl:ENSMUSG00000093315
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018023> .
+
+ensembl:ENSMUSG00000076270
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004651> .
+
+ensembl:ENSMUSG00000080556
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006301> .
+
+ensembl:ENSMUSG00000098381
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023720> .
+
+ensembl:ENSMUSG00000092852
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018011> .
+
+ensembl:ENSMUSG00000088606
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009946> .
+
+ensembl:ENSMUSG00000099286
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023730> .
+
+ensembl:ENSMUSG00000070108
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004702> .
+
+ensembl:ENSMUSG00000099033
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022862> .
+
+ensembl:ENSMUSG00000093757
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019191> .
+
+ensembl:ENSMUSG00000098279
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022755> .
+
+ensembl:ENSMUSG00000099254
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022879> .
+
+ensembl:ENSMUSG00000065534
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000595> .
+
+ensembl:ENSMUSG00000077111
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005483> .
+
+ensembl:ENSMUSG00000065580
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000140> .
+
+ensembl:ENSMUSG00000098247
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023715> .
+
+ensembl:ENSMUSG00000093227
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014021> .
+
+ensembl:ENSMUSG00000065502
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000245> .
+
+ensembl:ENSMUSG00000099222
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023708> .
+
+ensembl:ENSMUSG00000076357
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005557> .
+
+ensembl:ENSMUSG00000080468
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006303> .
+
+ensembl:ENSMUSG00000093273
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014026> .
+
+ensembl:ENSMUSG00000098293
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022839> .
+
+ensembl:ENSMUSG00000097531
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004690> .
+
+ensembl:ENSMUSG00000093241
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014105> .
+
+ensembl:ENSMUSG00000086859
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022266> .
+
+ensembl:ENSMUSG00000098689
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021873> .
+
+ensembl:ENSMUSG00000092985
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016973> .
+
+ensembl:ENSMUSG00000098980
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021933> .
+
+ensembl:ENSMUSG00000092907
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018044> .
+
+ensembl:ENSMUSG00000080657
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006288> .
+
+ensembl:ENSMUSG00000065446
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000693> .
+
+ensembl:ENSMUSG00000098482
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021892> .
+
+ensembl:ENSMUSG00000065492
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000404> .
+
+ensembl:ENSMUSG00000076269
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014108> , <http://identifiers.org/mirbase.mature/MI0004125> .
+
+ensembl:ENSMUSG00000099134
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022867> .
+
+ensembl:ENSMUSG00000065414
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000722> .
+
+ensembl:ENSMUSG00000095097
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014047> , <http://identifiers.org/mirbase.mature/MI0020958> .
+
+ensembl:ENSMUSG00000099309
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022935> .
+
+ensembl:ENSMUSG00000070080
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001524> .
+
+ensembl:ENSMUSG00000092921
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014095> .
+
+ensembl:ENSMUSG00000098625
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022800> .
+
+ensembl:ENSMUSG00000099180
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022803> .
+
+ensembl:ENSMUSG00000065460
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000820> .
+
+ensembl:ENSMUSG00000076062
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000719> .
+
+ensembl:ENSMUSG00000098671
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022925> .
+
+ensembl:ENSMUSG00000076956
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005488> .
+
+ensembl:ENSMUSG00000077931
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005553> .
+
+ensembl:ENSMUSG00000065603
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000700> .
+
+ensembl:ENSMUSG00000076458
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004310> .
+
+ensembl:ENSMUSG00000099078
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026042> .
+
+ensembl:ENSMUSG00000098569
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022869> .
+
+ensembl:ENSMUSG00000076251
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004703> .
+
+ensembl:ENSMUSG00000098316
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025031> .
+
+ensembl:ENSMUSG00000021268
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008321> , <http://identifiers.org/mirbase.mature/MI0015984> , <http://identifiers.org/mirbase.mature/MI0004203> .
+
+ensembl:ENSMUSG00000065579
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001447> .
+
+ensembl:ENSMUSG00000098362
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021917> .
+
+ensembl:ENSMUSG00000089406
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0010749> .
+
+ensembl:ENSMUSG00000093097
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014090> .
+
+ensembl:ENSMUSG00000099267
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022802> .
+
+ensembl:ENSMUSG00000099092
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022911> .
+
+ensembl:ENSMUSG00000095222
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000022639
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021892> .
+
+ensembl:ENSMUSG00000065547
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000241> .
+
+ensembl:ENSMUSG00000098583
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022893> .
+
+ensembl:ENSMUSG00000065593
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000621> .
+
+ensembl:ENSMUSG00000099060
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022874> .
+
+ensembl:ENSMUSG00000065515
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000174> .
+
+ensembl:ENSMUSG00000095198
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014056> , <http://identifiers.org/mirbase.mature/MI0014065> , <http://identifiers.org/mirbase.mature/MI0014076> .
+
+ensembl:ENSMUSG00000094261
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014060> , <http://identifiers.org/mirbase.mature/MI0014063> , <http://identifiers.org/mirbase.mature/MI0014070> , <http://identifiers.org/mirbase.mature/MI0005502> , <http://identifiers.org/mirbase.mature/MI0014067> .
+
+ensembl:ENSMUSG00000076117
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004641> .
+
+ensembl:ENSMUSG00000098726
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021955> .
+
+ensembl:ENSMUSG00000065561
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003535> .
+
+ensembl:ENSMUSG00000070103
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004633> .
+
+ensembl:ENSMUSG00000084564
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008316> .
+
+ensembl:ENSMUSG00000076163
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004685> .
+
+ensembl:ENSMUSG00000099203
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021922> .
+
+ensembl:ENSMUSG00000076338
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005450> .
+
+ensembl:ENSMUSG00000093254
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018038> .
+
+ensembl:ENSMUSG00000092998
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018007> .
+
+ensembl:ENSMUSG00000092745
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018031> .
+
+ensembl:ENSMUSG00000094159
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000098961
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022796> .
+
+ensembl:ENSMUSG00000096583
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014068> .
+
+ensembl:ENSMUSG00000098417
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021910> .
+
+ensembl:ENSMUSG00000099147
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022931> .
+
+ensembl:ENSMUSG00000065427
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001642> .
+
+ensembl:ENSMUSG00000093618
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019198> .
+
+ensembl:ENSMUSG00000094173
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019196> , <http://identifiers.org/mirbase.mature/MI0019197> .
+
+ensembl:ENSMUSG00000065473
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000546> .
+
+ensembl:ENSMUSG00000095323
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014696> .
+
+ensembl:ENSMUSG00000096053
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014060> , <http://identifiers.org/mirbase.mature/MI0014063> , <http://identifiers.org/mirbase.mature/MI0014070> , <http://identifiers.org/mirbase.mature/MI0005502> , <http://identifiers.org/mirbase.mature/MI0014067> .
+
+ensembl:ENSMUSG00000098431
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025006> .
+
+ensembl:ENSMUSG00000088015
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009921> .
+
+ensembl:ENSMUSG00000098606
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022750> .
+
+ensembl:ENSMUSG00000099161
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021957> .
+
+ensembl:ENSMUSG00000065441
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000726> .
+
+ensembl:ENSMUSG00000094316
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000395> .
+
+ensembl:ENSMUSG00000065616
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000792> .
+
+ensembl:ENSMUSG00000093807
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000076218
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004660> .
+
+ensembl:ENSMUSG00000093387
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000549> .
+
+ensembl:ENSMUSG00000098873
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025008> .
+
+ensembl:ENSMUSG00000098329
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022814> .
+
+ensembl:ENSMUSG00000076011
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004965> .
+
+ensembl:ENSMUSG00000076983
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000397> .
+
+ensembl:ENSMUSG00000099059
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025017> , <http://identifiers.org/mirbase.mature/MI0025018> .
+
+ensembl:ENSMUSG00000093102
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004220> .
+
+ensembl:ENSMUSG00000098596
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023721> .
+
+ensembl:ENSMUSG00000098343
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021587> .
+
+ensembl:ENSMUSG00000076453
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004554> .
+
+ensembl:ENSMUSG00000065528
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000704> .
+
+ensembl:ENSMUSG00000088148
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009990> .
+
+ensembl:ENSMUSG00000065574
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000246> .
+
+ensembl:ENSMUSG00000093046
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014044> .
+
+ensembl:ENSMUSG00000098785
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021930> .
+
+ensembl:ENSMUSG00000098532
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022914> .
+
+ensembl:ENSMUSG00000065542
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000711> .
+
+ensembl:ENSMUSG00000098287
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021883> .
+
+ensembl:ENSMUSG00000093060
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018012> .
+
+ensembl:ENSMUSG00000076144
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004693> .
+
+ensembl:ENSMUSG00000098928
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022836> .
+
+ensembl:ENSMUSG00000095147
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014032> .
+
+ensembl:ENSMUSG00000098500
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021931> .
+
+ensembl:ENSMUSG00000070130
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000603> .
+
+ensembl:ENSMUSG00000077049
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005512> .
+
+ensembl:ENSMUSG00000099230
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022837> .
+
+ensembl:ENSMUSG00000065510
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000761> .
+
+ensembl:ENSMUSG00000078024
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005477> .
+
+ensembl:ENSMUSG00000098721
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021885> .
+
+ensembl:ENSMUSG00000096098
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004698> .
+
+ensembl:ENSMUSG00000076333
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0012529> .
+
+ensembl:ENSMUSG00000098942
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026029> .
+
+ensembl:ENSMUSG00000065486
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001653> .
+
+ensembl:ENSMUSG00000099128
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021913> .
+
+ensembl:ENSMUSG00000065408
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000579> .
+
+ensembl:ENSMUSG00000070074
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003491> .
+
+ensembl:ENSMUSG00000080665
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006307> .
+
+ensembl:ENSMUSG00000092915
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000233> .
+
+ensembl:ENSMUSG00000098910
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021954> .
+
+ensembl:ENSMUSG00000098619
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021937> .
+
+ensembl:ENSMUSG00000099174
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021943> .
+
+ensembl:ENSMUSG00000065454
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000150> .
+
+ensembl:ENSMUSG00000098490
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022939> .
+
+ensembl:ENSMUSG00000077925
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005497> .
+
+ensembl:ENSMUSG00000099142
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026039> .
+
+ensembl:ENSMUSG00000065422
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000709> .
+
+ensembl:ENSMUSG00000098886
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021916> .
+
+ensembl:ENSMUSG00000092638
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018021> .
+
+ensembl:ENSMUSG00000098808
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022858> .
+
+ensembl:ENSMUSG00000098388
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026041> .
+
+ensembl:ENSMUSG00000099110
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022798> .
+
+ensembl:ENSMUSG00000065398
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000230> .
+
+ensembl:ENSMUSG00000080356
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004120> .
+
+ensembl:ENSMUSG00000065611
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000571> .
+
+ensembl:ENSMUSG00000093336
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009949> .
+
+ensembl:ENSMUSG00000099331
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023734> .
+
+ensembl:ENSMUSG00000092652
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014101> .
+
+ensembl:ENSMUSG00000092827
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014084> .
+
+ensembl:ENSMUSG00000077869
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014094> .
+
+ensembl:ENSMUSG00000098822
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022888> .
+
+ensembl:ENSMUSG00000065587
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000403> .
+
+ensembl:ENSMUSG00000070129
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014034> , <http://identifiers.org/mirbase.mature/MI0000162> .
+
+ensembl:ENSMUSG00000065509
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005496> .
+
+ensembl:ENSMUSG00000065555
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000702> , <http://identifiers.org/mirbase.mature/MI0025034> .
+
+ensembl:ENSMUSG00000099275
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026038> .
+
+ensembl:ENSMUSG00000093746
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019190> .
+
+ensembl:ENSMUSG00000098513
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021935> .
+
+ensembl:ENSMUSG00000098766
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021918> .
+
+ensembl:ENSMUSG00000093073
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000717> .
+
+ensembl:ENSMUSG00000077851
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005480> .
+
+ensembl:ENSMUSG00000065523
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000551> .
+
+ensembl:ENSMUSG00000098734
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021862> .
+
+ensembl:ENSMUSG00000098489
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025023> .
+
+ensembl:ENSMUSG00000084747
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008318> .
+
+ensembl:ENSMUSG00000098780
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021924> .
+
+ensembl:ENSMUSG00000098955
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022782> .
+
+ensembl:ENSMUSG00000065499
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001146> .
+
+ensembl:ENSMUSG00000089151
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009941> .
+
+ensembl:ENSMUSG00000087855
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0012528> .
+
+ensembl:ENSMUSG00000098282
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022783> .
+
+ensembl:ENSMUSG00000098457
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026025> .
+
+ensembl:ENSMUSG00000099109
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022966> .
+
+ensembl:ENSMUSG00000065435
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000646> .
+
+ensembl:ENSMUSG00000098646
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022934> .
+
+ensembl:ENSMUSG00000065481
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000634> .
+
+ensembl:ENSMUSG00000097418
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000177> .
+
+ensembl:ENSMUSG00000099123
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022812> .
+
+ensembl:ENSMUSG00000065403
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000567> .
+
+ensembl:ENSMUSG00000076005
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003523> .
+
+ensembl:ENSMUSG00000076051
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004691> .
+
+ensembl:ENSMUSG00000098660
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021864> .
+
+ensembl:ENSMUSG00000097432
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008319> .
+
+ensembl:ENSMUSG00000093142
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004486> .
+
+ensembl:ENSMUSG00000098881
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022774> .
+
+ensembl:ENSMUSG00000080383
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000076272
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004553> .
+
+ensembl:ENSMUSG00000092633
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016967> .
+
+ensembl:ENSMUSG00000098558
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022898> .
+
+ensembl:ENSMUSG00000077896
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005472> .
+
+ensembl:ENSMUSG00000076240
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004686> .
+
+ensembl:ENSMUSG00000080526
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006295> .
+
+ensembl:ENSMUSG00000065568
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000630> .
+
+ensembl:ENSMUSG00000099035
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022889> .
+
+ensembl:ENSMUSG00000065536
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000586> .
+
+ensembl:ENSMUSG00000099003
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022884> .
+
+ensembl:ENSMUSG00000076138
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004687> .
+
+ensembl:ENSMUSG00000077113
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014078> .
+
+ensembl:ENSMUSG00000065582
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000733> .
+
+ensembl:ENSMUSG00000098540
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022908> .
+
+ensembl:ENSMUSG00000096383
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000084728
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008315> .
+
+ensembl:ENSMUSG00000094899
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014054> .
+
+ensembl:ENSMUSG00000078032
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003539> .
+
+ensembl:ENSMUSG00000098263
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022785> .
+
+ensembl:ENSMUSG00000092734
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018008> .
+
+ensembl:ENSMUSG00000076120
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004131> .
+
+ensembl:ENSMUSG00000097501
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026026> .
+
+ensembl:ENSMUSG00000098904
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022846> .
+
+ensembl:ENSMUSG00000080406
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006290> .
+
+ensembl:ENSMUSG00000065448
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000176> .
+
+ensembl:ENSMUSG00000077025
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005514> .
+
+ensembl:ENSMUSG00000065494
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000690> .
+
+ensembl:ENSMUSG00000098406
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023717> .
+
+ensembl:ENSMUSG00000080452
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009935> .
+
+ensembl:ENSMUSG00000065416
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000688> .
+
+ensembl:ENSMUSG00000093187
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005495> .
+
+ensembl:ENSMUSG00000065462
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000694> .
+
+ensembl:ENSMUSG00000076064
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004658> .
+
+ensembl:ENSMUSG00000089219
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009960> .
+
+ensembl:ENSMUSG00000065430
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000706> .
+
+ensembl:ENSMUSG00000088478
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009967> .
+
+ensembl:ENSMUSG00000092867
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004418> .
+
+ensembl:ENSMUSG00000076253
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004642> .
+
+ensembl:ENSMUSG00000098862
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021909> .
+
+ensembl:ENSMUSG00000076972
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005484> .
+
+ensembl:ENSMUSG00000098539
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021863> .
+
+ensembl:ENSMUSG00000098830
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022873> .
+
+ensembl:ENSMUSG00000088414
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009964> .
+
+ensembl:ENSMUSG00000065549
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000243> .
+
+ensembl:ENSMUSG00000099062
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022927> .
+
+ensembl:ENSMUSG00000099237
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023711> .
+
+ensembl:ENSMUSG00000098553
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025014> .
+
+ensembl:ENSMUSG00000076119
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004682> .
+
+ensembl:ENSMUSG00000096894
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014056> , <http://identifiers.org/mirbase.mature/MI0014065> , <http://identifiers.org/mirbase.mature/MI0014076> .
+
+ensembl:ENSMUSG00000098300
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022356> .
+
+ensembl:ENSMUSG00000099283
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022759> .
+
+ensembl:ENSMUSG00000065563
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000588> .
+
+ensembl:ENSMUSG00000070105
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004639> .
+
+ensembl:ENSMUSG00000099030
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021928> .
+
+ensembl:ENSMUSG00000098774
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022777> .
+
+ensembl:ENSMUSG00000093081
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014038> .
+
+ensembl:ENSMUSG00000098521
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025043> .
+
+ensembl:ENSMUSG00000098276
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021886> .
+
+ensembl:ENSMUSG00000094659
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005505> , <http://identifiers.org/mirbase.mature/MI0014057> .
+
+ensembl:ENSMUSG00000093003
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018015> .
+
+ensembl:ENSMUSG00000098497
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022779> .
+
+ensembl:ENSMUSG00000098917
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024994> .
+
+ensembl:ENSMUSG00000093224
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000797> .
+
+ensembl:ENSMUSG00000092793
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014050> .
+
+ensembl:ENSMUSG00000077038
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006287> .
+
+ensembl:ENSMUSG00000098419
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022810> .
+
+ensembl:ENSMUSG00000098710
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022916> .
+
+ensembl:ENSMUSG00000093270
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018046> .
+
+ensembl:ENSMUSG00000065429
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000632> .
+
+ensembl:ENSMUSG00000099149
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021899> .
+
+ensembl:ENSMUSG00000092761
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018029> .
+
+ensembl:ENSMUSG00000098465
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026040> .
+
+ensembl:ENSMUSG00000098931
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026027> , <http://identifiers.org/mirbase.mature/MI0026053> .
+
+ensembl:ENSMUSG00000065475
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000142> .
+
+ensembl:ENSMUSG00000094894
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025028> , <http://identifiers.org/mirbase.mature/MI0005499> , <http://identifiers.org/mirbase.mature/MI0005498> .
+
+ensembl:ENSMUSG00000089555
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009922> .
+
+ensembl:ENSMUSG00000098686
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022851> .
+
+ensembl:ENSMUSG00000098433
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021925> .
+
+ensembl:ENSMUSG00000098608
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022829> .
+
+ensembl:ENSMUSG00000099163
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025000> .
+
+ensembl:ENSMUSG00000065443
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0001151> .
+
+ensembl:ENSMUSG00000092659
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014092> .
+
+ensembl:ENSMUSG00000097970
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000548> .
+
+ensembl:ENSMUSG00000098401
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021907> .
+
+ensembl:ENSMUSG00000098829
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021882> .
+
+ensembl:ENSMUSG00000072837
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003517> .
+
+ensembl:ENSMUSG00000099131
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022924> .
+
+ensembl:ENSMUSG00000065411
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000237> .
+
+ensembl:ENSMUSG00000095269
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005506> , <http://identifiers.org/mirbase.mature/MI0014112> .
+
+ensembl:ENSMUSG00000088459
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009930> .
+
+ensembl:ENSMUSG00000092673
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014029> .
+
+ensembl:ENSMUSG00000089214
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009920> .
+
+ensembl:ENSMUSG00000099320
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025004> .
+
+ensembl:ENSMUSG00000065600
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014027> , <http://identifiers.org/mirbase.mature/MI0000619> .
+
+ensembl:ENSMUSG00000076455
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0012530> .
+
+ensembl:ENSMUSG00000099075
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025015> .
+
+ensembl:ENSMUSG00000089260
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009918> .
+
+ensembl:ENSMUSG00000098811
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022760> .
+
+ensembl:ENSMUSG00000094774
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014068> .
+
+ensembl:ENSMUSG00000092862
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014087> .
+
+ensembl:ENSMUSG00000077107
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014096> .
+
+ensembl:ENSMUSG00000076399
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003537> .
+
+ensembl:ENSMUSG00000086782
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000148> .
+
+ensembl:ENSMUSG00000099218
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021921> .
+
+ensembl:ENSMUSG00000099043
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022871> .
+
+ensembl:ENSMUSG00000087932
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009970> .
+
+ensembl:ENSMUSG00000077872
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005548> .
+
+ensembl:ENSMUSG00000098787
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022938> .
+
+ensembl:ENSMUSG00000080580
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006291> .
+
+ensembl:ENSMUSG00000092830
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016968> .
+
+ensembl:ENSMUSG00000093269
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018035> .
+
+ensembl:ENSMUSG00000097850
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000248> .
+
+ensembl:ENSMUSG00000099264
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021948> .
+
+ensembl:ENSMUSG00000065544
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000691> .
+
+ensembl:ENSMUSG00000098289
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025026> .
+
+ensembl:ENSMUSG00000099011
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021911> .
+
+ensembl:ENSMUSG00000098580
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022872> .
+
+ensembl:ENSMUSG00000076146
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004645> .
+
+ensembl:ENSMUSG00000096377
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018034> .
+
+ensembl:ENSMUSG00000065590
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000696> .
+
+ensembl:ENSMUSG00000065512
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000164> .
+
+ensembl:ENSMUSG00000078026
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014052> .
+
+ensembl:ENSMUSG00000098976
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022917> .
+
+ensembl:ENSMUSG00000070100
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000763> .
+
+ensembl:ENSMUSG00000099200
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022868> .
+
+ensembl:ENSMUSG00000076335
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004295> .
+
+ensembl:ENSMUSG00000098944
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026052> .
+
+ensembl:ENSMUSG00000065488
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000553> .
+
+ensembl:ENSMUSG00000087844
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009955> .
+
+ensembl:ENSMUSG00000092995
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000565> .
+
+ensembl:ENSMUSG00000098446
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023737> .
+
+ensembl:ENSMUSG00000070076
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000154> .
+
+ensembl:ENSMUSG00000092917
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014704> .
+
+ensembl:ENSMUSG00000065456
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000406> .
+
+ensembl:ENSMUSG00000099176
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021585> .
+
+ensembl:ENSMUSG00000089536
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0016971> .
+
+ensembl:ENSMUSG00000098414
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022756> .
+
+ensembl:ENSMUSG00000065424
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000157> .
+
+ensembl:ENSMUSG00000093615
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019186> .
+
+ensembl:ENSMUSG00000098460
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022818> .
+
+ensembl:ENSMUSG00000099319
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024986> .
+
+ensembl:ENSMUSG00000077001
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005555> .
+
+ensembl:ENSMUSG00000065470
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000171> .
+
+ensembl:ENSMUSG00000098856
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026045> .
+
+ensembl:ENSMUSG00000077941
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005511> .
+
+ensembl:ENSMUSG00000076966
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005503> .
+
+ensembl:ENSMUSG00000093338
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014083> .
+
+ensembl:ENSMUSG00000065613
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000580> .
+
+ensembl:ENSMUSG00000098824
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022855> .
+
+ensembl:ENSMUSG00000098579
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022784> .
+
+ensembl:ENSMUSG00000096492
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014074> , <http://identifiers.org/mirbase.mature/MI0014072> , <http://identifiers.org/mirbase.mature/MI0014062> , <http://identifiers.org/mirbase.mature/MI0002402> , <http://identifiers.org/mirbase.mature/MI0014069> , <http://identifiers.org/mirbase.mature/MI0014053> , <http://identifiers.org/mirbase.mature/MI0014059> .
+
+ensembl:ENSMUSG00000099301
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022357> .
+
+ensembl:ENSMUSG00000065589
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000401> .
+
+ensembl:ENSMUSG00000098547
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022768> .
+
+ensembl:ENSMUSG00000065557
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000559> .
+
+ensembl:ENSMUSG00000098593
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022913> .
+
+ensembl:ENSMUSG00000076450
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005203> .
+
+ensembl:ENSMUSG00000099070
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026051> .
+
+ensembl:ENSMUSG00000089139
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009961> .
+
+ensembl:ENSMUSG00000099245
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026026> .
+
+ensembl:ENSMUSG00000098989
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0023718> .
+
+ensembl:ENSMUSG00000076127
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004707> .
+
+ensembl:ENSMUSG00000093296
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014099> .
+
+ensembl:ENSMUSG00000065571
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000598> .
+
+ensembl:ENSMUSG00000093218
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000793> .
+
+ensembl:ENSMUSG00000092787
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018025> .
+
+ensembl:ENSMUSG00000080459
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006280> .
+
+ensembl:ENSMUSG00000088113
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009957> .
+
+ensembl:ENSMUSG00000098957
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026035> .
+
+ensembl:ENSMUSG00000098704
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022781> .
+
+ensembl:ENSMUSG00000093011
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000692> .
+
+ensembl:ENSMUSG00000076141
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004662> .
+
+ensembl:ENSMUSG00000098206
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000723> .
+
+ensembl:ENSMUSG00000076316
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004601> .
+
+ensembl:ENSMUSG00000065469
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000222> .
+
+ensembl:ENSMUSG00000093232
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000562> .
+
+ensembl:ENSMUSG00000098252
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021889> .
+
+ensembl:ENSMUSG00000097277
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009991> .
+
+ensembl:ENSMUSG00000093951
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014068> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014075> .
+
+ensembl:ENSMUSG00000077092
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005206> .
+
+ensembl:ENSMUSG00000065437
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000549> .
+
+ensembl:ENSMUSG00000098473
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022933> .
+
+ensembl:ENSMUSG00000098648
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021586> .
+
+ensembl:ENSMUSG00000080441
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004132> .
+
+ensembl:ENSMUSG00000065483
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000724> .
+
+ensembl:ENSMUSG00000065405
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000144> .
+
+ensembl:ENSMUSG00000092990
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018032> .
+
+ensembl:ENSMUSG00000070071
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0025028> , <http://identifiers.org/mirbase.mature/MI0002400> .
+
+ensembl:ENSMUSG00000098441
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022353> .
+
+ensembl:ENSMUSG00000080662
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000652> , <http://identifiers.org/mirbase.mature/MI0006283> .
+
+ensembl:ENSMUSG00000093176
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018028> .
+
+ensembl:ENSMUSG00000077954
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005489> .
+
+ensembl:ENSMUSG00000065451
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000148> .
+
+ensembl:ENSMUSG00000094547
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014054> , <http://identifiers.org/mirbase.mature/MI0004523> , <http://identifiers.org/mirbase.mature/MI0014077> , <http://identifiers.org/mirbase.mature/MI0014061> , <http://identifiers.org/mirbase.mature/MI0014058> , <http://identifiers.org/mirbase.mature/MI0014066> , <http://identifiers.org/mirbase.mature/MI0014073> , <http://identifiers.org/mirbase.mature/MI0014075> , <http://identifiers.org/mirbase.mature/MI0014055> , <http://identifiers.org/mirbase.mature/MI0014068> .
+
+ensembl:ENSMUSG00000098339
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022825> .
+
+ensembl:ENSMUSG00000099069
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026017> .
+
+ensembl:ENSMUSG00000098851
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021881> .
+
+ensembl:ENSMUSG00000065395
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000235> .
+
+ensembl:ENSMUSG00000088901
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009932> .
+
+ensembl:ENSMUSG00000098353
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022906> .
+
+ensembl:ENSMUSG00000093508
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019318> .
+
+ensembl:ENSMUSG00000080574
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006282> .
+
+ensembl:ENSMUSG00000092870
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014023> .
+
+ensembl:ENSMUSG00000099258
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022896> .
+
+ensembl:ENSMUSG00000065538
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000175> .
+
+ensembl:ENSMUSG00000098574
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022886> .
+
+ensembl:ENSMUSG00000099005
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021934> .
+
+ensembl:ENSMUSG00000088158
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004155> .
+
+ensembl:ENSMUSG00000077834
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006281> .
+
+ensembl:ENSMUSG00000070126
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000713> .
+
+ensembl:ENSMUSG00000099226
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022941> .
+
+ensembl:ENSMUSG00000098297
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022828> .
+
+ensembl:ENSMUSG00000099272
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022943> .
+
+ensembl:ENSMUSG00000065552
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000402> .
+
+ensembl:ENSMUSG00000070140
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003484> .
+
+ensembl:ENSMUSG00000093498
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019181> , <http://identifiers.org/mirbase.mature/MI0019182> .
+
+ensembl:ENSMUSG00000098510
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022816> .
+
+ensembl:ENSMUSG00000098938
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021927> .
+
+ensembl:ENSMUSG00000093245
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004634> .
+
+ensembl:ENSMUSG00000065520
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000155> .
+
+ensembl:ENSMUSG00000098984
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021958> .
+
+ensembl:ENSMUSG00000084523
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0008317> .
+
+ensembl:ENSMUSG00000076122
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003538> .
+
+ensembl:ENSMUSG00000098731
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022876> .
+
+ensembl:ENSMUSG00000093291
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019180> , <http://identifiers.org/mirbase.mature/MI0000399> .
+
+ensembl:ENSMUSG00000098906
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0024992> .
+
+ensembl:ENSMUSG00000077571
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0012531> .
+
+ensembl:ENSMUSG00000078002
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005473> .
+
+ensembl:ENSMUSG00000088789
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014031> .
+
+ensembl:ENSMUSG00000098952
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021941> .
+
+ensembl:ENSMUSG00000098408
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021584> .
+
+ensembl:ENSMUSG00000065418
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000590> .
+
+ensembl:ENSMUSG00000098454
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022881> .
+
+ensembl:ENSMUSG00000070084
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014103> , <http://identifiers.org/mirbase.mature/MI0003493> .
+
+ensembl:ENSMUSG00000099184
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021865> .
+
+ensembl:ENSMUSG00000093900
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014071> , <http://identifiers.org/mirbase.mature/MI0014064> .
+
+ensembl:ENSMUSG00000093480
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019193> .
+
+ensembl:ENSMUSG00000065464
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000227> .
+
+ensembl:ENSMUSG00000087820
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009917> .
+
+ensembl:ENSMUSG00000076066
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000703> .
+
+ensembl:ENSMUSG00000098675
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021893> .
+
+ensembl:ENSMUSG00000098422
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022865> .
+
+ensembl:ENSMUSG00000096510
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006299> .
+
+ensembl:ENSMUSG00000093157
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014091> .
+
+ensembl:ENSMUSG00000065432
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000555> .
+
+ensembl:ENSMUSG00000099152
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022817> .
+
+ensembl:ENSMUSG00000065607
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000609> .
+
+ensembl:ENSMUSG00000098896
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026054> .
+
+ensembl:ENSMUSG00000077981
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005509> .
+
+ensembl:ENSMUSG00000077903
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000392> .
+
+ensembl:ENSMUSG00000065400
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000554> .
+
+ensembl:ENSMUSG00000076255
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005521> .
+
+ensembl:ENSMUSG00000098611
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021871> .
+
+ensembl:ENSMUSG00000093599
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0019188> .
+
+ensembl:ENSMUSG00000098366
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021890> .
+
+ensembl:ENSMUSG00000099096
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022792> .
+
+ensembl:ENSMUSG00000085354
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000245> , <http://identifiers.org/mirbase.mature/MI0025037> .
+
+ensembl:ENSMUSG00000093314
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0018048> .
+
+ensembl:ENSMUSG00000065597
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000716> .
+
+ensembl:ENSMUSG00000098334
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022892> .
+
+ensembl:ENSMUSG00000094297
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0006279> .
+
+ensembl:ENSMUSG00000076444
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0004306> .
+
+ensembl:ENSMUSG00000077847
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0005481> .
+
+ensembl:ENSMUSG00000070139
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003206> .
+
+ensembl:ENSMUSG00000098380
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022786> .
+
+ensembl:ENSMUSG00000089424
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009919> .
+
+ensembl:ENSMUSG00000065519
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000685> .
+
+ensembl:ENSMUSG00000098555
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021869> .
+
+ensembl:ENSMUSG00000093037
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014028> .
+
+ensembl:ENSMUSG00000065565
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000697> .
+
+ensembl:ENSMUSG00000077815
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000388> , <http://identifiers.org/mirbase.mature/MI0025038> .
+
+ensembl:ENSMUSG00000070107
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0003476> .
+
+ensembl:ENSMUSG00000065533
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000248> .
+
+ensembl:ENSMUSG00000094952
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014033> .
+
+ensembl:ENSMUSG00000098997
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022748> .
+
+ensembl:ENSMUSG00000096113
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014063> , <http://identifiers.org/mirbase.mature/MI0014070> , <http://identifiers.org/mirbase.mature/MI0005502> .
+
+ensembl:ENSMUSG00000098919
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0026032> .
+
+ensembl:ENSMUSG00000065501
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0000817> .
+
+ensembl:ENSMUSG00000098499
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022823> .
+
+ensembl:ENSMUSG00000098790
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022789> .
+
+ensembl:ENSMUSG00000099221
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0021900> .
+
+ensembl:ENSMUSG00000096587
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0014056> , <http://identifiers.org/mirbase.mature/MI0014065> , <http://identifiers.org/mirbase.mature/MI0014076> .
+
+ensembl:ENSMUSG00000098712
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0022859> .
+
+ensembl:ENSMUSG00000077086
+        ensemblterms:DIRECT  <http://identifiers.org/mirbase.mature/MI0009945> .

@@ -1,0 +1,2103 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSG00000121879
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5290> .
+
+ensembl:ENSG00000134684
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8565> .
+
+ensembl:ENSG00000102125
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6901> .
+
+ensembl:ENSG00000025708
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1890> .
+
+ensembl:ENSG00000167895
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/147138> .
+
+ensembl:ENSG00000116586
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/28956> .
+
+ensembl:ENSG00000105486
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3978> .
+
+ensembl:ENSG00000198707
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/80184> .
+
+ensembl:ENSG00000107611
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8029> .
+
+ensembl:ENSG00000132740
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3508> .
+
+ensembl:ENSG00000151498
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/27034> .
+
+ensembl:ENSG00000172936
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4615> .
+
+ensembl:ENSG00000157978
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/26119> .
+
+ensembl:ENSG00000189067
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9516> .
+
+ensembl:ENSG00000084073
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10269> .
+
+ensembl:ENSG00000122591
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/84668> .
+
+ensembl:ENSG00000206172
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3039> , <http://identifiers.org/wikigenes/3040> .
+
+ensembl:ENSG00000169057
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4204> .
+
+ensembl:ENSG00000160654
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/917> .
+
+ensembl:ENSG00000198223
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102725415> , <http://identifiers.org/wikigenes/1438> .
+
+ensembl:ENSG00000198910
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3897> .
+
+ensembl:ENSG00000104889
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10535> .
+
+ensembl:ENSG00000164414
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10559> .
+
+ensembl:ENSG00000169919
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2990> .
+
+ensembl:ENSG00000224389
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/721> , <http://identifiers.org/wikigenes/100293534> .
+
+ensembl:ENSG00000077264
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5063> .
+
+ensembl:ENSG00000225830
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2074> .
+
+ensembl:ENSG00000101076
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3172> .
+
+ensembl:ENSG00000117118
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6390> .
+
+ensembl:ENSG00000151623
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4306> .
+
+ensembl:ENSG00000129667
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79651> .
+
+ensembl:ENSG00000054523
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23095> .
+
+ensembl:ENSG00000167711
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5345> .
+
+ensembl:ENSG00000146085
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4594> .
+
+ensembl:ENSG00000112365
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9841> .
+
+ensembl:ENSG00000117385
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64175> , <http://identifiers.org/wikigenes/102723473> .
+
+ensembl:ENSG00000076944
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6813> .
+
+ensembl:ENSG00000115648
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79083> .
+
+ensembl:ENSG00000171680
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57449> .
+
+ensembl:ENSG00000120457
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3762> .
+
+ensembl:ENSG00000188641
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1806> .
+
+ensembl:ENSG00000000971
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3075> .
+
+ensembl:ENSG00000142173
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1292> .
+
+ensembl:ENSG00000198734
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2153> .
+
+ensembl:ENSG00000163554
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6708> .
+
+ensembl:ENSG00000112964
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2690> .
+
+ensembl:ENSG00000171094
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/238> .
+
+ensembl:ENSG00000171560
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2243> .
+
+ensembl:ENSG00000083093
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79728> .
+
+ensembl:ENSG00000177628
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2629> .
+
+ensembl:ENSG00000064012
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/841> .
+
+ensembl:ENSG00000004455
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/204> .
+
+ensembl:ENSG00000110711
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9049> .
+
+ensembl:ENSG00000099822
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/610> .
+
+ensembl:ENSG00000104884
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2068> .
+
+ensembl:ENSG00000165392
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7486> .
+
+ensembl:ENSG00000080815
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5663> .
+
+ensembl:ENSG00000230930
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000104133
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/80208> .
+
+ensembl:ENSG00000095002
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4436> .
+
+ensembl:ENSG00000153563
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/925> .
+
+ensembl:ENSG00000040531
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1497> .
+
+ensembl:ENSG00000152556
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5213> .
+
+ensembl:ENSG00000134899
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2073> .
+
+ensembl:ENSG00000105227
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57716> .
+
+ensembl:ENSG00000221829
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2189> .
+
+ensembl:ENSG00000148356
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/90678> .
+
+ensembl:ENSG00000198793
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2475> .
+
+ensembl:ENSG00000108556
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1145> .
+
+ensembl:ENSG00000163069
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6443> .
+
+ensembl:ENSG00000123560
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5354> .
+
+ensembl:ENSG00000165240
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/538> .
+
+ensembl:ENSG00000101347
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/25939> .
+
+ensembl:ENSG00000136936
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7507> .
+
+ensembl:ENSG00000223699
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000135929
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1593> .
+
+ensembl:ENSG00000197943
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5336> .
+
+ensembl:ENSG00000057657
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/639> .
+
+ensembl:ENSG00000131187
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2161> .
+
+ensembl:ENSG00000240505
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23495> .
+
+ensembl:ENSG00000064933
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5378> .
+
+ensembl:ENSG00000167207
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64127> .
+
+ensembl:ENSG00000131828
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5160> .
+
+ensembl:ENSG00000166278
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/101928623> , <http://identifiers.org/wikigenes/717> .
+
+ensembl:ENSG00000113302
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3593> .
+
+ensembl:ENSG00000168040
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8772> .
+
+ensembl:ENSG00000134982
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/324> .
+
+ensembl:ENSG00000163359
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1293> , <http://identifiers.org/wikigenes/102723826> , <http://identifiers.org/wikigenes/102725336> .
+
+ensembl:ENSG00000141469
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6563> .
+
+ensembl:ENSG00000112769
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3910> .
+
+ensembl:ENSG00000159216
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/100506403> , <http://identifiers.org/wikigenes/101928269> , <http://identifiers.org/wikigenes/861> .
+
+ensembl:ENSG00000128604
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3663> .
+
+ensembl:ENSG00000167165
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54578> .
+
+ensembl:ENSG00000188603
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1201> .
+
+ensembl:ENSG00000101605
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8736> .
+
+ensembl:ENSG00000160201
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102724594> , <http://identifiers.org/wikigenes/7307> , <http://identifiers.org/wikigenes/102724583> .
+
+ensembl:ENSG00000105618
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/26121> .
+
+ensembl:ENSG00000092054
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4625> .
+
+ensembl:ENSG00000166126
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/81693> .
+
+ensembl:ENSG00000140199
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9990> .
+
+ensembl:ENSG00000159128
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3460> .
+
+ensembl:ENSG00000125952
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4149> .
+
+ensembl:ENSG00000141349
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/92579> .
+
+ensembl:ENSG00000090861
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/16> .
+
+ensembl:ENSG00000100146
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6663> .
+
+ensembl:ENSG00000142798
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102723830> , <http://identifiers.org/wikigenes/3339> .
+
+ensembl:ENSG00000165410
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1073> .
+
+ensembl:ENSG00000129965
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/723961> .
+
+ensembl:ENSG00000181163
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4869> .
+
+ensembl:ENSG00000135956
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55654> .
+
+ensembl:ENSG00000015285
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7454> .
+
+ensembl:ENSG00000018625
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/477> .
+
+ensembl:ENSG00000167985
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54949> .
+
+ensembl:ENSG00000090054
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10558> .
+
+ensembl:ENSG00000014919
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1355> .
+
+ensembl:ENSG00000075239
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/38> .
+
+ensembl:ENSG00000147224
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5631> .
+
+ensembl:ENSG00000140545
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102724554> , <http://identifiers.org/wikigenes/4240> , <http://identifiers.org/wikigenes/102723860> .
+
+ensembl:ENSG00000082458
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1741> .
+
+ensembl:ENSG00000139219
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1280> .
+
+ensembl:ENSG00000130816
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1786> .
+
+ensembl:ENSG00000232541
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000135338
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/167691> .
+
+ensembl:ENSG00000147168
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3561> .
+
+ensembl:ENSG00000173991
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8557> .
+
+ensembl:ENSG00000204248
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000224770
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000165409
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7253> .
+
+ensembl:ENSG00000165280
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7415> .
+
+ensembl:ENSG00000092067
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1053> .
+
+ensembl:ENSG00000143390
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5993> .
+
+ensembl:ENSG00000129757
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1028> .
+
+ensembl:ENSG00000170100
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/197320> .
+
+ensembl:ENSG00000177000
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4524> .
+
+ensembl:ENSG00000149781
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/83706> .
+
+ensembl:ENSG00000092929
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/201294> .
+
+ensembl:ENSG00000128322
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3543> .
+
+ensembl:ENSG00000038427
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1462> .
+
+ensembl:ENSG00000182326
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/716> .
+
+ensembl:ENSG00000171051
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2357> .
+
+ensembl:ENSG00000182372
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2055> .
+
+ensembl:ENSG00000095585
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/29760> .
+
+ensembl:ENSG00000115286
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/374291> .
+
+ensembl:ENSG00000136492
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/83990> .
+
+ensembl:ENSG00000183918
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4068> .
+
+ensembl:ENSG00000177663
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23765> .
+
+ensembl:ENSG00000112367
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9896> .
+
+ensembl:ENSG00000160789
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4000> .
+
+ensembl:ENSG00000151348
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2132> .
+
+ensembl:ENSG00000101986
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/215> .
+
+ensembl:ENSG00000084674
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/338> .
+
+ensembl:ENSG00000005893
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3920> .
+
+ensembl:ENSG00000110921
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4598> .
+
+ensembl:ENSG00000106080
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55033> .
+
+ensembl:ENSG00000109861
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1075> .
+
+ensembl:ENSG00000069431
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10060> .
+
+ensembl:ENSG00000074582
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/617> .
+
+ensembl:ENSG00000127914
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10142> .
+
+ensembl:ENSG00000164342
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7098> .
+
+ensembl:ENSG00000149131
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/710> .
+
+ensembl:ENSG00000127241
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102725441> , <http://identifiers.org/wikigenes/5648> .
+
+ensembl:ENSG00000169174
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/255738> .
+
+ensembl:ENSG00000140968
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3394> .
+
+ensembl:ENSG00000134460
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3559> .
+
+ensembl:ENSG00000214160
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10195> .
+
+ensembl:ENSG00000085063
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/966> .
+
+ensembl:ENSG00000134183
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2780> .
+
+ensembl:ENSG00000106633
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2645> .
+
+ensembl:ENSG00000101115
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57167> .
+
+ensembl:ENSG00000133895
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4221> .
+
+ensembl:ENSG00000231925
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6892> .
+
+ensembl:ENSG00000001626
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1080> .
+
+ensembl:ENSG00000152457
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64421> .
+
+ensembl:ENSG00000225845
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000177455
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/930> .
+
+ensembl:ENSG00000165671
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64324> .
+
+ensembl:ENSG00000154803
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/201163> .
+
+ensembl:ENSG00000150281
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1489> .
+
+ensembl:ENSG00000102034
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2000> .
+
+ensembl:ENSG00000113600
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/735> .
+
+ensembl:ENSG00000069974
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5873> .
+
+ensembl:ENSG00000100596
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9517> .
+
+ensembl:ENSG00000007312
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/974> .
+
+ensembl:ENSG00000196459
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6399> .
+
+ensembl:ENSG00000262993
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3881> .
+
+ensembl:ENSG00000198805
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4860> .
+
+ensembl:ENSG00000203867
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/282996> .
+
+ensembl:ENSG00000065154
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4942> .
+
+ensembl:ENSG00000169432
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6335> .
+
+ensembl:ENSG00000126524
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/51119> .
+
+ensembl:ENSG00000130635
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1289> .
+
+ensembl:ENSG00000198851
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/916> .
+
+ensembl:ENSG00000101981
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2158> .
+
+ensembl:ENSG00000109099
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5376> .
+
+ensembl:ENSG00000112039
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2178> .
+
+ensembl:ENSG00000141458
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4864> .
+
+ensembl:ENSG00000170624
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6444> .
+
+ensembl:ENSG00000168646
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8313> .
+
+ensembl:ENSG00000275885
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/26121> .
+
+ensembl:ENSG00000003400
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/843> .
+
+ensembl:ENSG00000159251
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/70> .
+
+ensembl:ENSG00000123096
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8082> .
+
+ensembl:ENSG00000142156
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1291> .
+
+ensembl:ENSG00000100697
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23405> .
+
+ensembl:ENSG00000106692
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2218> .
+
+ensembl:ENSG00000109501
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7466> .
+
+ensembl:ENSG00000197535
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4644> .
+
+ensembl:ENSG00000203747
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2214> .
+
+ensembl:ENSG00000105639
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3718> .
+
+ensembl:ENSG00000166147
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2200> .
+
+ensembl:ENSG00000116785
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10878> .
+
+ensembl:ENSG00000171298
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2548> .
+
+ensembl:ENSG00000158290
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8450> .
+
+ensembl:ENSG00000107099
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/81704> .
+
+ensembl:ENSG00000179348
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2624> .
+
+ensembl:ENSG00000188536
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3039> , <http://identifiers.org/wikigenes/3040> .
+
+ensembl:ENSG00000122025
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2322> .
+
+ensembl:ENSG00000262785
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5313> .
+
+ensembl:ENSG00000134574
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1643> .
+
+ensembl:ENSG00000021852
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/732> .
+
+ensembl:ENSG00000133812
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/81846> .
+
+ensembl:ENSG00000163961
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/165918> .
+
+ensembl:ENSG00000096996
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3594> .
+
+ensembl:ENSG00000111424
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7421> .
+
+ensembl:ENSG00000179583
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4261> .
+
+ensembl:ENSG00000187796
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64170> .
+
+ensembl:ENSG00000115935
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7456> .
+
+ensembl:ENSG00000042781
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7399> .
+
+ensembl:ENSG00000160323
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11093> .
+
+ensembl:ENSG00000126583
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5582> .
+
+ensembl:ENSG00000131844
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64087> .
+
+ensembl:ENSG00000008710
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5310> , <http://identifiers.org/wikigenes/101930075> , <http://identifiers.org/wikigenes/102723646> .
+
+ensembl:ENSG00000213281
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4893> .
+
+ensembl:ENSG00000135636
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8291> .
+
+ensembl:ENSG00000150893
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/341640> .
+
+ensembl:ENSG00000122877
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1959> .
+
+ensembl:ENSG00000157131
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/731> .
+
+ensembl:ENSG00000053747
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3909> .
+
+ensembl:ENSG00000176387
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3291> .
+
+ensembl:ENSG00000130164
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3949> .
+
+ensembl:ENSG00000135604
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8676> .
+
+ensembl:ENSG00000198380
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2673> .
+
+ensembl:ENSG00000196177
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/36> .
+
+ensembl:ENSG00000091137
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5172> .
+
+ensembl:ENSG00000198523
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5350> .
+
+ensembl:ENSG00000153956
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/781> .
+
+ensembl:ENSG00000090674
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57192> .
+
+ensembl:ENSG00000188153
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1287> .
+
+ensembl:ENSG00000101109
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6789> .
+
+ensembl:ENSG00000226127
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000146648
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1956> .
+
+ensembl:ENSG00000101400
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6640> .
+
+ensembl:ENSG00000156313
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6103> .
+
+ensembl:ENSG00000139618
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/675> .
+
+ensembl:ENSG00000114854
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7134> .
+
+ensembl:ENSG00000244414
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3078> .
+
+ensembl:ENSG00000166349
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5896> .
+
+ensembl:ENSG00000155850
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1836> .
+
+ensembl:ENSG00000138379
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2660> .
+
+ensembl:ENSG00000158169
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2176> .
+
+ensembl:ENSG00000123700
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3759> .
+
+ensembl:ENSG00000084207
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2950> .
+
+ensembl:ENSG00000138347
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/84665> .
+
+ensembl:ENSG00000148090
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/549> .
+
+ensembl:ENSG00000183091
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4703> .
+
+ensembl:ENSG00000188706
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/51114> .
+
+ensembl:ENSG00000116678
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3953> .
+
+ensembl:ENSG00000170927
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5314> .
+
+ensembl:ENSG00000117400
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4352> .
+
+ensembl:ENSG00000076248
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7374> .
+
+ensembl:ENSG00000196712
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4763> , <http://identifiers.org/wikigenes/102725369> .
+
+ensembl:ENSG00000198670
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4018> .
+
+ensembl:ENSG00000075785
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7879> .
+
+ensembl:ENSG00000118526
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6943> .
+
+ensembl:ENSG00000120725
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64374> .
+
+ensembl:ENSG00000177098
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6330> .
+
+ensembl:ENSG00000171316
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102724260> , <http://identifiers.org/wikigenes/55636> .
+
+ensembl:ENSG00000147889
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1029> .
+
+ensembl:ENSG00000104728
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9639> .
+
+ensembl:ENSG00000104774
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4125> .
+
+ensembl:ENSG00000107882
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/51684> .
+
+ensembl:ENSG00000141655
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8792> .
+
+ensembl:ENSG00000159189
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/714> .
+
+ensembl:ENSG00000110324
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3587> .
+
+ensembl:ENSG00000224242
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000137700
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2542> .
+
+ensembl:ENSG00000104419
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10397> .
+
+ensembl:ENSG00000156515
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3098> .
+
+ensembl:ENSG00000165471
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4153> .
+
+ensembl:ENSG00000172922
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/84153> .
+
+ensembl:ENSG00000139193
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/939> .
+
+ensembl:ENSG00000030582
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2896> .
+
+ensembl:ENSG00000134259
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4803> .
+
+ensembl:ENSG00000112116
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/112744> .
+
+ensembl:ENSG00000152137
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/26353> .
+
+ensembl:ENSG00000236625
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/721> , <http://identifiers.org/wikigenes/100293534> .
+
+ensembl:ENSG00000121966
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7852> .
+
+ensembl:ENSG00000163646
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7401> .
+
+ensembl:ENSG00000039537
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/729> .
+
+ensembl:ENSG00000141756
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/60681> .
+
+ensembl:ENSG00000136872
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/229> .
+
+ensembl:ENSG00000181072
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1129> .
+
+ensembl:ENSG00000213930
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2592> .
+
+ensembl:ENSG00000081052
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1286> .
+
+ensembl:ENSG00000054983
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2581> .
+
+ensembl:ENSG00000027697
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3459> .
+
+ensembl:ENSG00000174405
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3981> .
+
+ensembl:ENSG00000057593
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2155> .
+
+ensembl:ENSG00000244731
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/720> .
+
+ensembl:ENSG00000117560
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/356> .
+
+ensembl:ENSG00000185053
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/137868> .
+
+ensembl:ENSG00000171564
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2244> .
+
+ensembl:ENSG00000112761
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8838> .
+
+ensembl:ENSG00000229741
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000160211
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2539> .
+
+ensembl:ENSG00000112936
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/730> .
+
+ensembl:ENSG00000198001
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/51135> .
+
+ensembl:ENSG00000106105
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2617> .
+
+ensembl:ENSG00000020922
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4361> .
+
+ensembl:ENSG00000159184
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10481> .
+
+ensembl:ENSG00000122512
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5395> .
+
+ensembl:ENSG00000101306
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/85366> .
+
+ensembl:ENSG00000163217
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/27302> .
+
+ensembl:ENSG00000105397
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7297> .
+
+ensembl:ENSG00000187098
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4286> .
+
+ensembl:ENSG00000253729
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5591> .
+
+ensembl:ENSG00000172893
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1717> .
+
+ensembl:ENSG00000070915
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6559> .
+
+ensembl:ENSG00000083720
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5019> .
+
+ensembl:ENSG00000184470
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10587> .
+
+ensembl:ENSG00000063244
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11338> .
+
+ensembl:ENSG00000229597
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000094796
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3881> .
+
+ensembl:ENSG00000179295
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5781> .
+
+ensembl:ENSG00000198821
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/919> .
+
+ensembl:ENSG00000159958
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/115650> .
+
+ensembl:ENSG00000130826
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1736> , <http://identifiers.org/wikigenes/100847052> , <http://identifiers.org/wikigenes/677835> .
+
+ensembl:ENSG00000242366
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54576> .
+
+ensembl:ENSG00000196839
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/100> .
+
+ensembl:ENSG00000118004
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/78989> .
+
+ensembl:ENSG00000101200
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/551> .
+
+ensembl:ENSG00000188672
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6006> .
+
+ensembl:ENSG00000127666
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/148022> .
+
+ensembl:ENSG00000160224
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/326> .
+
+ensembl:ENSG00000183873
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6331> .
+
+ensembl:ENSG00000055118
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3757> .
+
+ensembl:ENSG00000118271
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7276> .
+
+ensembl:ENSG00000143575
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10456> .
+
+ensembl:ENSG00000049860
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3074> .
+
+ensembl:ENSG00000178445
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2731> .
+
+ensembl:ENSG00000134853
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5156> .
+
+ensembl:ENSG00000159197
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9992> .
+
+ensembl:ENSG00000180644
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5551> .
+
+ensembl:ENSG00000172243
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64581> .
+
+ensembl:ENSG00000068831
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10235> .
+
+ensembl:ENSG00000169083
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/367> .
+
+ensembl:ENSG00000243649
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/629> .
+
+ensembl:ENSG00000186847
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3861> .
+
+ensembl:ENSG00000173369
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/713> .
+
+ensembl:ENSG00000198677
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9652> .
+
+ensembl:ENSG00000120802
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7112> .
+
+ensembl:ENSG00000131482
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2538> .
+
+ensembl:ENSG00000167580
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/359> .
+
+ensembl:ENSG00000269900
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6023> .
+
+ensembl:ENSG00000168542
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1281> .
+
+ensembl:ENSG00000170275
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10491> .
+
+ensembl:ENSG00000158813
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1896> .
+
+ensembl:ENSG00000166794
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5479> .
+
+ensembl:ENSG00000128710
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3236> .
+
+ensembl:ENSG00000262446
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2629> .
+
+ensembl:ENSG00000103876
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2184> .
+
+ensembl:ENSG00000011143
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54903> .
+
+ensembl:ENSG00000012048
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/672> .
+
+ensembl:ENSG00000136802
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56262> .
+
+ensembl:ENSG00000102805
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1203> .
+
+ensembl:ENSG00000165699
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7248> .
+
+ensembl:ENSG00000157764
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/673> .
+
+ensembl:ENSG00000248098
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/593> .
+
+ensembl:ENSG00000205403
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3426> .
+
+ensembl:ENSG00000103005
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79650> .
+
+ensembl:ENSG00000169562
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2705> .
+
+ensembl:ENSG00000132470
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3691> .
+
+ensembl:ENSG00000065427
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3735> .
+
+ensembl:ENSG00000119392
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2733> .
+
+ensembl:ENSG00000160882
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1584> .
+
+ensembl:ENSG00000166333
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3611> .
+
+ensembl:ENSG00000134571
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4607> .
+
+ensembl:ENSG00000070061
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8518> .
+
+ensembl:ENSG00000119535
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1441> .
+
+ensembl:ENSG00000141524
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11322> .
+
+ensembl:ENSG00000138759
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/80144> .
+
+ensembl:ENSG00000148677
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/27063> .
+
+ensembl:ENSG00000145362
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/287> .
+
+ensembl:ENSG00000120948
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23435> .
+
+ensembl:ENSG00000109101
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8456> .
+
+ensembl:ENSG00000187010
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6006> , <http://identifiers.org/wikigenes/6007> .
+
+ensembl:ENSG00000171862
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5728> .
+
+ensembl:ENSG00000049167
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1161> .
+
+ensembl:ENSG00000186081
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3852> .
+
+ensembl:ENSG00000149596
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57158> .
+
+ensembl:ENSG00000165704
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3251> .
+
+ensembl:ENSG00000100906
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4792> .
+
+ensembl:ENSG00000261609
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8139> .
+
+ensembl:ENSG00000149311
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/472> .
+
+ensembl:ENSG00000172062
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6607> , <http://identifiers.org/wikigenes/6606> .
+
+ensembl:ENSG00000115392
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55120> .
+
+ensembl:ENSG00000125730
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/718> .
+
+ensembl:ENSG00000197766
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1675> .
+
+ensembl:ENSG00000185010
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2157> .
+
+ensembl:ENSG00000088305
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1789> .
+
+ensembl:ENSG00000051523
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1535> .
+
+ensembl:ENSG00000156738
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/931> .
+
+ensembl:ENSG00000235708
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000128340
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5880> .
+
+ensembl:ENSG00000111245
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4633> .
+
+ensembl:ENSG00000154153
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54463> .
+
+ensembl:ENSG00000108946
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5573> .
+
+ensembl:ENSG00000129245
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9513> .
+
+ensembl:ENSG00000001631
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/889> .
+
+ensembl:ENSG00000134086
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7428> .
+
+ensembl:ENSG00000157404
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3815> .
+
+ensembl:ENSG00000182533
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/859> .
+
+ensembl:ENSG00000198400
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4914> .
+
+ensembl:ENSG00000171608
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5293> .
+
+ensembl:ENSG00000166037
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9702> .
+
+ensembl:ENSG00000162711
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/114548> .
+
+ensembl:ENSG00000103197
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7249> .
+
+ensembl:ENSG00000135899
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3431> .
+
+ensembl:ENSG00000115415
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6772> .
+
+ensembl:ENSG00000102158
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/84061> .
+
+ensembl:ENSG00000005381
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4353> .
+
+ensembl:ENSG00000155657
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7273> .
+
+ensembl:ENSG00000140092
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10516> .
+
+ensembl:ENSG00000060069
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9150> .
+
+ensembl:ENSG00000170836
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8493> .
+
+ensembl:ENSG00000106462
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2146> .
+
+ensembl:ENSG00000165731
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5979> .
+
+ensembl:ENSG00000160213
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1476> .
+
+ensembl:ENSG00000102393
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2717> .
+
+ensembl:ENSG00000138413
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3417> .
+
+ensembl:ENSG00000085224
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/546> .
+
+ensembl:ENSG00000197249
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5265> .
+
+ensembl:ENSG00000225190
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102724267> , <http://identifiers.org/wikigenes/9842> .
+
+ensembl:ENSG00000169247
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79628> .
+
+ensembl:ENSG00000136698
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55997> .
+
+ensembl:ENSG00000129991
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7137> .
+
+ensembl:ENSG00000049540
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2006> .
+
+ensembl:ENSG00000132155
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102724915> , <http://identifiers.org/wikigenes/5894> .
+
+ensembl:ENSG00000140368
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9051> .
+
+ensembl:ENSG00000100393
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2033> .
+
+ensembl:ENSG00000116688
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9927> .
+
+ensembl:ENSG00000181830
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55343> .
+
+ensembl:ENSG00000173372
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/712> .
+
+ensembl:ENSG00000132842
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8546> .
+
+ensembl:ENSG00000091483
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2271> .
+
+ensembl:ENSG00000039068
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/999> .
+
+ensembl:ENSG00000140525
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55215> .
+
+ensembl:ENSG00000136104
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79621> .
+
+ensembl:ENSG00000171105
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3643> .
+
+ensembl:ENSG00000142405
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/91662> .
+
+ensembl:ENSG00000102683
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6445> .
+
+ensembl:ENSG00000117322
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1380> .
+
+ensembl:ENSG00000269058
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/125972> .
+
+ensembl:ENSG00000108821
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1277> .
+
+ensembl:ENSG00000134389
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/81494> .
+
+ensembl:ENSG00000182117
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55505> .
+
+ensembl:ENSG00000139687
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5925> .
+
+ensembl:ENSG00000104973
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/81857> , <http://identifiers.org/wikigenes/102465480> .
+
+ensembl:ENSG00000083799
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102724054> , <http://identifiers.org/wikigenes/1540> .
+
+ensembl:ENSG00000110057
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/81622> .
+
+ensembl:ENSG00000184937
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7490> .
+
+ensembl:ENSG00000134371
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79577> .
+
+ensembl:ENSG00000005961
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3674> .
+
+ensembl:ENSG00000133111
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5994> .
+
+ensembl:ENSG00000096968
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3717> .
+
+ensembl:ENSG00000228454
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/721> , <http://identifiers.org/wikigenes/100293534> .
+
+ensembl:ENSG00000100342
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8542> .
+
+ensembl:ENSG00000198836
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4976> .
+
+ensembl:ENSG00000187736
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79840> .
+
+ensembl:ENSG00000196924
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2316> .
+
+ensembl:ENSG00000138029
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3032> .
+
+ensembl:ENSG00000110435
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8050> .
+
+ensembl:ENSG00000101966
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/331> .
+
+ensembl:ENSG00000117335
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4179> .
+
+ensembl:ENSG00000139083
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2120> .
+
+ensembl:ENSG00000171385
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3752> .
+
+ensembl:ENSG00000143369
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1893> .
+
+ensembl:ENSG00000170876
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79188> .
+
+ensembl:ENSG00000133710
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11005> .
+
+ensembl:ENSG00000188157
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/375790> .
+
+ensembl:ENSG00000051180
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5888> .
+
+ensembl:ENSG00000099956
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6598> .
+
+ensembl:ENSG00000132781
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4595> .
+
+ensembl:ENSG00000066468
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2263> .
+
+ensembl:ENSG00000141646
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4089> .
+
+ensembl:ENSG00000075624
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/60> .
+
+ensembl:ENSG00000196352
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1604> .
+
+ensembl:ENSG00000057294
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5318> .
+
+ensembl:ENSG00000111732
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57379> .
+
+ensembl:ENSG00000243646
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3588> .
+
+ensembl:ENSG00000196218
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6261> .
+
+ensembl:ENSG00000167286
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/915> .
+
+ensembl:ENSG00000135446
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1019> .
+
+ensembl:ENSG00000120729
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9499> .
+
+ensembl:ENSG00000185339
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6948> .
+
+ensembl:ENSG00000143627
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5313> .
+
+ensembl:ENSG00000109103
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9094> .
+
+ensembl:ENSG00000167941
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/50964> .
+
+ensembl:ENSG00000078114
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10529> .
+
+ensembl:ENSG00000162676
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2672> .
+
+ensembl:ENSG00000118046
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6794> .
+
+ensembl:ENSG00000095970
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54209> .
+
+ensembl:ENSG00000110651
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/975> .
+
+ensembl:ENSG00000142168
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6647> .
+
+ensembl:ENSG00000119684
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/27030> .
+
+ensembl:ENSG00000106128
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2692> .
+
+ensembl:ENSG00000245848
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1050> .
+
+ensembl:ENSG00000196586
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4646> .
+
+ensembl:ENSG00000197561
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1991> .
+
+ensembl:ENSG00000167323
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6786> .
+
+ensembl:ENSG00000049768
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/50943> .
+
+ensembl:ENSG00000115085
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7535> .
+
+ensembl:ENSG00000137869
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1588> .
+
+ensembl:ENSG00000185920
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5727> .
+
+ensembl:ENSG00000158887
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4359> .
+
+ensembl:ENSG00000175084
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1674> .
+
+ensembl:ENSG00000116701
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4688> .
+
+ensembl:ENSG00000005471
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5244> .
+
+ensembl:ENSG00000167986
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1642> .
+
+ensembl:ENSG00000165102
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/138050> .
+
+ensembl:ENSG00000160801
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5745> .
+
+ensembl:ENSG00000147257
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2719> .
+
+ensembl:ENSG00000128973
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/54982> .
+
+ensembl:ENSG00000197616
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4624> .
+
+ensembl:ENSG00000187790
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/57697> .
+
+ensembl:ENSG00000123191
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/540> .
+
+ensembl:ENSG00000173757
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6777> , <http://identifiers.org/wikigenes/102723386> .
+
+ensembl:ENSG00000102879
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11151> .
+
+ensembl:ENSG00000081277
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5317> .
+
+ensembl:ENSG00000164362
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7015> .
+
+ensembl:ENSG00000159023
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2035> .
+
+ensembl:ENSG00000163600
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/29851> .
+
+ensembl:ENSG00000168685
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3575> .
+
+ensembl:ENSG00000106211
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3315> .
+
+ensembl:ENSG00000102174
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5251> .
+
+ensembl:ENSG00000009830
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/29954> .
+
+ensembl:ENSG00000135100
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6927> .
+
+ensembl:ENSG00000204217
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/659> .
+
+ensembl:ENSG00000227801
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000131238
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5538> .
+
+ensembl:ENSG00000145912
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55651> .
+
+ensembl:ENSG00000175595
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102725420> , <http://identifiers.org/wikigenes/2072> .
+
+ensembl:ENSG00000107779
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/657> .
+
+ensembl:ENSG00000150753
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/22948> .
+
+ensembl:ENSG00000110719
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10312> .
+
+ensembl:ENSG00000175097
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5897> .
+
+ensembl:ENSG00000101577
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/9663> .
+
+ensembl:ENSG00000169249
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8233> .
+
+ensembl:ENSG00000048392
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/50484> .
+
+ensembl:ENSG00000105369
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/973> .
+
+ensembl:ENSG00000142748
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8547> .
+
+ensembl:ENSG00000172399
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/51778> .
+
+ensembl:ENSG00000185379
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5892> .
+
+ensembl:ENSG00000156970
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/701> .
+
+ensembl:ENSG00000154767
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7508> .
+
+ensembl:ENSG00000186575
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4771> .
+
+ensembl:ENSG00000064490
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8625> .
+
+ensembl:ENSG00000076242
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4292> .
+
+ensembl:ENSG00000121933
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/140> .
+
+ensembl:ENSG00000010404
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3423> .
+
+ensembl:ENSG00000182253
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23336> .
+
+ensembl:ENSG00000134240
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3158> .
+
+ensembl:ENSG00000011600
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7305> .
+
+ensembl:ENSG00000175198
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5095> .
+
+ensembl:ENSG00000206290
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1302> .
+
+ensembl:ENSG00000178726
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7056> .
+
+ensembl:ENSG00000163161
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2071> .
+
+ensembl:ENSG00000010671
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/695> .
+
+ensembl:ENSG00000108823
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6442> .
+
+ensembl:ENSG00000151552
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5860> .
+
+ensembl:ENSG00000144554
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2177> .
+
+ensembl:ENSG00000035403
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7414> .
+
+ensembl:ENSG00000182197
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2131> .
+
+ensembl:ENSG00000140905
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2653> , <http://identifiers.org/wikigenes/101060817> .
+
+ensembl:ENSG00000228267
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/721> , <http://identifiers.org/wikigenes/100293534> .
+
+ensembl:ENSG00000204290
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000021826
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102723962> , <http://identifiers.org/wikigenes/1373> .
+
+ensembl:ENSG00000046604
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1829> .
+
+ensembl:ENSG00000143252
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6391> .
+
+ensembl:ENSG00000111199
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/59341> .
+
+ensembl:ENSG00000114054
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5096> .
+
+ensembl:ENSG00000107290
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23064> .
+
+ensembl:ENSG00000139330
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11081> .
+
+ensembl:ENSG00000068438
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/24140> .
+
+ensembl:ENSG00000072840
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2121> .
+
+ensembl:ENSG00000117305
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3155> .
+
+ensembl:ENSG00000023839
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1244> .
+
+ensembl:ENSG00000150337
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2209> .
+
+ensembl:ENSG00000108384
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5889> .
+
+ensembl:ENSG00000151067
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/775> .
+
+ensembl:ENSG00000160255
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3689> .
+
+ensembl:ENSG00000122367
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/11155> .
+
+ensembl:ENSG00000144535
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/129563> .
+
+ensembl:ENSG00000110395
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/867> .
+
+ensembl:ENSG00000102104
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6247> .
+
+ensembl:ENSG00000184058
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6899> .
+
+ensembl:ENSG00000137992
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1629> .
+
+ensembl:ENSG00000141837
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/100507353> , <http://identifiers.org/wikigenes/773> .
+
+ensembl:ENSG00000180398
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/90411> .
+
+ensembl:ENSG00000106804
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/727> .
+
+ensembl:ENSG00000136487
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2689> .
+
+ensembl:ENSG00000141385
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10939> .
+
+ensembl:ENSG00000067182
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7132> .
+
+ensembl:ENSG00000160808
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4634> .
+
+ensembl:ENSG00000204414
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1444> .
+
+ensembl:ENSG00000075142
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6717> .
+
+ensembl:ENSG00000136280
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/83605> .
+
+ensembl:ENSG00000164692
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1278> .
+
+ensembl:ENSG00000180509
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/102723475> , <http://identifiers.org/wikigenes/3753> .
+
+ensembl:ENSG00000163930
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8314> .
+
+ensembl:ENSG00000206561
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8292> .
+
+ensembl:ENSG00000188021
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/29978> .
+
+ensembl:ENSG00000152642
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/23171> .
+
+ensembl:ENSG00000126759
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5199> .
+
+ensembl:ENSG00000141510
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7157> .
+
+ensembl:ENSG00000270141
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7012> .
+
+ensembl:ENSG00000114270
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1294> .
+
+ensembl:ENSG00000091138
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1811> .
+
+ensembl:ENSG00000105976
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4233> .
+
+ensembl:ENSG00000104320
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4683> .
+
+ensembl:ENSG00000162614
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/91624> .
+
+ensembl:ENSG00000113263
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3702> .
+
+ensembl:ENSG00000171557
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2266> .
+
+ensembl:ENSG00000188827
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/84464> .
+
+ensembl:ENSG00000103313
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4210> .
+
+ensembl:ENSG00000085998
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55624> .
+
+ensembl:ENSG00000213614
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3073> .
+
+ensembl:ENSG00000131504
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1729> .
+
+ensembl:ENSG00000162337
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4041> .
+
+ensembl:ENSG00000078747
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/83737> .
+
+ensembl:ENSG00000170122
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2298> .
+
+ensembl:ENSG00000119401
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/22954> .
+
+ensembl:ENSG00000174886
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/126328> .
+
+ensembl:ENSG00000225412
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/56244> .
+
+ensembl:ENSG00000168610
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6774> .
+
+ensembl:ENSG00000144285
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/6323> .
+
+ensembl:ENSG00000175538
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/10008> .
+
+ensembl:ENSG00000116062
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2956> .
+
+ensembl:ENSG00000165168
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1536> .
+
+ensembl:ENSG00000124275
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4552> .
+
+ensembl:ENSG00000067836
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/79641> .
+
+ensembl:ENSG00000076351
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/113235> .
+
+ensembl:ENSG00000136689
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3557> .
+
+ensembl:ENSG00000107736
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/100653137> , <http://identifiers.org/wikigenes/64072> .
+
+ensembl:ENSG00000175054
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/545> .
+
+ensembl:ENSG00000140650
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5373> , <http://identifiers.org/wikigenes/102725528> .
+
+ensembl:ENSG00000169031
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1285> .
+
+ensembl:ENSG00000026103
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/355> .
+
+ensembl:ENSG00000068976
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5837> , <http://identifiers.org/wikigenes/102725405> , <http://identifiers.org/wikigenes/102725475> .
+
+ensembl:ENSG00000114062
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7337> .
+
+ensembl:ENSG00000181544
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2187> .
+
+ensembl:ENSG00000087053
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8898> .
+
+ensembl:ENSG00000109132
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8929> .
+
+ensembl:ENSG00000141499
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55135> .
+
+ensembl:ENSG00000161270
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4868> .
+
+ensembl:ENSG00000166710
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/567> .
+
+ensembl:ENSG00000196878
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3914> .
+
+ensembl:ENSG00000119699
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7043> .
+
+ensembl:ENSG00000118762
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5311> .
+
+ensembl:ENSG00000110680
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/796> .
+
+ensembl:ENSG00000138449
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/30061> .
+
+ensembl:ENSG00000102144
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5230> .
+
+ensembl:ENSG00000053918
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3784> .
+
+ensembl:ENSG00000119888
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4072> .
+
+ensembl:ENSG00000183161
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2188> .
+
+ensembl:ENSG00000145020
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/275> .
+
+ensembl:ENSG00000196569
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3908> .
+
+ensembl:ENSG00000198947
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1756> .
+
+ensembl:ENSG00000197299
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/641> .
+
+ensembl:ENSG00000224639
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/721> , <http://identifiers.org/wikigenes/100293534> .
+
+ensembl:ENSG00000184500
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5627> .
+
+ensembl:ENSG00000165195
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5277> .
+
+ensembl:ENSG00000169297
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/190> .
+
+ensembl:ENSG00000275300
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/64087> .
+
+ensembl:ENSG00000144455
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/285362> .
+
+ensembl:ENSG00000138375
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/101927137> , <http://identifiers.org/wikigenes/50485> .
+
+ensembl:ENSG00000170734
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/5429> .
+
+ensembl:ENSG00000100365
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4689> .
+
+ensembl:ENSG00000102245
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/959> .
+
+ensembl:ENSG00000101017
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/958> .
+
+ensembl:ENSG00000272047
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/404672> .
+
+ensembl:ENSG00000166257
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/55800> .
+
+ensembl:ENSG00000175445
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/4023> .
+
+ensembl:ENSG00000118729
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/845> .
+
+ensembl:ENSG00000096696
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/1832> .
+
+ensembl:ENSG00000187741
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2175> .
+
+ensembl:ENSG00000106991
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/2022> .
+
+ensembl:ENSG00000072506
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/3028> .
+
+ensembl:ENSG00000131323
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/7187> .
+
+ensembl:ENSG00000129170
+        ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8048> .

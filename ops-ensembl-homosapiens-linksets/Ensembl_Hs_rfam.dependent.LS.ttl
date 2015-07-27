@@ -1,0 +1,1665 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSG00000265388
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000206834
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00408> .
+
+ensembl:ENSG00000200612
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000202142
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207093
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000201263
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000212283
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00578> .
+
+ensembl:ENSG00000199337
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000212464
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00586> .
+
+ensembl:ENSG00000207063
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000226572
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00274> .
+
+ensembl:ENSG00000200624
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000277108
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00277> .
+
+ensembl:ENSG00000200413
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000221241
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00604> .
+
+ensembl:ENSG00000251896
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000266300
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00276> .
+
+ensembl:ENSG00000278055
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF02149> .
+
+ensembl:ENSG00000252952
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206888
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000212380
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000222791
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000201330
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000239112
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01156> .
+
+ensembl:ENSG00000200636
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000274088
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01848> .
+
+ensembl:ENSG00000201300
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000272533
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00400> .
+
+ensembl:ENSG00000202293
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000201679
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207298
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000199712
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000275215
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000252542
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00049> .
+
+ensembl:ENSG00000274582
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00544> .
+
+ensembl:ENSG00000239039
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01210> .
+
+ensembl:ENSG00000207268
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000264086
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00282> .
+
+ensembl:ENSG00000264352
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000207449
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000265926
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000196274
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000207112
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00402> .
+
+ensembl:ENSG00000277947
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01848> .
+
+ensembl:ENSG00000252795
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000277610
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000209482
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00593> .
+
+ensembl:ENSG00000252499
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000200564
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000200087
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00045> .
+
+ensembl:ENSG00000201831
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206630
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00271> .
+
+ensembl:ENSG00000200534
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00438> .
+
+ensembl:ENSG00000201143
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000276596
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000271852
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01192> .
+
+ensembl:ENSG00000206937
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000206811
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00264> .
+
+ensembl:ENSG00000264153
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00428> .
+
+ensembl:ENSG00000278261
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00213> .
+
+ensembl:ENSG00000200480
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000221066
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00611> .
+
+ensembl:ENSG00000200661
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000275143
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00424> .
+
+ensembl:ENSG00000202191
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000238835
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01233> .
+
+ensembl:ENSG00000252385
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000201969
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206587
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206979
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00270> .
+
+ensembl:ENSG00000273709
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000200757
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000201240
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000209645
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00584> .
+
+ensembl:ENSG00000223280
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000274998
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00416> .
+
+ensembl:ENSG00000200812
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207166
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00263> .
+
+ensembl:ENSG00000275662
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01169> .
+
+ensembl:ENSG00000202257
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000209042
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00581> .
+
+ensembl:ENSG00000252928
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000276271
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01848> .
+
+ensembl:ENSG00000206612
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00410> .
+
+ensembl:ENSG00000207221
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000276844
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000199833
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207389
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000207263
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000199990
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00006> .
+
+ensembl:ENSG00000263864
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00282> .
+
+ensembl:ENSG00000238793
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01211> .
+
+ensembl:ENSG00000202354
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000277887
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00598> .
+
+ensembl:ENSG00000201348
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00045> .
+
+ensembl:ENSG00000207444
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00275> .
+
+ensembl:ENSG00000263442
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000199960
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207233
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00415> .
+
+ensembl:ENSG00000201318
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207203
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000276168
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000199453
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207118
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00016> .
+
+ensembl:ENSG00000221803
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00603> .
+
+ensembl:ENSG00000264202
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00282> .
+
+ensembl:ENSG00000276700
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000202270
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207360
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000275529
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000252379
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206932
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000199212
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00045> .
+
+ensembl:ENSG00000264540
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000207245
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000199942
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000242668
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000200486
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207191
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000201487
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00279> .
+
+ensembl:ENSG00000265607
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000206763
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000212296
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00577> .
+
+ensembl:ENSG00000275994
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00399> .
+
+ensembl:ENSG00000201457
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00431> .
+
+ensembl:ENSG00000201331
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000202252
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00016> .
+
+ensembl:ENSG00000207468
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00413> .
+
+ensembl:ENSG00000277785
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000222370
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00340> .
+
+ensembl:ENSG00000221676
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00619> .
+
+ensembl:ENSG00000201512
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00056> .
+
+ensembl:ENSG00000252712
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00582> .
+
+ensembl:ENSG00000207523
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00155> .
+
+ensembl:ENSG00000199381
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000212447
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00579> .
+
+ensembl:ENSG00000200215
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000208892
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00562> .
+
+ensembl:ENSG00000266132
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000202529
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00093> .
+
+ensembl:ENSG00000252808
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00423> .
+
+ensembl:ENSG00000199477
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00322> .
+
+ensembl:ENSG00000207016
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00340> .
+
+ensembl:ENSG00000199266
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00056> .
+
+ensembl:ENSG00000206775
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00440> .
+
+ensembl:ENSG00000278249
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01268> .
+
+ensembl:ENSG00000278123
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000251753
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000252277
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000207088
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00409> .
+
+ensembl:ENSG00000221381
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00604> .
+
+ensembl:ENSG00000223298
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000277194
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00099> .
+
+ensembl:ENSG00000199785
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00419> .
+
+ensembl:ENSG00000278853
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000199574
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00093> .
+
+ensembl:ENSG00000200680
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000199489
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207113
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000200987
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000276610
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00570> .
+
+ensembl:ENSG00000206787
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000275524
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000271798
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00432> .
+
+ensembl:ENSG00000199248
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000276314
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01164> .
+
+ensembl:ENSG00000200354
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00056> .
+
+ensembl:ENSG00000201355
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000252947
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00553> .
+
+ensembl:ENSG00000253079
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00636> .
+
+ensembl:ENSG00000238317
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01182> .
+
+ensembl:ENSG00000221182
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00607> .
+
+ensembl:ENSG00000200801
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000277864
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00426> .
+
+ensembl:ENSG00000206727
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000221459
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00614> .
+
+ensembl:ENSG00000201482
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000199767
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000207493
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00404> .
+
+ensembl:ENSG00000206799
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00421> .
+
+ensembl:ENSG00000207197
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000221514
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00611> .
+
+ensembl:ENSG00000274012
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000202499
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206588
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000202373
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000221303
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00600> .
+
+ensembl:ENSG00000239149
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01293> .
+
+ensembl:ENSG00000200632
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000272474
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207041
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000278274
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00420> .
+
+ensembl:ENSG00000252326
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000207137
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000278189
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000277846
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00088> .
+
+ensembl:ENSG00000199568
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00020> .
+
+ensembl:ENSG00000201675
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000208772
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00613> .
+
+ensembl:ENSG00000200463
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00096> .
+
+ensembl:ENSG00000207475
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00406> .
+
+ensembl:ENSG00000266295
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000207264
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000238300
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01191> .
+
+ensembl:ENSG00000201700
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207445
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00067> .
+
+ensembl:ENSG00000277370
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00277> .
+
+ensembl:ENSG00000263358
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000231587
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00153> .
+
+ensembl:ENSG00000199961
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00213> .
+
+ensembl:ENSG00000206625
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000275072
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00278> .
+
+ensembl:ENSG00000212158
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00572> .
+
+ensembl:ENSG00000207500
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00187> .
+
+ensembl:ENSG00000235284
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00153> .
+
+ensembl:ENSG00000249784
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00427> .
+
+ensembl:ENSG00000201772
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00392> .
+
+ensembl:ENSG00000272034
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00016> .
+
+ensembl:ENSG00000238649
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00150> .
+
+ensembl:ENSG00000222328
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000200656
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00392> .
+
+ensembl:ENSG00000221116
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00610> .
+
+ensembl:ENSG00000254341
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00439> .
+
+ensembl:ENSG00000277985
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00272> .
+
+ensembl:ENSG00000263666
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000265849
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000202337
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000238650
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01277> .
+
+ensembl:ENSG00000251898
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00564> .
+
+ensembl:ENSG00000201096
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000207005
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000200879
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00016> .
+
+ensembl:ENSG00000278715
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000201754
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00276> .
+
+ensembl:ENSG00000202198
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00100> .
+
+ensembl:ENSG00000199436
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00377> .
+
+ensembl:ENSG00000200638
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000201247
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000199593
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207524
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000201302
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00302> .
+
+ensembl:ENSG00000207047
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00280> .
+
+ensembl:ENSG00000200795
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00015> .
+
+ensembl:ENSG00000200608
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207313
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00410> .
+
+ensembl:ENSG00000206680
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00068> .
+
+ensembl:ENSG00000265439
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000199352
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000199744
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00049> .
+
+ensembl:ENSG00000206650
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000207174
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000274091
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00213> .
+
+ensembl:ENSG00000200343
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000229686
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00275> .
+
+ensembl:ENSG00000206620
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00279> .
+
+ensembl:ENSG00000252906
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00565> .
+
+ensembl:ENSG00000199575
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000265325
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000212304
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00581> .
+
+ensembl:ENSG00000264113
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000238825
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000200089
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000199334
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000200832
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000225091
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00056> .
+
+ensembl:ENSG00000265663
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000207241
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00279> .
+
+ensembl:ENSG00000274862
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000199798
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000201326
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000273730
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000222365
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00581> .
+
+ensembl:ENSG00000265156
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00276> .
+
+ensembl:ENSG00000206602
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00151> .
+
+ensembl:ENSG00000212135
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00573> .
+
+ensembl:ENSG00000207518
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000238741
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01295> .
+
+ensembl:ENSG00000206885
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00072> .
+
+ensembl:ENSG00000278233
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000274802
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00580> .
+
+ensembl:ENSG00000207072
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000200367
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000221491
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00410> .
+
+ensembl:ENSG00000201634
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000200156
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00020> .
+
+ensembl:ENSG00000207168
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00398> .
+
+ensembl:ENSG00000206910
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00429> .
+
+ensembl:ENSG00000209702
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00588> .
+
+ensembl:ENSG00000212443
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00563> .
+
+ensembl:ENSG00000264910
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000266646
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000274266
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00045> .
+
+ensembl:ENSG00000207349
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000212232
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00567> .
+
+ensembl:ENSG00000264041
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000202048
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000202314
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00342> .
+
+ensembl:ENSG00000207012
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206952
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00598> .
+
+ensembl:ENSG00000264294
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00157> .
+
+ensembl:ENSG00000275127
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000238795
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01294> .
+
+ensembl:ENSG00000208839
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00566> .
+
+ensembl:ENSG00000251815
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000263359
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000207501
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000200983
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00334> .
+
+ensembl:ENSG00000251791
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00478> .
+
+ensembl:ENSG00000263625
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000201899
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207205
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000207392
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00401> .
+
+ensembl:ENSG00000275043
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00054> .
+
+ensembl:ENSG00000264994
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00325> .
+
+ensembl:ENSG00000221539
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00608> .
+
+ensembl:ENSG00000207181
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00397> .
+
+ensembl:ENSG00000275616
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000275405
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000212552
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00580> .
+
+ensembl:ENSG00000201839
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000201321
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000266755
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000202031
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00212> .
+
+ensembl:ENSG00000207513
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000274079
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000201785
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000273525
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00430> .
+
+ensembl:ENSG00000208797
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00071> .
+
+ensembl:ENSG00000199914
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000251869
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00422> .
+
+ensembl:ENSG00000275996
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00086> .
+
+ensembl:ENSG00000201544
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00190> .
+
+ensembl:ENSG00000199311
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000263764
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00221> .
+
+ensembl:ENSG00000276660
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01293> .
+
+ensembl:ENSG00000207133
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000277184
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00411> .
+
+ensembl:ENSG00000212534
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00575> .
+
+ensembl:ENSG00000206892
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000238578
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00266> .
+
+ensembl:ENSG00000206596
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000242430
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000200163
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207260
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000275303
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01848> .
+
+ensembl:ENSG00000263776
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00394> .
+
+ensembl:ENSG00000276304
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01873> .
+
+ensembl:ENSG00000207441
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000200259
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00211> .
+
+ensembl:ENSG00000239127
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01200> .
+
+ensembl:ENSG00000206621
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000249020
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00418> .
+
+ensembl:ENSG00000274585
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000238886
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01191> .
+
+ensembl:ENSG00000207145
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00425> .
+
+ensembl:ENSG00000274062
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000274640
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01278> .
+
+ensembl:ENSG00000265145
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00325> .
+
+ensembl:ENSG00000207200
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000199968
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206693
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00417> .
+
+ensembl:ENSG00000207507
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000199631
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000277739
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000239169
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01278> .
+
+ensembl:ENSG00000274917
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000239043
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01186> .
+
+ensembl:ENSG00000200959
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00090> .
+
+ensembl:ENSG00000212588
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00568> .
+
+ensembl:ENSG00000274309
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00056> .
+
+ensembl:ENSG00000206633
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00406> .
+
+ensembl:ENSG00000207031
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00273> .
+
+ensembl:ENSG00000265634
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000221420
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01241> .
+
+ensembl:ENSG00000252316
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000199377
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00020> .
+
+ensembl:ENSG00000212528
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000207001
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000212402
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00090> .
+
+ensembl:ENSG00000200398
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000209582
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00554> .
+
+ensembl:ENSG00000206760
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00091> .
+
+ensembl:ENSG00000238531
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01173> .
+
+ensembl:ENSG00000238923
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00066> .
+
+ensembl:ENSG00000275538
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000271982
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00151> .
+
+ensembl:ENSG00000199347
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00020> .
+
+ensembl:ENSG00000206941
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00067> .
+
+ensembl:ENSG00000252835
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00602> .
+
+ensembl:ENSG00000273658
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF02271> .
+
+ensembl:ENSG00000202526
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000221643
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00599> .
+
+ensembl:ENSG00000202400
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00158> .
+
+ensembl:ENSG00000207405
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00264> .
+
+ensembl:ENSG00000264591
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000265013
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000277903
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000201943
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000202261
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000200169
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00020> .
+
+ensembl:ENSG00000199390
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000199782
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206838
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00392> .
+
+ensembl:ENSG00000206712
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000221740
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00606> .
+
+ensembl:ENSG00000202538
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00015> .
+
+ensembl:ENSG00000273544
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00405> .
+
+ensembl:ENSG00000200381
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000278469
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000265236
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000209480
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00593> .
+
+ensembl:ENSG00000263994
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00428> .
+
+ensembl:ENSG00000212607
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00334> .
+
+ensembl:ENSG00000201689
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000238344
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01168> .
+
+ensembl:ENSG00000223024
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206965
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000212498
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00594> .
+
+ensembl:ENSG00000201744
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206754
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00186> .
+
+ensembl:ENSG00000202188
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000274008
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000201925
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000263879
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00428> .
+
+ensembl:ENSG00000207067
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00139> .
+
+ensembl:ENSG00000238597
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00266> .
+
+ensembl:ENSG00000278089
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000272344
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000200785
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00377> .
+
+ensembl:ENSG00000208883
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00055> .
+
+ensembl:ENSG00000206609
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000201183
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000200840
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000206585
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000201098
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000238622
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01291> .
+
+ensembl:ENSG00000212384
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207375
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000266672
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00133> .
+
+ensembl:ENSG00000276027
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00007> .
+
+ensembl:ENSG00000199704
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000202521
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000201907
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000274544
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00085> .
+
+ensembl:ENSG00000201672
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000206597
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00191> .
+
+ensembl:ENSG00000207291
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000264229
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00618> .
+
+ensembl:ENSG00000265707
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00276> .
+
+ensembl:ENSG00000277813
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01848> .
+
+ensembl:ENSG00000206989
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00154> .
+
+ensembl:ENSG00000238423
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00150> .
+
+ensembl:ENSG00000206652
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000201557
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000202478
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000207442
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000275219
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000207357
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000239002
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01296> .
+
+ensembl:ENSG00000206622
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00265> .
+
+ensembl:ENSG00000274978
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00548> .
+
+ensembl:ENSG00000199396
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000202237
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000199270
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000202111
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00006> .
+
+ensembl:ENSG00000202503
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00147> .
+
+ensembl:ENSG00000207116
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000201950
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000212493
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00569> .
+
+ensembl:ENSG00000221716
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00614> .
+
+ensembl:ENSG00000265116
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000201654
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000201569
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000278591
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000200623
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00093> .
+
+ensembl:ENSG00000206634
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00414> .
+
+ensembl:ENSG00000239014
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01158> .
+
+ensembl:ENSG00000199970
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000266847
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00428> .
+
+ensembl:ENSG00000201992
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000252010
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00478> .
+
+ensembl:ENSG00000202515
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00006> .
+
+ensembl:ENSG00000264549
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00189> .
+
+ensembl:ENSG00000207496
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00409> .
+
+ensembl:ENSG00000199910
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000207340
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000272296
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00055> .
+
+ensembl:ENSG00000200816
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00428> .
+
+ensembl:ENSG00000265732
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00282> .
+
+ensembl:ENSG00000200792
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00406> .
+
+ensembl:ENSG00000239183
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01229> .
+
+ensembl:ENSG00000272055
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000238363
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00396> .
+
+ensembl:ENSG00000207014
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000207406
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00403> .
+
+ensembl:ENSG00000200370
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000206899
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000207297
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00288> .
+
+ensembl:ENSG00000223224
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00576> .
+
+ensembl:ENSG00000277512
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00571> .
+
+ensembl:ENSG00000206688
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000206869
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000200913
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00218> .
+
+ensembl:ENSG00000221475
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00614> .
+
+ensembl:ENSG00000239195
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01161> .
+
+ensembl:ENSG00000276161
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00560> .
+
+ensembl:ENSG00000200593
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000200406
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000199753
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00289> .
+
+ensembl:ENSG00000221500
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00609> .
+
+ensembl:ENSG00000266419
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00137> .
+
+ensembl:ENSG00000278048
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000200478
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206755
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00415> .
+
+ensembl:ENSG00000200267
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000263362
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00276> .
+
+ensembl:ENSG00000276680
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF02143> .
+
+ensembl:ENSG00000210678
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00619> .
+
+ensembl:ENSG00000207279
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00108> .
+
+ensembl:ENSG00000251733
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00286> .
+
+ensembl:ENSG00000273587
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01225> .
+
+ensembl:ENSG00000272460
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000273768
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000200503
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000201998
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00319> .
+
+ensembl:ENSG00000274432
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000200394
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00428> .
+
+ensembl:ENSG00000207304
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00393> .
+
+ensembl:ENSG00000207280
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00217> .
+
+ensembl:ENSG00000207008
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00430> .
+
+ensembl:ENSG00000200279
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000200153
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00026> .
+
+ensembl:ENSG00000207165
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00156> .
+
+ensembl:ENSG00000206948
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00340> .
+
+ensembl:ENSG00000200726
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000206611
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00069> .
+
+ensembl:ENSG00000276788
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00087> .
+
+ensembl:ENSG00000206737
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000263947
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000238961
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF01234> .
+
+ensembl:ENSG00000273835
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000275757
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00002> .
+
+ensembl:ENSG00000252481
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00231> .
+
+ensembl:ENSG00000201588
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00001> .
+
+ensembl:ENSG00000278815
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00006> .
+
+ensembl:ENSG00000221705
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00614> .
+
+ensembl:ENSG00000252577
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00601> .
+
+ensembl:ENSG00000201643
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00397> .
+
+ensembl:ENSG00000221102
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00614> .
+
+ensembl:ENSG00000200949
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00105> .
+
+ensembl:ENSG00000201558
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000212452
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00574> .
+
+ensembl:ENSG00000200823
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00181> .
+
+ensembl:ENSG00000207051
+        ensemblterms:DEPENDENT  <http://identifiers.org/rfam/RF00443> .

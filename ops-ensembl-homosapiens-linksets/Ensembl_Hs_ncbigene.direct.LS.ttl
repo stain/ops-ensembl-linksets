@@ -1,0 +1,2103 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSG00000121879
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5290> .
+
+ensembl:ENSG00000134684
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8565> .
+
+ensembl:ENSG00000102125
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6901> .
+
+ensembl:ENSG00000025708
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1890> .
+
+ensembl:ENSG00000167895
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/147138> .
+
+ensembl:ENSG00000116586
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/28956> .
+
+ensembl:ENSG00000105486
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3978> .
+
+ensembl:ENSG00000198707
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/80184> .
+
+ensembl:ENSG00000107611
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8029> .
+
+ensembl:ENSG00000132740
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3508> .
+
+ensembl:ENSG00000151498
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/27034> .
+
+ensembl:ENSG00000172936
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4615> .
+
+ensembl:ENSG00000157978
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/26119> .
+
+ensembl:ENSG00000189067
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9516> .
+
+ensembl:ENSG00000084073
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10269> .
+
+ensembl:ENSG00000122591
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/84668> .
+
+ensembl:ENSG00000206172
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3039> , <http://identifiers.org/ncbigene/3040> .
+
+ensembl:ENSG00000169057
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4204> .
+
+ensembl:ENSG00000160654
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/917> .
+
+ensembl:ENSG00000198223
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102725415> , <http://identifiers.org/ncbigene/1438> .
+
+ensembl:ENSG00000198910
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3897> .
+
+ensembl:ENSG00000104889
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10535> .
+
+ensembl:ENSG00000164414
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10559> .
+
+ensembl:ENSG00000169919
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2990> .
+
+ensembl:ENSG00000224389
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100293534> , <http://identifiers.org/ncbigene/721> .
+
+ensembl:ENSG00000077264
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5063> .
+
+ensembl:ENSG00000225830
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2074> .
+
+ensembl:ENSG00000101076
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3172> .
+
+ensembl:ENSG00000117118
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6390> .
+
+ensembl:ENSG00000151623
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4306> .
+
+ensembl:ENSG00000129667
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79651> .
+
+ensembl:ENSG00000054523
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23095> .
+
+ensembl:ENSG00000167711
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5345> .
+
+ensembl:ENSG00000146085
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4594> .
+
+ensembl:ENSG00000112365
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9841> .
+
+ensembl:ENSG00000117385
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102723473> , <http://identifiers.org/ncbigene/64175> .
+
+ensembl:ENSG00000076944
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6813> .
+
+ensembl:ENSG00000115648
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79083> .
+
+ensembl:ENSG00000171680
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57449> .
+
+ensembl:ENSG00000120457
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3762> .
+
+ensembl:ENSG00000188641
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1806> .
+
+ensembl:ENSG00000000971
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3075> .
+
+ensembl:ENSG00000142173
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1292> .
+
+ensembl:ENSG00000198734
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2153> .
+
+ensembl:ENSG00000163554
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6708> .
+
+ensembl:ENSG00000112964
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2690> .
+
+ensembl:ENSG00000171094
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/238> .
+
+ensembl:ENSG00000171560
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2243> .
+
+ensembl:ENSG00000083093
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79728> .
+
+ensembl:ENSG00000177628
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2629> .
+
+ensembl:ENSG00000064012
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/841> .
+
+ensembl:ENSG00000004455
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/204> .
+
+ensembl:ENSG00000110711
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9049> .
+
+ensembl:ENSG00000099822
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/610> .
+
+ensembl:ENSG00000104884
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2068> .
+
+ensembl:ENSG00000165392
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7486> .
+
+ensembl:ENSG00000080815
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5663> .
+
+ensembl:ENSG00000230930
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000104133
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/80208> .
+
+ensembl:ENSG00000095002
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4436> .
+
+ensembl:ENSG00000153563
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/925> .
+
+ensembl:ENSG00000040531
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1497> .
+
+ensembl:ENSG00000152556
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5213> .
+
+ensembl:ENSG00000134899
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2073> .
+
+ensembl:ENSG00000105227
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57716> .
+
+ensembl:ENSG00000221829
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2189> .
+
+ensembl:ENSG00000148356
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/90678> .
+
+ensembl:ENSG00000198793
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2475> .
+
+ensembl:ENSG00000108556
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1145> .
+
+ensembl:ENSG00000163069
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6443> .
+
+ensembl:ENSG00000123560
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5354> .
+
+ensembl:ENSG00000165240
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/538> .
+
+ensembl:ENSG00000101347
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/25939> .
+
+ensembl:ENSG00000136936
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7507> .
+
+ensembl:ENSG00000223699
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000135929
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1593> .
+
+ensembl:ENSG00000197943
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5336> .
+
+ensembl:ENSG00000057657
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/639> .
+
+ensembl:ENSG00000131187
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2161> .
+
+ensembl:ENSG00000240505
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23495> .
+
+ensembl:ENSG00000064933
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5378> .
+
+ensembl:ENSG00000167207
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64127> .
+
+ensembl:ENSG00000131828
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5160> .
+
+ensembl:ENSG00000166278
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/717> , <http://identifiers.org/ncbigene/101928623> .
+
+ensembl:ENSG00000113302
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3593> .
+
+ensembl:ENSG00000168040
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8772> .
+
+ensembl:ENSG00000134982
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/324> .
+
+ensembl:ENSG00000163359
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102725336> , <http://identifiers.org/ncbigene/102723826> , <http://identifiers.org/ncbigene/1293> .
+
+ensembl:ENSG00000141469
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6563> .
+
+ensembl:ENSG00000112769
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3910> .
+
+ensembl:ENSG00000159216
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/861> , <http://identifiers.org/ncbigene/101928269> , <http://identifiers.org/ncbigene/100506403> .
+
+ensembl:ENSG00000128604
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3663> .
+
+ensembl:ENSG00000167165
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54578> .
+
+ensembl:ENSG00000188603
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1201> .
+
+ensembl:ENSG00000101605
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8736> .
+
+ensembl:ENSG00000160201
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102724594> , <http://identifiers.org/ncbigene/7307> , <http://identifiers.org/ncbigene/102724583> .
+
+ensembl:ENSG00000105618
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/26121> .
+
+ensembl:ENSG00000092054
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4625> .
+
+ensembl:ENSG00000166126
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/81693> .
+
+ensembl:ENSG00000140199
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9990> .
+
+ensembl:ENSG00000159128
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3460> .
+
+ensembl:ENSG00000125952
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4149> .
+
+ensembl:ENSG00000141349
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/92579> .
+
+ensembl:ENSG00000090861
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/16> .
+
+ensembl:ENSG00000100146
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6663> .
+
+ensembl:ENSG00000142798
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3339> , <http://identifiers.org/ncbigene/102723830> .
+
+ensembl:ENSG00000165410
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1073> .
+
+ensembl:ENSG00000129965
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/723961> .
+
+ensembl:ENSG00000181163
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4869> .
+
+ensembl:ENSG00000135956
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55654> .
+
+ensembl:ENSG00000015285
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7454> .
+
+ensembl:ENSG00000018625
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/477> .
+
+ensembl:ENSG00000167985
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54949> .
+
+ensembl:ENSG00000090054
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10558> .
+
+ensembl:ENSG00000014919
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1355> .
+
+ensembl:ENSG00000075239
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/38> .
+
+ensembl:ENSG00000147224
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5631> .
+
+ensembl:ENSG00000140545
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102723860> , <http://identifiers.org/ncbigene/4240> , <http://identifiers.org/ncbigene/102724554> .
+
+ensembl:ENSG00000082458
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1741> .
+
+ensembl:ENSG00000139219
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1280> .
+
+ensembl:ENSG00000130816
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1786> .
+
+ensembl:ENSG00000232541
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000135338
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/167691> .
+
+ensembl:ENSG00000147168
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3561> .
+
+ensembl:ENSG00000173991
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8557> .
+
+ensembl:ENSG00000204248
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000224770
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000165409
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7253> .
+
+ensembl:ENSG00000165280
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7415> .
+
+ensembl:ENSG00000092067
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1053> .
+
+ensembl:ENSG00000143390
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5993> .
+
+ensembl:ENSG00000129757
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1028> .
+
+ensembl:ENSG00000170100
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/197320> .
+
+ensembl:ENSG00000177000
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4524> .
+
+ensembl:ENSG00000149781
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/83706> .
+
+ensembl:ENSG00000092929
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/201294> .
+
+ensembl:ENSG00000128322
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3543> .
+
+ensembl:ENSG00000038427
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1462> .
+
+ensembl:ENSG00000182326
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/716> .
+
+ensembl:ENSG00000171051
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2357> .
+
+ensembl:ENSG00000182372
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2055> .
+
+ensembl:ENSG00000095585
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/29760> .
+
+ensembl:ENSG00000115286
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/374291> .
+
+ensembl:ENSG00000136492
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/83990> .
+
+ensembl:ENSG00000183918
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4068> .
+
+ensembl:ENSG00000177663
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23765> .
+
+ensembl:ENSG00000112367
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9896> .
+
+ensembl:ENSG00000160789
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4000> .
+
+ensembl:ENSG00000151348
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2132> .
+
+ensembl:ENSG00000101986
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/215> .
+
+ensembl:ENSG00000084674
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/338> .
+
+ensembl:ENSG00000005893
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3920> .
+
+ensembl:ENSG00000110921
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4598> .
+
+ensembl:ENSG00000106080
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55033> .
+
+ensembl:ENSG00000109861
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1075> .
+
+ensembl:ENSG00000069431
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10060> .
+
+ensembl:ENSG00000074582
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/617> .
+
+ensembl:ENSG00000127914
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10142> .
+
+ensembl:ENSG00000164342
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7098> .
+
+ensembl:ENSG00000149131
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/710> .
+
+ensembl:ENSG00000127241
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102725441> , <http://identifiers.org/ncbigene/5648> .
+
+ensembl:ENSG00000169174
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/255738> .
+
+ensembl:ENSG00000140968
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3394> .
+
+ensembl:ENSG00000134460
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3559> .
+
+ensembl:ENSG00000214160
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10195> .
+
+ensembl:ENSG00000085063
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/966> .
+
+ensembl:ENSG00000134183
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2780> .
+
+ensembl:ENSG00000106633
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2645> .
+
+ensembl:ENSG00000101115
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57167> .
+
+ensembl:ENSG00000133895
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4221> .
+
+ensembl:ENSG00000231925
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6892> .
+
+ensembl:ENSG00000001626
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1080> .
+
+ensembl:ENSG00000152457
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64421> .
+
+ensembl:ENSG00000225845
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000177455
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/930> .
+
+ensembl:ENSG00000165671
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64324> .
+
+ensembl:ENSG00000154803
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/201163> .
+
+ensembl:ENSG00000150281
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1489> .
+
+ensembl:ENSG00000102034
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2000> .
+
+ensembl:ENSG00000113600
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/735> .
+
+ensembl:ENSG00000069974
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5873> .
+
+ensembl:ENSG00000100596
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9517> .
+
+ensembl:ENSG00000007312
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/974> .
+
+ensembl:ENSG00000196459
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6399> .
+
+ensembl:ENSG00000262993
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3881> .
+
+ensembl:ENSG00000198805
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4860> .
+
+ensembl:ENSG00000203867
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/282996> .
+
+ensembl:ENSG00000065154
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4942> .
+
+ensembl:ENSG00000169432
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6335> .
+
+ensembl:ENSG00000126524
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/51119> .
+
+ensembl:ENSG00000130635
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1289> .
+
+ensembl:ENSG00000198851
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/916> .
+
+ensembl:ENSG00000101981
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2158> .
+
+ensembl:ENSG00000109099
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5376> .
+
+ensembl:ENSG00000112039
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2178> .
+
+ensembl:ENSG00000141458
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4864> .
+
+ensembl:ENSG00000170624
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6444> .
+
+ensembl:ENSG00000168646
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8313> .
+
+ensembl:ENSG00000275885
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/26121> .
+
+ensembl:ENSG00000003400
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/843> .
+
+ensembl:ENSG00000159251
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/70> .
+
+ensembl:ENSG00000123096
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8082> .
+
+ensembl:ENSG00000142156
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1291> .
+
+ensembl:ENSG00000100697
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23405> .
+
+ensembl:ENSG00000106692
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2218> .
+
+ensembl:ENSG00000109501
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7466> .
+
+ensembl:ENSG00000197535
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4644> .
+
+ensembl:ENSG00000203747
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2214> .
+
+ensembl:ENSG00000105639
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3718> .
+
+ensembl:ENSG00000166147
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2200> .
+
+ensembl:ENSG00000116785
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10878> .
+
+ensembl:ENSG00000171298
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2548> .
+
+ensembl:ENSG00000158290
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8450> .
+
+ensembl:ENSG00000107099
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/81704> .
+
+ensembl:ENSG00000179348
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2624> .
+
+ensembl:ENSG00000188536
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3039> , <http://identifiers.org/ncbigene/3040> .
+
+ensembl:ENSG00000122025
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2322> .
+
+ensembl:ENSG00000262785
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5313> .
+
+ensembl:ENSG00000134574
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1643> .
+
+ensembl:ENSG00000021852
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/732> .
+
+ensembl:ENSG00000133812
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/81846> .
+
+ensembl:ENSG00000163961
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/165918> .
+
+ensembl:ENSG00000096996
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3594> .
+
+ensembl:ENSG00000111424
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7421> .
+
+ensembl:ENSG00000179583
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4261> .
+
+ensembl:ENSG00000187796
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64170> .
+
+ensembl:ENSG00000115935
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7456> .
+
+ensembl:ENSG00000042781
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7399> .
+
+ensembl:ENSG00000160323
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11093> .
+
+ensembl:ENSG00000126583
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5582> .
+
+ensembl:ENSG00000131844
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64087> .
+
+ensembl:ENSG00000008710
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5310> , <http://identifiers.org/ncbigene/101930075> , <http://identifiers.org/ncbigene/102723646> .
+
+ensembl:ENSG00000213281
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4893> .
+
+ensembl:ENSG00000135636
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8291> .
+
+ensembl:ENSG00000150893
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/341640> .
+
+ensembl:ENSG00000122877
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1959> .
+
+ensembl:ENSG00000157131
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/731> .
+
+ensembl:ENSG00000053747
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3909> .
+
+ensembl:ENSG00000176387
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3291> .
+
+ensembl:ENSG00000130164
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3949> .
+
+ensembl:ENSG00000135604
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8676> .
+
+ensembl:ENSG00000198380
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2673> .
+
+ensembl:ENSG00000196177
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/36> .
+
+ensembl:ENSG00000091137
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5172> .
+
+ensembl:ENSG00000198523
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5350> .
+
+ensembl:ENSG00000153956
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/781> .
+
+ensembl:ENSG00000090674
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57192> .
+
+ensembl:ENSG00000188153
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1287> .
+
+ensembl:ENSG00000101109
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6789> .
+
+ensembl:ENSG00000226127
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000146648
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1956> .
+
+ensembl:ENSG00000101400
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6640> .
+
+ensembl:ENSG00000156313
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6103> .
+
+ensembl:ENSG00000139618
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/675> .
+
+ensembl:ENSG00000114854
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7134> .
+
+ensembl:ENSG00000244414
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3078> .
+
+ensembl:ENSG00000166349
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5896> .
+
+ensembl:ENSG00000155850
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1836> .
+
+ensembl:ENSG00000138379
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2660> .
+
+ensembl:ENSG00000158169
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2176> .
+
+ensembl:ENSG00000123700
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3759> .
+
+ensembl:ENSG00000084207
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2950> .
+
+ensembl:ENSG00000138347
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/84665> .
+
+ensembl:ENSG00000148090
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/549> .
+
+ensembl:ENSG00000183091
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4703> .
+
+ensembl:ENSG00000188706
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/51114> .
+
+ensembl:ENSG00000116678
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3953> .
+
+ensembl:ENSG00000170927
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5314> .
+
+ensembl:ENSG00000117400
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4352> .
+
+ensembl:ENSG00000076248
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7374> .
+
+ensembl:ENSG00000196712
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102725369> , <http://identifiers.org/ncbigene/4763> .
+
+ensembl:ENSG00000198670
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4018> .
+
+ensembl:ENSG00000075785
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7879> .
+
+ensembl:ENSG00000118526
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6943> .
+
+ensembl:ENSG00000120725
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64374> .
+
+ensembl:ENSG00000177098
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6330> .
+
+ensembl:ENSG00000171316
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102724260> , <http://identifiers.org/ncbigene/55636> .
+
+ensembl:ENSG00000147889
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1029> .
+
+ensembl:ENSG00000104728
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9639> .
+
+ensembl:ENSG00000104774
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4125> .
+
+ensembl:ENSG00000107882
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/51684> .
+
+ensembl:ENSG00000141655
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8792> .
+
+ensembl:ENSG00000159189
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/714> .
+
+ensembl:ENSG00000110324
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3587> .
+
+ensembl:ENSG00000224242
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000137700
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2542> .
+
+ensembl:ENSG00000104419
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10397> .
+
+ensembl:ENSG00000156515
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3098> .
+
+ensembl:ENSG00000165471
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4153> .
+
+ensembl:ENSG00000172922
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/84153> .
+
+ensembl:ENSG00000139193
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/939> .
+
+ensembl:ENSG00000030582
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2896> .
+
+ensembl:ENSG00000134259
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4803> .
+
+ensembl:ENSG00000112116
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/112744> .
+
+ensembl:ENSG00000152137
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/26353> .
+
+ensembl:ENSG00000236625
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100293534> , <http://identifiers.org/ncbigene/721> .
+
+ensembl:ENSG00000121966
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7852> .
+
+ensembl:ENSG00000163646
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7401> .
+
+ensembl:ENSG00000039537
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/729> .
+
+ensembl:ENSG00000141756
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/60681> .
+
+ensembl:ENSG00000136872
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/229> .
+
+ensembl:ENSG00000181072
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1129> .
+
+ensembl:ENSG00000213930
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2592> .
+
+ensembl:ENSG00000081052
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1286> .
+
+ensembl:ENSG00000054983
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2581> .
+
+ensembl:ENSG00000027697
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3459> .
+
+ensembl:ENSG00000174405
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3981> .
+
+ensembl:ENSG00000057593
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2155> .
+
+ensembl:ENSG00000244731
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/720> .
+
+ensembl:ENSG00000117560
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/356> .
+
+ensembl:ENSG00000185053
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/137868> .
+
+ensembl:ENSG00000171564
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2244> .
+
+ensembl:ENSG00000112761
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8838> .
+
+ensembl:ENSG00000229741
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000160211
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2539> .
+
+ensembl:ENSG00000112936
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/730> .
+
+ensembl:ENSG00000198001
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/51135> .
+
+ensembl:ENSG00000106105
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2617> .
+
+ensembl:ENSG00000020922
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4361> .
+
+ensembl:ENSG00000159184
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10481> .
+
+ensembl:ENSG00000122512
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5395> .
+
+ensembl:ENSG00000101306
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/85366> .
+
+ensembl:ENSG00000163217
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/27302> .
+
+ensembl:ENSG00000105397
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7297> .
+
+ensembl:ENSG00000187098
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4286> .
+
+ensembl:ENSG00000253729
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5591> .
+
+ensembl:ENSG00000172893
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1717> .
+
+ensembl:ENSG00000070915
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6559> .
+
+ensembl:ENSG00000083720
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5019> .
+
+ensembl:ENSG00000184470
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10587> .
+
+ensembl:ENSG00000063244
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11338> .
+
+ensembl:ENSG00000229597
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000094796
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3881> .
+
+ensembl:ENSG00000179295
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5781> .
+
+ensembl:ENSG00000198821
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/919> .
+
+ensembl:ENSG00000159958
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/115650> .
+
+ensembl:ENSG00000130826
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/677835> , <http://identifiers.org/ncbigene/1736> , <http://identifiers.org/ncbigene/100847052> .
+
+ensembl:ENSG00000242366
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54576> .
+
+ensembl:ENSG00000196839
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100> .
+
+ensembl:ENSG00000118004
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/78989> .
+
+ensembl:ENSG00000101200
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/551> .
+
+ensembl:ENSG00000188672
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6006> .
+
+ensembl:ENSG00000127666
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/148022> .
+
+ensembl:ENSG00000160224
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/326> .
+
+ensembl:ENSG00000183873
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6331> .
+
+ensembl:ENSG00000055118
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3757> .
+
+ensembl:ENSG00000118271
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7276> .
+
+ensembl:ENSG00000143575
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10456> .
+
+ensembl:ENSG00000049860
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3074> .
+
+ensembl:ENSG00000178445
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2731> .
+
+ensembl:ENSG00000134853
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5156> .
+
+ensembl:ENSG00000159197
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9992> .
+
+ensembl:ENSG00000180644
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5551> .
+
+ensembl:ENSG00000172243
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64581> .
+
+ensembl:ENSG00000068831
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10235> .
+
+ensembl:ENSG00000169083
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/367> .
+
+ensembl:ENSG00000243649
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/629> .
+
+ensembl:ENSG00000186847
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3861> .
+
+ensembl:ENSG00000173369
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/713> .
+
+ensembl:ENSG00000198677
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9652> .
+
+ensembl:ENSG00000120802
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7112> .
+
+ensembl:ENSG00000131482
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2538> .
+
+ensembl:ENSG00000167580
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/359> .
+
+ensembl:ENSG00000269900
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6023> .
+
+ensembl:ENSG00000168542
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1281> .
+
+ensembl:ENSG00000170275
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10491> .
+
+ensembl:ENSG00000158813
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1896> .
+
+ensembl:ENSG00000166794
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5479> .
+
+ensembl:ENSG00000128710
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3236> .
+
+ensembl:ENSG00000262446
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2629> .
+
+ensembl:ENSG00000103876
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2184> .
+
+ensembl:ENSG00000011143
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54903> .
+
+ensembl:ENSG00000012048
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/672> .
+
+ensembl:ENSG00000136802
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56262> .
+
+ensembl:ENSG00000102805
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1203> .
+
+ensembl:ENSG00000165699
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7248> .
+
+ensembl:ENSG00000157764
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/673> .
+
+ensembl:ENSG00000248098
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/593> .
+
+ensembl:ENSG00000205403
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3426> .
+
+ensembl:ENSG00000103005
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79650> .
+
+ensembl:ENSG00000169562
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2705> .
+
+ensembl:ENSG00000132470
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3691> .
+
+ensembl:ENSG00000065427
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3735> .
+
+ensembl:ENSG00000119392
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2733> .
+
+ensembl:ENSG00000160882
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1584> .
+
+ensembl:ENSG00000166333
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3611> .
+
+ensembl:ENSG00000134571
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4607> .
+
+ensembl:ENSG00000070061
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8518> .
+
+ensembl:ENSG00000119535
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1441> .
+
+ensembl:ENSG00000141524
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11322> .
+
+ensembl:ENSG00000138759
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/80144> .
+
+ensembl:ENSG00000148677
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/27063> .
+
+ensembl:ENSG00000145362
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/287> .
+
+ensembl:ENSG00000120948
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23435> .
+
+ensembl:ENSG00000109101
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8456> .
+
+ensembl:ENSG00000187010
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6007> , <http://identifiers.org/ncbigene/6006> .
+
+ensembl:ENSG00000171862
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5728> .
+
+ensembl:ENSG00000049167
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1161> .
+
+ensembl:ENSG00000186081
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3852> .
+
+ensembl:ENSG00000149596
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57158> .
+
+ensembl:ENSG00000165704
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3251> .
+
+ensembl:ENSG00000100906
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4792> .
+
+ensembl:ENSG00000261609
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8139> .
+
+ensembl:ENSG00000149311
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/472> .
+
+ensembl:ENSG00000172062
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6606> , <http://identifiers.org/ncbigene/6607> .
+
+ensembl:ENSG00000115392
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55120> .
+
+ensembl:ENSG00000125730
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/718> .
+
+ensembl:ENSG00000197766
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1675> .
+
+ensembl:ENSG00000185010
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2157> .
+
+ensembl:ENSG00000088305
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1789> .
+
+ensembl:ENSG00000051523
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1535> .
+
+ensembl:ENSG00000156738
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/931> .
+
+ensembl:ENSG00000235708
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000128340
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5880> .
+
+ensembl:ENSG00000111245
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4633> .
+
+ensembl:ENSG00000154153
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54463> .
+
+ensembl:ENSG00000108946
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5573> .
+
+ensembl:ENSG00000129245
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9513> .
+
+ensembl:ENSG00000001631
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/889> .
+
+ensembl:ENSG00000134086
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7428> .
+
+ensembl:ENSG00000157404
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3815> .
+
+ensembl:ENSG00000182533
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/859> .
+
+ensembl:ENSG00000198400
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4914> .
+
+ensembl:ENSG00000171608
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5293> .
+
+ensembl:ENSG00000166037
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9702> .
+
+ensembl:ENSG00000162711
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/114548> .
+
+ensembl:ENSG00000103197
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7249> .
+
+ensembl:ENSG00000135899
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3431> .
+
+ensembl:ENSG00000115415
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6772> .
+
+ensembl:ENSG00000102158
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/84061> .
+
+ensembl:ENSG00000005381
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4353> .
+
+ensembl:ENSG00000155657
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7273> .
+
+ensembl:ENSG00000140092
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10516> .
+
+ensembl:ENSG00000060069
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9150> .
+
+ensembl:ENSG00000170836
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8493> .
+
+ensembl:ENSG00000106462
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2146> .
+
+ensembl:ENSG00000165731
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5979> .
+
+ensembl:ENSG00000160213
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1476> .
+
+ensembl:ENSG00000102393
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2717> .
+
+ensembl:ENSG00000138413
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3417> .
+
+ensembl:ENSG00000085224
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/546> .
+
+ensembl:ENSG00000197249
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5265> .
+
+ensembl:ENSG00000225190
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9842> , <http://identifiers.org/ncbigene/102724267> .
+
+ensembl:ENSG00000169247
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79628> .
+
+ensembl:ENSG00000136698
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55997> .
+
+ensembl:ENSG00000129991
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7137> .
+
+ensembl:ENSG00000049540
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2006> .
+
+ensembl:ENSG00000132155
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5894> , <http://identifiers.org/ncbigene/102724915> .
+
+ensembl:ENSG00000140368
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9051> .
+
+ensembl:ENSG00000100393
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2033> .
+
+ensembl:ENSG00000116688
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9927> .
+
+ensembl:ENSG00000181830
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55343> .
+
+ensembl:ENSG00000173372
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/712> .
+
+ensembl:ENSG00000132842
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8546> .
+
+ensembl:ENSG00000091483
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2271> .
+
+ensembl:ENSG00000039068
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/999> .
+
+ensembl:ENSG00000140525
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55215> .
+
+ensembl:ENSG00000136104
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79621> .
+
+ensembl:ENSG00000171105
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3643> .
+
+ensembl:ENSG00000142405
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/91662> .
+
+ensembl:ENSG00000102683
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6445> .
+
+ensembl:ENSG00000117322
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1380> .
+
+ensembl:ENSG00000269058
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/125972> .
+
+ensembl:ENSG00000108821
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1277> .
+
+ensembl:ENSG00000134389
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/81494> .
+
+ensembl:ENSG00000182117
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55505> .
+
+ensembl:ENSG00000139687
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5925> .
+
+ensembl:ENSG00000104973
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/81857> , <http://identifiers.org/ncbigene/102465480> .
+
+ensembl:ENSG00000083799
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1540> , <http://identifiers.org/ncbigene/102724054> .
+
+ensembl:ENSG00000110057
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/81622> .
+
+ensembl:ENSG00000184937
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7490> .
+
+ensembl:ENSG00000134371
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79577> .
+
+ensembl:ENSG00000005961
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3674> .
+
+ensembl:ENSG00000133111
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5994> .
+
+ensembl:ENSG00000096968
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3717> .
+
+ensembl:ENSG00000228454
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100293534> , <http://identifiers.org/ncbigene/721> .
+
+ensembl:ENSG00000100342
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8542> .
+
+ensembl:ENSG00000198836
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4976> .
+
+ensembl:ENSG00000187736
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79840> .
+
+ensembl:ENSG00000196924
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2316> .
+
+ensembl:ENSG00000138029
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3032> .
+
+ensembl:ENSG00000110435
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8050> .
+
+ensembl:ENSG00000101966
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/331> .
+
+ensembl:ENSG00000117335
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4179> .
+
+ensembl:ENSG00000139083
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2120> .
+
+ensembl:ENSG00000171385
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3752> .
+
+ensembl:ENSG00000143369
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1893> .
+
+ensembl:ENSG00000170876
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79188> .
+
+ensembl:ENSG00000133710
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11005> .
+
+ensembl:ENSG00000188157
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/375790> .
+
+ensembl:ENSG00000051180
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5888> .
+
+ensembl:ENSG00000099956
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6598> .
+
+ensembl:ENSG00000132781
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4595> .
+
+ensembl:ENSG00000066468
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2263> .
+
+ensembl:ENSG00000141646
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4089> .
+
+ensembl:ENSG00000075624
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/60> .
+
+ensembl:ENSG00000196352
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1604> .
+
+ensembl:ENSG00000057294
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5318> .
+
+ensembl:ENSG00000111732
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57379> .
+
+ensembl:ENSG00000243646
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3588> .
+
+ensembl:ENSG00000196218
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6261> .
+
+ensembl:ENSG00000167286
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/915> .
+
+ensembl:ENSG00000135446
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1019> .
+
+ensembl:ENSG00000120729
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9499> .
+
+ensembl:ENSG00000185339
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6948> .
+
+ensembl:ENSG00000143627
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5313> .
+
+ensembl:ENSG00000109103
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9094> .
+
+ensembl:ENSG00000167941
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/50964> .
+
+ensembl:ENSG00000078114
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10529> .
+
+ensembl:ENSG00000162676
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2672> .
+
+ensembl:ENSG00000118046
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6794> .
+
+ensembl:ENSG00000095970
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54209> .
+
+ensembl:ENSG00000110651
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/975> .
+
+ensembl:ENSG00000142168
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6647> .
+
+ensembl:ENSG00000119684
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/27030> .
+
+ensembl:ENSG00000106128
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2692> .
+
+ensembl:ENSG00000245848
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1050> .
+
+ensembl:ENSG00000196586
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4646> .
+
+ensembl:ENSG00000197561
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1991> .
+
+ensembl:ENSG00000167323
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6786> .
+
+ensembl:ENSG00000049768
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/50943> .
+
+ensembl:ENSG00000115085
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7535> .
+
+ensembl:ENSG00000137869
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1588> .
+
+ensembl:ENSG00000185920
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5727> .
+
+ensembl:ENSG00000158887
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4359> .
+
+ensembl:ENSG00000175084
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1674> .
+
+ensembl:ENSG00000116701
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4688> .
+
+ensembl:ENSG00000005471
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5244> .
+
+ensembl:ENSG00000167986
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1642> .
+
+ensembl:ENSG00000165102
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/138050> .
+
+ensembl:ENSG00000160801
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5745> .
+
+ensembl:ENSG00000147257
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2719> .
+
+ensembl:ENSG00000128973
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/54982> .
+
+ensembl:ENSG00000197616
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4624> .
+
+ensembl:ENSG00000187790
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/57697> .
+
+ensembl:ENSG00000123191
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/540> .
+
+ensembl:ENSG00000173757
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6777> , <http://identifiers.org/ncbigene/102723386> .
+
+ensembl:ENSG00000102879
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11151> .
+
+ensembl:ENSG00000081277
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5317> .
+
+ensembl:ENSG00000164362
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7015> .
+
+ensembl:ENSG00000159023
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2035> .
+
+ensembl:ENSG00000163600
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/29851> .
+
+ensembl:ENSG00000168685
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3575> .
+
+ensembl:ENSG00000106211
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3315> .
+
+ensembl:ENSG00000102174
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5251> .
+
+ensembl:ENSG00000009830
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/29954> .
+
+ensembl:ENSG00000135100
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6927> .
+
+ensembl:ENSG00000204217
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/659> .
+
+ensembl:ENSG00000227801
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000131238
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5538> .
+
+ensembl:ENSG00000145912
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55651> .
+
+ensembl:ENSG00000175595
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2072> , <http://identifiers.org/ncbigene/102725420> .
+
+ensembl:ENSG00000107779
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/657> .
+
+ensembl:ENSG00000150753
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/22948> .
+
+ensembl:ENSG00000110719
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10312> .
+
+ensembl:ENSG00000175097
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5897> .
+
+ensembl:ENSG00000101577
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/9663> .
+
+ensembl:ENSG00000169249
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8233> .
+
+ensembl:ENSG00000048392
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/50484> .
+
+ensembl:ENSG00000105369
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/973> .
+
+ensembl:ENSG00000142748
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8547> .
+
+ensembl:ENSG00000172399
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/51778> .
+
+ensembl:ENSG00000185379
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5892> .
+
+ensembl:ENSG00000156970
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/701> .
+
+ensembl:ENSG00000154767
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7508> .
+
+ensembl:ENSG00000186575
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4771> .
+
+ensembl:ENSG00000064490
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8625> .
+
+ensembl:ENSG00000076242
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4292> .
+
+ensembl:ENSG00000121933
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/140> .
+
+ensembl:ENSG00000010404
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3423> .
+
+ensembl:ENSG00000182253
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23336> .
+
+ensembl:ENSG00000134240
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3158> .
+
+ensembl:ENSG00000011600
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7305> .
+
+ensembl:ENSG00000175198
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5095> .
+
+ensembl:ENSG00000206290
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1302> .
+
+ensembl:ENSG00000178726
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7056> .
+
+ensembl:ENSG00000163161
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2071> .
+
+ensembl:ENSG00000010671
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/695> .
+
+ensembl:ENSG00000108823
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6442> .
+
+ensembl:ENSG00000151552
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5860> .
+
+ensembl:ENSG00000144554
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2177> .
+
+ensembl:ENSG00000035403
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7414> .
+
+ensembl:ENSG00000182197
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2131> .
+
+ensembl:ENSG00000140905
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2653> , <http://identifiers.org/ncbigene/101060817> .
+
+ensembl:ENSG00000228267
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100293534> , <http://identifiers.org/ncbigene/721> .
+
+ensembl:ENSG00000204290
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000021826
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1373> , <http://identifiers.org/ncbigene/102723962> .
+
+ensembl:ENSG00000046604
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1829> .
+
+ensembl:ENSG00000143252
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6391> .
+
+ensembl:ENSG00000111199
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/59341> .
+
+ensembl:ENSG00000114054
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5096> .
+
+ensembl:ENSG00000107290
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23064> .
+
+ensembl:ENSG00000139330
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11081> .
+
+ensembl:ENSG00000068438
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/24140> .
+
+ensembl:ENSG00000072840
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2121> .
+
+ensembl:ENSG00000117305
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3155> .
+
+ensembl:ENSG00000023839
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1244> .
+
+ensembl:ENSG00000150337
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2209> .
+
+ensembl:ENSG00000108384
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5889> .
+
+ensembl:ENSG00000151067
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/775> .
+
+ensembl:ENSG00000160255
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3689> .
+
+ensembl:ENSG00000122367
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/11155> .
+
+ensembl:ENSG00000144535
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/129563> .
+
+ensembl:ENSG00000110395
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/867> .
+
+ensembl:ENSG00000102104
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6247> .
+
+ensembl:ENSG00000184058
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6899> .
+
+ensembl:ENSG00000137992
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1629> .
+
+ensembl:ENSG00000141837
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100507353> , <http://identifiers.org/ncbigene/773> .
+
+ensembl:ENSG00000180398
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/90411> .
+
+ensembl:ENSG00000106804
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/727> .
+
+ensembl:ENSG00000136487
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2689> .
+
+ensembl:ENSG00000141385
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10939> .
+
+ensembl:ENSG00000067182
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7132> .
+
+ensembl:ENSG00000160808
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4634> .
+
+ensembl:ENSG00000204414
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1444> .
+
+ensembl:ENSG00000075142
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6717> .
+
+ensembl:ENSG00000136280
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/83605> .
+
+ensembl:ENSG00000164692
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1278> .
+
+ensembl:ENSG00000180509
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102723475> , <http://identifiers.org/ncbigene/3753> .
+
+ensembl:ENSG00000163930
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8314> .
+
+ensembl:ENSG00000206561
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8292> .
+
+ensembl:ENSG00000188021
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/29978> .
+
+ensembl:ENSG00000152642
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/23171> .
+
+ensembl:ENSG00000126759
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5199> .
+
+ensembl:ENSG00000141510
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7157> .
+
+ensembl:ENSG00000270141
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7012> .
+
+ensembl:ENSG00000114270
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1294> .
+
+ensembl:ENSG00000091138
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1811> .
+
+ensembl:ENSG00000105976
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4233> .
+
+ensembl:ENSG00000104320
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4683> .
+
+ensembl:ENSG00000162614
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/91624> .
+
+ensembl:ENSG00000113263
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3702> .
+
+ensembl:ENSG00000171557
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2266> .
+
+ensembl:ENSG00000188827
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/84464> .
+
+ensembl:ENSG00000103313
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4210> .
+
+ensembl:ENSG00000085998
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55624> .
+
+ensembl:ENSG00000213614
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3073> .
+
+ensembl:ENSG00000131504
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1729> .
+
+ensembl:ENSG00000162337
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4041> .
+
+ensembl:ENSG00000078747
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/83737> .
+
+ensembl:ENSG00000170122
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2298> .
+
+ensembl:ENSG00000119401
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/22954> .
+
+ensembl:ENSG00000174886
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/126328> .
+
+ensembl:ENSG00000225412
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/56244> .
+
+ensembl:ENSG00000168610
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6774> .
+
+ensembl:ENSG00000144285
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/6323> .
+
+ensembl:ENSG00000175538
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/10008> .
+
+ensembl:ENSG00000116062
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2956> .
+
+ensembl:ENSG00000165168
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1536> .
+
+ensembl:ENSG00000124275
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4552> .
+
+ensembl:ENSG00000067836
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/79641> .
+
+ensembl:ENSG00000076351
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/113235> .
+
+ensembl:ENSG00000136689
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3557> .
+
+ensembl:ENSG00000107736
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64072> , <http://identifiers.org/ncbigene/100653137> .
+
+ensembl:ENSG00000175054
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/545> .
+
+ensembl:ENSG00000140650
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102725528> , <http://identifiers.org/ncbigene/5373> .
+
+ensembl:ENSG00000169031
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1285> .
+
+ensembl:ENSG00000026103
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/355> .
+
+ensembl:ENSG00000068976
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/102725405> , <http://identifiers.org/ncbigene/102725475> , <http://identifiers.org/ncbigene/5837> .
+
+ensembl:ENSG00000114062
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7337> .
+
+ensembl:ENSG00000181544
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2187> .
+
+ensembl:ENSG00000087053
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8898> .
+
+ensembl:ENSG00000109132
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8929> .
+
+ensembl:ENSG00000141499
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55135> .
+
+ensembl:ENSG00000161270
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4868> .
+
+ensembl:ENSG00000166710
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/567> .
+
+ensembl:ENSG00000196878
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3914> .
+
+ensembl:ENSG00000119699
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7043> .
+
+ensembl:ENSG00000118762
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5311> .
+
+ensembl:ENSG00000110680
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/796> .
+
+ensembl:ENSG00000138449
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/30061> .
+
+ensembl:ENSG00000102144
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5230> .
+
+ensembl:ENSG00000053918
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3784> .
+
+ensembl:ENSG00000119888
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4072> .
+
+ensembl:ENSG00000183161
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2188> .
+
+ensembl:ENSG00000145020
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/275> .
+
+ensembl:ENSG00000196569
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3908> .
+
+ensembl:ENSG00000198947
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1756> .
+
+ensembl:ENSG00000197299
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/641> .
+
+ensembl:ENSG00000224639
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/100293534> , <http://identifiers.org/ncbigene/721> .
+
+ensembl:ENSG00000184500
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5627> .
+
+ensembl:ENSG00000165195
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5277> .
+
+ensembl:ENSG00000169297
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/190> .
+
+ensembl:ENSG00000275300
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/64087> .
+
+ensembl:ENSG00000144455
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/285362> .
+
+ensembl:ENSG00000138375
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/101927137> , <http://identifiers.org/ncbigene/50485> .
+
+ensembl:ENSG00000170734
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/5429> .
+
+ensembl:ENSG00000100365
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4689> .
+
+ensembl:ENSG00000102245
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/959> .
+
+ensembl:ENSG00000101017
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/958> .
+
+ensembl:ENSG00000272047
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/404672> .
+
+ensembl:ENSG00000166257
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/55800> .
+
+ensembl:ENSG00000175445
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/4023> .
+
+ensembl:ENSG00000118729
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/845> .
+
+ensembl:ENSG00000096696
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/1832> .
+
+ensembl:ENSG00000187741
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2175> .
+
+ensembl:ENSG00000106991
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/2022> .
+
+ensembl:ENSG00000072506
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/3028> .
+
+ensembl:ENSG00000131323
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/7187> .
+
+ensembl:ENSG00000129170
+        ensemblterms:DIRECT  <http://identifiers.org/ncbigene/8048> .

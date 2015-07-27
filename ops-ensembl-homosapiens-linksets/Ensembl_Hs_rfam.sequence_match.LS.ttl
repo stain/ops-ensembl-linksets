@@ -1,0 +1,132 @@
+@prefix ensemblterms: <http://rdf.ebi.ac.uk/terms/ensembl/> .
+@prefix ensembl: <http://rdf.ebi.ac.uk/resource/ensembl/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+ensembl:ENSG00000252213
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00090> .
+
+ensembl:ENSG00000252047
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000221639
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00334> .
+
+ensembl:ENSG00000221083
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00599> .
+
+ensembl:ENSG00000275586
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000277677
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000206828
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00003> .
+
+ensembl:ENSG00000277948
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF02271> .
+
+ensembl:ENSG00000207484
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000252438
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00279> .
+
+ensembl:ENSG00000276178
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000207177
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00432> .
+
+ensembl:ENSG00000201944
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00139> .
+
+ensembl:ENSG00000199490
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000201957
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00402> .
+
+ensembl:ENSG00000275930
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000199959
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00410> .
+
+ensembl:ENSG00000207002
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00392> .
+
+ensembl:ENSG00000207342
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000274197
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00015> .
+
+ensembl:ENSG00000274169
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000202079
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000273591
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00100> .
+
+ensembl:ENSG00000239005
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF01225> .
+
+ensembl:ENSG00000278781
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000200385
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00406> .
+
+ensembl:ENSG00000207021
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000277313
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00100> .
+
+ensembl:ENSG00000252136
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00322> .
+
+ensembl:ENSG00000276014
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000274721
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF02039> .
+
+ensembl:ENSG00000274747
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000277233
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000275070
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000222489
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00600> .
+
+ensembl:ENSG00000239093
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF01210> .
+
+ensembl:ENSG00000200834
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000273694
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00004> .
+
+ensembl:ENSG00000212567
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00191> .
+
+ensembl:ENSG00000201388
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00263> .
+
+ensembl:ENSG00000276532
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00017> .
+
+ensembl:ENSG00000200833
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF00019> .
+
+ensembl:ENSG00000276179
+        ensemblterms:SEQUENCE_MATCH  <http://identifiers.org/rfam/RF02113> .

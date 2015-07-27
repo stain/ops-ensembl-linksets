@@ -12,7 +12,7 @@
 @prefix eco:   <http://purl.obolibrary.org/obo/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 
-<homo_sapiens-ensembl-unigene-sequence_match-linkset>
+<#homo_sapiens-ensembl-unigene-sequence_match-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with unigene for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:37.991Z"^^xsd:dateTime ;
@@ -22,7 +22,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:37.991Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_unigene.sequence_match.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_unigene.sequence_match.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:SEQUENCE_MATCH ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -33,7 +33,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-insdc-inferred_from_translation-linkset>
+<#homo_sapiens-ensembl-insdc-inferred_from_translation-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with insdc for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:44.372Z"^^xsd:dateTime ;
@@ -43,7 +43,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:44.372Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_insdc.inferred_from_translation.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_insdc.inferred_from_translation.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSLATION ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -54,7 +54,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-ena.embl-inferred_from_translation-linkset>
+<#homo_sapiens-ensembl-ena.embl-inferred_from_translation-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with ena.embl for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:39.973Z"^^xsd:dateTime ;
@@ -64,7 +64,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:39.973Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_ena.embl.inferred_from_translation.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_ena.embl.inferred_from_translation.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSLATION ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -75,7 +75,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-hgnc-direct-linkset>
+<#homo_sapiens-ensembl-hgnc-direct-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with hgnc for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:46.542Z"^^xsd:dateTime ;
@@ -85,7 +85,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:46.542Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_hgnc.direct.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_hgnc.direct.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DIRECT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -106,12 +106,12 @@
         pav:version          "77" ;
         void:dataDump        <ftp://ftp.ebi.ac.uk/pub/databases/RDF/ensembl/77/homo_sapiens_77.ttl> ;
         void:sparqlEndpoint  <http://wwwdev.ebi.ac.uk/rdf/services/ensembl/sparql> ;
-        void:subset          <homo_sapiens-ensembl-unigene-dependent-linkset> , <homo_sapiens-ensembl-refseq-inferred_from_translation-linkset> , <homo_sapiens-ensembl-pdb-inferred_from_translation-linkset> , <homo_sapiens-ensembl-rfam-direct-linkset> , <homo_sapiens-ensembl-go-inferred_from_translation-linkset> , <homo_sapiens-ensembl-refseq-inferred_from_transcript-linkset> , <homo_sapiens-ensembl-ena.embl-inferred_from_translation-linkset> , <homo_sapiens-ensembl-rfam-dependent-linkset> , <homo_sapiens-ensembl-unigene-direct-linkset> , <homo_sapiens-ensembl-rfam-sequence_match-linkset> , <homo_sapiens-ensembl-ncbigene-dependent-linkset> , <homo_sapiens-ensembl-uniprot-inferred_from_translation-linkset> , <homo_sapiens-ensembl-wikigenes-dependent-linkset> , <homo_sapiens-ensembl-hgnc-dependent-linkset> , <homo_sapiens-ensembl-wikigenes-direct-linkset> , <homo_sapiens-ensembl-unigene-sequence_match-linkset> , <homo_sapiens-ensembl-mirbase.mature-dependent-linkset> , <homo_sapiens-ensembl-mirbase.mature-misc-linkset> , <homo_sapiens-ensembl-ncbigene-direct-linkset> , <homo_sapiens-ensembl-hgnc-direct-linkset> , <homo_sapiens-ensembl-insdc-inferred_from_translation-linkset> , <homo_sapiens-ensembl-ccds-inferred_from_transcript-linkset> , <homo_sapiens-ensembl-unigene-misc-linkset> ;
+        void:subset          <#homo_sapiens-ensembl-unigene-dependent-linkset> , <homo_sapiens-ensembl-refseq-inferred_from_translation-linkset> , <homo_sapiens-ensembl-pdb-inferred_from_translation-linkset> , <homo_sapiens-ensembl-rfam-direct-linkset> , <homo_sapiens-ensembl-go-inferred_from_translation-linkset> , <homo_sapiens-ensembl-refseq-inferred_from_transcript-linkset> , <homo_sapiens-ensembl-ena.embl-inferred_from_translation-linkset> , <homo_sapiens-ensembl-rfam-dependent-linkset> , <homo_sapiens-ensembl-unigene-direct-linkset> , <homo_sapiens-ensembl-rfam-sequence_match-linkset> , <homo_sapiens-ensembl-ncbigene-dependent-linkset> , <homo_sapiens-ensembl-uniprot-inferred_from_translation-linkset> , <homo_sapiens-ensembl-wikigenes-dependent-linkset> , <homo_sapiens-ensembl-hgnc-dependent-linkset> , <homo_sapiens-ensembl-wikigenes-direct-linkset> , <homo_sapiens-ensembl-unigene-sequence_match-linkset> , <homo_sapiens-ensembl-mirbase.mature-dependent-linkset> , <homo_sapiens-ensembl-mirbase.mature-misc-linkset> , <homo_sapiens-ensembl-ncbigene-direct-linkset> , <homo_sapiens-ensembl-hgnc-direct-linkset> , <homo_sapiens-ensembl-insdc-inferred_from_translation-linkset> , <homo_sapiens-ensembl-ccds-inferred_from_transcript-linkset> , <homo_sapiens-ensembl-unigene-misc-linkset> ;
         void:uriSpace        "http://rdf.ebi.ac.uk/resource/ensembl/" ;
         dcat:landingPage     <http://www.ensembl.org/> ;
         dcat:theme           sio:SIO_010035 .
 
-<homo_sapiens-ensembl-unigene-misc-linkset>
+<#homo_sapiens-ensembl-unigene-misc-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with unigene for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:35.471Z"^^xsd:dateTime ;
@@ -121,7 +121,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:35.471Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_unigene.misc.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_unigene.misc.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:MISC ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -132,7 +132,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-go-inferred_from_translation-linkset>
+<#homo_sapiens-ensembl-go-inferred_from_translation-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with go for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:48.954Z"^^xsd:dateTime ;
@@ -142,7 +142,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:48.954Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_go.inferred_from_translation.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_go.inferred_from_translation.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSLATION ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -153,7 +153,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-rfam-dependent-linkset>
+<#homo_sapiens-ensembl-rfam-dependent-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with rfam for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:43.544Z"^^xsd:dateTime ;
@@ -163,7 +163,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:43.544Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_rfam.dependent.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_rfam.dependent.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DEPENDENT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -174,7 +174,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-refseq-inferred_from_transcript-linkset>
+<#homo_sapiens-ensembl-refseq-inferred_from_transcript-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with refseq for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:42.594Z"^^xsd:dateTime ;
@@ -184,7 +184,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:42.594Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_refseq.inferred_from_transcript.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_refseq.inferred_from_transcript.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSCRIPT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -195,7 +195,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-refseq-inferred_from_translation-linkset>
+<#homo_sapiens-ensembl-refseq-inferred_from_translation-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with refseq for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:43.214Z"^^xsd:dateTime ;
@@ -205,7 +205,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:43.214Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_refseq.inferred_from_translation.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_refseq.inferred_from_translation.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSLATION ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -216,7 +216,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-mirbase.mature-dependent-linkset>
+<#homo_sapiens-ensembl-mirbase.mature-dependent-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with mirbase.mature for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:45.723Z"^^xsd:dateTime ;
@@ -226,7 +226,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:45.723Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_mirbase.mature.dependent.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_mirbase.mature.dependent.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DEPENDENT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -237,7 +237,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-mirbase.mature-misc-linkset>
+<#homo_sapiens-ensembl-mirbase.mature-misc-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with mirbase.mature for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:45.711Z"^^xsd:dateTime ;
@@ -247,7 +247,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:45.711Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_mirbase.mature.misc.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_mirbase.mature.misc.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:MISC ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -258,7 +258,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-wikigenes-dependent-linkset>
+<#homo_sapiens-ensembl-wikigenes-dependent-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with wikigenes for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:45.898Z"^^xsd:dateTime ;
@@ -268,7 +268,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:45.898Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_wikigenes.dependent.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_wikigenes.dependent.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DEPENDENT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -279,7 +279,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-rfam-direct-linkset>
+<#homo_sapiens-ensembl-rfam-direct-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with rfam for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:43.577Z"^^xsd:dateTime ;
@@ -289,7 +289,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:43.577Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_rfam.direct.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_rfam.direct.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DIRECT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -300,7 +300,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-ncbigene-direct-linkset>
+<#homo_sapiens-ensembl-ncbigene-direct-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with ncbigene for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:42.347Z"^^xsd:dateTime ;
@@ -310,7 +310,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:42.347Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_ncbigene.direct.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_ncbigene.direct.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DIRECT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -321,7 +321,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-pdb-inferred_from_translation-linkset>
+<#homo_sapiens-ensembl-pdb-inferred_from_translation-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with pdb for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:45.47Z"^^xsd:dateTime ;
@@ -331,7 +331,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:45.47Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_pdb.inferred_from_translation.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_pdb.inferred_from_translation.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSLATION ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -342,7 +342,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-unigene-dependent-linkset>
+<#homo_sapiens-ensembl-unigene-dependent-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with unigene for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:36.479Z"^^xsd:dateTime ;
@@ -352,7 +352,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:36.479Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_unigene.dependent.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_unigene.dependent.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DEPENDENT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -363,7 +363,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-wikigenes-direct-linkset>
+<#homo_sapiens-ensembl-wikigenes-direct-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with wikigenes for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:46.118Z"^^xsd:dateTime ;
@@ -373,7 +373,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:46.118Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_wikigenes.direct.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_wikigenes.direct.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DIRECT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -384,7 +384,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-ccds-inferred_from_transcript-linkset>
+<#homo_sapiens-ensembl-ccds-inferred_from_transcript-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with ccds for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:38.407Z"^^xsd:dateTime ;
@@ -394,7 +394,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:38.407Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_ccds.inferred_from_transcript.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_ccds.inferred_from_transcript.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSCRIPT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -405,7 +405,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-ncbigene-dependent-linkset>
+<#homo_sapiens-ensembl-ncbigene-dependent-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with ncbigene for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:41.96Z"^^xsd:dateTime ;
@@ -415,7 +415,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:41.96Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_ncbigene.dependent.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_ncbigene.dependent.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DEPENDENT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -426,7 +426,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-rfam-sequence_match-linkset>
+<#homo_sapiens-ensembl-rfam-sequence_match-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with rfam for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:43.549Z"^^xsd:dateTime ;
@@ -436,7 +436,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:43.549Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_rfam.sequence_match.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_rfam.sequence_match.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:SEQUENCE_MATCH ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -447,7 +447,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-hgnc-dependent-linkset>
+<#homo_sapiens-ensembl-hgnc-dependent-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with hgnc for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:46.284Z"^^xsd:dateTime ;
@@ -457,7 +457,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:46.284Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_hgnc.dependent.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_hgnc.dependent.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DEPENDENT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -468,7 +468,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-unigene-direct-linkset>
+<#homo_sapiens-ensembl-unigene-direct-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with unigene for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:38.118Z"^^xsd:dateTime ;
@@ -478,7 +478,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:38.118Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_unigene.direct.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_unigene.direct.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:DIRECT ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;
@@ -489,7 +489,7 @@
         bdb:subjectsDatatype      sio:SIO_010035 ;
         bdb:subjectsSpecies       eco:NCBITaxon_10090 .
 
-<homo_sapiens-ensembl-uniprot-inferred_from_translation-linkset>
+<#homo_sapiens-ensembl-uniprot-inferred_from_translation-linkset>
         a                         void:Linkset ;
         dcterms:description       "A linkset which links Ensembl with uniprot for the species homo_sapiens"@en ;
         dcterms:issued            "2015-06-18T12:54:46.916Z"^^xsd:dateTime ;
@@ -499,7 +499,7 @@
         pav:createdBy             <BiGCat> ;
         pav:createdOn             "2015-06-18T12:54:46.916Z"^^xsd:dateTime ;
         pav:createdWith           <https://github.com/JonathanMELIUS/> ;
-        void:dataDump             <http://bridgedb.org/data/linksets/Ensembl_Hs_uniprot.inferred_from_translation.LS.ttl.gz> ;
+        void:dataDump             <http://bridgedb.org/data/linksets/HomoSapiens/Ensembl_Hs_uniprot.inferred_from_translation.LS.ttl.gz> ;
         void:linkPredicate        ensemblterms:INFERRED_FROM_TRANSLATION ;
         void:objectsTarget        <ensembl_homo_sapiens_rdf_dataset> ;
         void:subjectsTarget       <ensembl_homo_sapiens_rdf_dataset> ;

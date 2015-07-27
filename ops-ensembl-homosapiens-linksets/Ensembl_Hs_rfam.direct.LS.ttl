@@ -16276,3 +16276,8 @@ ensembl:ENSG00000222950
 
 ensembl:ENSG00000275133
         ensemblterms:DIRECT  <http://identifiers.org/rfam/RF02220> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-rfam-direct-linkset> .

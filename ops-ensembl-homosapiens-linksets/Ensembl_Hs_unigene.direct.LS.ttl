@@ -4558,3 +4558,10 @@ ensembl:ENSG00000131828
 
 ensembl:ENSG00000123096
         ensemblterms:DIRECT  <http://identifiers.org/unigene/Hs.733056> , <http://identifiers.org/unigene/Hs.736914> , <http://identifiers.org/unigene/Hs.733413> , <http://identifiers.org/unigene/Hs.183428> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-unigene-direct-linkset> .
+
+

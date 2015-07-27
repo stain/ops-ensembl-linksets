@@ -75789,3 +75789,9 @@ ensembl:ENSG00000104870
 ensembl:ENSG00000243480
         ensemblterms:INFERRED_FROM_TRANSCRIPT
                 <http://identifiers.org/ccds/CCDS783> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-ccds-inferred_from_transcript-linkset> .
+

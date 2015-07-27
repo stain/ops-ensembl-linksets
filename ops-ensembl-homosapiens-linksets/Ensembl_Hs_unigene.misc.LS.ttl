@@ -4,3 +4,9 @@
 
 ensembl:ENSG00000266712
         ensemblterms:MISC  <http://identifiers.org/unigene/Hs.306823> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-unigene-misc-linkset> .
+

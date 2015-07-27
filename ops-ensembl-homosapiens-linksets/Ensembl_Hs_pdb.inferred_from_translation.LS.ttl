@@ -22689,3 +22689,9 @@ ensembl:ENSG00000023902
 ensembl:ENSG00000012061
         ensemblterms:INFERRED_FROM_TRANSLATION
                 <http://identifiers.org/pdb/2JNW> , <http://identifiers.org/pdb/2A1J> , <http://identifiers.org/pdb/2A1I> , <http://identifiers.org/pdb/1Z00> , <http://identifiers.org/pdb/2JPD> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-pdb-inferred_from_translation-linkset> .
+

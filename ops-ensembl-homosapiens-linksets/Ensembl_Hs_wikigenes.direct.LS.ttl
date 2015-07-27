@@ -2101,3 +2101,9 @@ ensembl:ENSG00000131323
 
 ensembl:ENSG00000129170
         ensemblterms:DIRECT  <http://identifiers.org/wikigenes/8048> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-wikigenes-direct-linkset> .
+

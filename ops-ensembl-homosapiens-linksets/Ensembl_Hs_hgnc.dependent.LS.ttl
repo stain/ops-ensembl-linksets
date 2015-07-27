@@ -76060,3 +76060,9 @@ ensembl:ENSG00000214087
 
 ensembl:ENSG00000102241
         ensemblterms:DEPENDENT  <http://identifiers.org/hgnc/HGNC:5276> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-hgnc-dependent-linkset> .
+

@@ -36304,3 +36304,9 @@ ensembl:ENSG00000214283
 
 ensembl:ENSG00000271197
         ensemblterms:DIRECT  <http://identifiers.org/hgnc/HGNC:5493> .
+
+
+
+@prefix void: <http://rdfs.org/ns/void#> .
+<> void:inDataset <Ensembl_Hs_dataset.void.ttl#homo_sapiens-ensembl-hgnc-direct-linkset> .
+

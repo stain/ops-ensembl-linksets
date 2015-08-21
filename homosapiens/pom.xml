@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.openphacts.data</groupId>
     <artifactId>ops-ensembl-linksets</artifactId>
-    <version>77.2015-06-18-SNAPSHOT</version>
+    <version>77.2015-08-20-SNAPSHOT</version>
   </parent>
   <artifactId>ops-ensembl-homosapiens-linksets</artifactId>
   <packaging>jar</packaging>
